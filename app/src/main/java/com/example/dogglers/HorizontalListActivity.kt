@@ -40,5 +40,8 @@ class HorizontalListActivity : AppCompatActivity() {
 
         // Enable up button for backward navigation
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
+
+
+
     }
 }
