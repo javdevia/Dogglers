@@ -1,0 +1,875 @@
+08-16 10:12:37.553  7774  7836 I TestRunner: started: horizontal_list_button_is_displayed(com.example.dogglers.ButtonTests)
+08-16 10:12:37.554  8174  8678 E Cloud[13.2.0.303]Base.BaseUtil: isAppInstalled exception: android.content.pm.PackageManager$NameNotFoundException: com.huawei.contacts
+08-16 10:12:37.555  8174  8174 I Cloud[13.2.0.303]Sync.ObserverManager: initContext
+08-16 10:12:37.555  8174  8678 E Cloud[13.2.0.303]Base.BaseUtil: isAppInstalled exception: android.content.pm.PackageManager$NameNotFoundException: com.huawei.mms
+08-16 10:12:37.556  8174  8619 I SecurityComp10200303: SX509TM: checkServerTrusted begin,size=2,authType=GENERIC
+08-16 10:12:37.556  8174  8678 E Cloud[13.2.0.303]Base.BaseUtil: isAppInstalled exception: android.content.pm.PackageManager$NameNotFoundException: com.huawei.mms
+08-16 10:12:37.556  8174  8678 E Cloud[13.2.0.303]Base.BaseUtil: isAppInstalled exception: android.content.pm.PackageManager$NameNotFoundException: com.huawei.contacts
+08-16 10:12:37.559  7774  7836 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+08-16 10:12:37.560  8174  8619 I SecurityComp10200303: SX509TM: check server i=0
+08-16 10:12:37.560  8174  8678 E Cloud[13.2.0.303]Base.BaseUtil: isAppInstalled exception: android.content.pm.PackageManager$NameNotFoundException: com.huawei.calendar
+08-16 10:12:37.560  8174  8683 I Cloud[13.2.0.303]Base.SettingsCheckTask: SettingsCheckTask overtime: 6834523
+08-16 10:12:37.560  8174  8678 E Cloud[13.2.0.303]Base.BaseUtil: isAppInstalled exception: android.content.pm.PackageManager$NameNotFoundException: com.huawei.notepad
+08-16 10:12:37.560  8174  8619 I SecurityComp10200303: SX509TM: client root ca size=1
+08-16 10:12:37.561  8174  8174 I Cloud[13.2.0.303]Sync.ObserverManager: unRegisterRecordingScheduler
+08-16 10:12:37.561  8174  8174 I Cloud[13.2.0.303]Base.BaseUtil: Application.getProcessName:com.huawei.hidisk
+08-16 10:12:37.561  8174  8174 E Cloud[13.2.0.303]Sync.CloudSyncManager: init file backup native service err: java.lang.reflect.InvocationTargetException
+08-16 10:12:37.561  8174  8678 E Cloud[13.2.0.303]Base.BaseUtil: isAppInstalled exception: android.content.pm.PackageManager$NameNotFoundException: com.huawei.deskclock
+08-16 10:12:37.561  8174  8678 E Cloud[13.2.0.303]Base.BaseUtil: isAppInstalled exception: android.content.pm.PackageManager$NameNotFoundException: com.huawei.deskclock
+08-16 10:12:37.562  8174  8678 E Cloud[13.2.0.303]Base.BaseUtil: isAppInstalled exception: android.content.pm.PackageManager$NameNotFoundException: com.huawei.calendar
+08-16 10:12:37.562  8174  8678 E Cloud[13.2.0.303]Base.BaseUtil: isAppInstalled exception: android.content.pm.PackageManager$NameNotFoundException: com.huawei.photos
+08-16 10:12:37.564  8174  8174 I Cloud[13.2.0.303]Finder.PhoneFinderManager: init
+08-16 10:12:37.564  8174  8174 I Cloud[13.2.0.303]Base.BaseUtil: Application.getProcessName:com.huawei.hidisk
+08-16 10:12:37.565  1636  1963 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:37.567  1636  1636 D HwConnectivityManagerImpl: getNetworkPolicyFlag flagStr null
+08-16 10:12:37.567  8174  8685 I Cloud[13.2.0.303]Base.BaseUtil: read local config str success
+08-16 10:12:37.571  8360  8360 I Cloud[13.2.0.303]Sync.PowerConnectJobService: PowerConnectJobService onStartJob
+08-16 10:12:37.571  8360  8360 I Cloud[13.2.0.303]Sync.PowerConnectJobService: doPowerConnectJob isAgreeTerms: true
+08-16 10:12:37.571  8174  8685 W Cloud[13.2.0.303]Sync.SyncRetryObserverManager: retryOMParam is null no retry
+08-16 10:12:37.572  8174  8619 E SecurityComp10200303: SX509TM: checkServerTrusted error :Chain validation failed , time : 0
+08-16 10:12:37.572  8174  8619 E SecurityComp10200303: SX509TM: root ca issuer : CN=Huawei CBG Root CA, OU=Huawei CBG, O=Huawei, C=CN
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: NetworkKit_GRS_RequestController-Task_1 -->NetworkKit_GRS_RequestController-Task_2|network.grs.g.f|249|RequestCallableV2 run task catch IOException
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: javax.net.ssl.SSLHandshakeException: C*a*n*v*l*d*t*o* *a*l*d
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.org.conscrypt.ConscryptFileDescriptorSocket.startHandshake(ConscryptFileDescriptorSocket.java:231)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.okhttp.internal.io.RealConnection.connectTls(RealConnection.java:196)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.okhttp.internal.io.RealConnection.connectSocket(RealConnection.java:153)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.okhttp.internal.io.RealConnection.connect(RealConnection.java:116)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.okhttp.internal.http.StreamAllocation.findConnection(StreamAllocation.java:186)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.okhttp.internal.http.StreamAllocation.findHealthyConnection(StreamAllocation.java:128)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.okhttp.internal.http.StreamAllocation.newStream(StreamAllocation.java:97)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.okhttp.internal.http.HttpEngine.connect(HttpEngine.java:289)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: Caused by: java.security.cert.CertificateException: C*a*n*v*l*d*t*o* *a*l*d
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.verifyChain(TrustManagerImpl.java:721)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.checkTrustedRecursive(TrustManagerImpl.java:551)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.checkTrustedRecursive(TrustManagerImpl.java:572)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.checkTrustedRecursive(TrustManagerImpl.java:617)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.checkTrusted(TrustManagerImpl.java:507)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.checkServerTrusted(TrustManagerImpl.java:335)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at android.security.net.config.NetworkSecurityTrustManager.checkServerTrusted(NetworkSecurityTrustManager.java:113)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at android.security.net.config.NetworkSecurityTrustManager.checkServerTrusted(NetworkSecurityTrustManager.java:87)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at android.security.net.config.RootTrustManager.checkServerTrusted(RootTrustManager.java:117)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.huawei.secure.android.common.ssl.SecureX509TrustManager.checkServerTrusted(SourceFile:23)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.org.conscrypt.Platform.checkServerTrusted(Platform.java:228)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.org.conscrypt.ConscryptFileDescriptorSocket.verifyCertificateChain(ConscryptFileDescriptorSocket.java:407)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.org.conscrypt.NativeCrypto.SSL_do_handshake(Native Method)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.org.conscrypt.NativeSsl.doHandshake(NativeSsl.java:387)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.org.conscrypt.ConscryptFileDescriptorSocket.startHandshake(ConscryptFileDescriptorSocket.java:226)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.okhttp.internal.io.RealConnection.connectTls(RealConnection.java:196)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.okhttp.internal.io.RealConnection.connectSocket(RealConnection.java:153)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.okhttp.internal.io.RealConnection.connect(RealConnection.java:116)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.okhttp.internal.http.StreamAllocation.findConnection(StreamAllocation.java:186)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.okhttp.internal.http.StreamAllocation.findHealthyConnection(StreamAllocation.java:128)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: Caused by: java.security.cert.CertPathValidatorException: t*m*s*a*p*c*e*k*f*i*e*
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at sun.security.provider.certpath.PKIXMasterCertPathValidator.validate(PKIXMasterCertPathValidator.java:135)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at sun.security.provider.certpath.PKIXCertPathValidator.validate(PKIXCertPathValidator.java:222)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at sun.security.provider.certpath.PKIXCertPathValidator.validate(PKIXCertPathValidator.java:140)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at sun.security.provider.certpath.PKIXCertPathValidator.engineValidate(PKIXCertPathValidator.java:79)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at java.security.cert.CertPathValidator.validate(CertPathValidator.java:301)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.verifyChain(TrustManagerImpl.java:717)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.checkTrustedRecursive(TrustManagerImpl.java:551)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.checkTrustedRecursive(TrustManagerImpl.java:572)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.checkTrustedRecursive(TrustManagerImpl.java:617)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.checkTrusted(TrustManagerImpl.java:507)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.checkServerTrusted(TrustManagerImpl.java:335)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at android.security.net.config.NetworkSecurityTrustManager.checkServerTrusted(NetworkSecurityTrustManager.java:113)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at android.security.net.config.NetworkSecurityTrustManager.checkServerTrusted(NetworkSecurityTrustManager.java:87)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at android.security.net.config.RootTrustManager.checkServerTrusted(RootTrustManager.java:117)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.huawei.secure.android.common.ssl.SecureX509TrustManager.checkServerTrusted(SourceFile:23)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.org.conscrypt.Platform.checkServerTrusted(Platform.java:228)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.org.conscrypt.ConscryptFileDescriptorSocket.verifyCertificateChain(ConscryptFileDescriptorSocket.java:407)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.org.conscrypt.NativeCrypto.SSL_do_handshake(Native Method)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.org.conscrypt.NativeSsl.doHandshake(NativeSsl.java:387)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.org.conscrypt.ConscryptFileDescriptorSocket.startHandshake(ConscryptFileDescriptorSocket.java:226)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: Caused by: java.security.cert.CertificateExpiredException: C*r*i*i*a*e*e*p*r*d*a* *r* *a* *3*0*:*0*1* *M*-*3*0* *0*3*(*o*p*r*d*t* *e* *u* *6*1*:*2*3* *M*-*4*0* *0*3*
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.org.conscrypt.OpenSSLX509Certificate.checkValidity(OpenSSLX509Certificate.java:268)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at sun.security.provider.certpath.BasicChecker.verifyTimestamp(BasicChecker.java:194)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at sun.security.provider.certpath.BasicChecker.check(BasicChecker.java:144)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at sun.security.provider.certpath.PKIXMasterCertPathValidator.validate(PKIXMasterCertPathValidator.java:125)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at sun.security.provider.certpath.PKIXCertPathValidator.validate(PKIXCertPathValidator.java:222)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at sun.security.provider.certpath.PKIXCertPathValidator.validate(PKIXCertPathValidator.java:140)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at sun.security.provider.certpath.PKIXCertPathValidator.engineValidate(PKIXCertPathValidator.java:79)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at java.security.cert.CertPathValidator.validate(CertPathValidator.java:301)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.verifyChain(TrustManagerImpl.java:717)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.checkTrustedRecursive(TrustManagerImpl.java:551)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.checkTrustedRecursive(TrustManagerImpl.java:572)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.checkTrustedRecursive(TrustManagerImpl.java:617)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.checkTrusted(TrustManagerImpl.java:507)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.checkServerTrusted(TrustManagerImpl.java:335)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at android.security.net.config.NetworkSecurityTrustManager.checkServerTrusted(NetworkSecurityTrustManager.java:113)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at android.security.net.config.NetworkSecurityTrustManager.checkServerTrusted(NetworkSecurityTrustManager.java:87)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at android.security.net.config.RootTrustManager.checkServerTrusted(RootTrustManager.java:117)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.huawei.secure.android.common.ssl.SecureX509TrustManager.checkServerTrusted(SourceFile:23)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.org.conscrypt.Platform.checkServerTrusted(Platform.java:228)
+08-16 10:12:37.574  8174  8619 W NetworkKit_f: 	at com.android.org.conscrypt.ConscryptFileDescriptorSocket.verifyCertificateChain(ConscryptFileDescriptorSocket.java:407)
+08-16 10:12:37.575  8174  8619 I NetworkKit_f: NetworkKit_GRS_RequestController-Task_1 -->NetworkKit_GRS_RequestController-Task_2|network.grs.g.f|10|Post call execute
+08-16 10:12:37.575  1636  2127 I HWRME LIBHWRME_CLIENT: ResMngMmEvent interface arg 0, 10431
+08-16 10:12:37.577   664  1311 W /system/bin/netd: A binder object at 0x7903947f40 is being transacted on, however, this object is in the same process as its proxy. Transacting with this binder is expensive compared to just calling the corresponding functionality in the same process.
+08-16 10:12:37.577  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: begin getBackupModuleInfo
+08-16 10:12:37.580  1636  1963 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:37.582  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupV3Utils: last success record is null.
+08-16 10:12:37.584  8360  8639 I SecurityComp10200303: SX509TM: checkServerTrusted begin,size=2,authType=GENERIC
+08-16 10:12:37.584  1046  1070 D AwareLog: iawared: WorkingsetProcessCommand subCmd = 352, userId=10431, pid=7774, com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+08-16 10:12:37.584  1046  1070 D AwareLog: iawared: WorkingsetStop com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+08-16 10:12:37.585  8360  8639 I SecurityComp10200303: SX509TM: check server i=0
+08-16 10:12:37.585  1046  1070 D AwareLog: iawared: WorkingsetProcessCommand subCmd = 350, userId=10431, pid=7774, com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+08-16 10:12:37.585  1046  1070 D AwareLog: iawared: WorkingsetSendPrereadMsg com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+08-16 10:12:37.586  1046  1070 D AwareLog: iawared: WorkingsetStart com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity in monitor0
+08-16 10:12:37.586  8360  8639 I SecurityComp10200303: SX509TM: client root ca size=1
+08-16 10:12:37.588  2661  5454 E DollieActivityManagerAdapter: HwActivityNotifierEx null uid
+08-16 10:12:37.589  3386  7832 I HiAdKit.DC.PageSwitchEvent:  switch is off
+08-16 10:12:37.589  3386  7832 I HiAdKit.DC.PaymentPageSwitchEvent:  switch is off
+08-16 10:12:37.589  3386  7832 I HiAdKit.DC.LiteAppPageSwitchEvent:  switch is off
+08-16 10:12:37.596  2690  3438 I AppFastHibernation: rev F_Z exception for visible pkg: com.example.dogglers
+08-16 10:12:37.597  1636  2127 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:37.598  1636  1653 D ZrHung.AppEyeFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+08-16 10:12:37.598  1636  1653 D ZrHung.AppEyeTransparentWindow: TransparentWindow cancelCheckFreezeScreen
+08-16 10:12:37.598  7774  7774 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@73cee03
+08-16 10:12:37.598  2661 21890 I Hicom_Monitor: mAppSwitchNotifierEx. uid: 10431, foreground app: com.example.dogglers, foreground activity: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+08-16 10:12:37.599  2661  5454 I AssistantService-11.2.1.200: registerHwActivityNotifier call fromPackage:com.huawei.android.launcher, toPackage:com.example.dogglers
+08-16 10:12:37.599  2661  6711 D AssistantService-11.2.1.200: handleMessage app switch fromPackage:com.huawei.android.launcher, toPackage:com.example.dogglers
+08-16 10:12:37.599  3386  7833 I HiAdKit.DC.PersistentMessageCenter:  notifyMessage com.huawei.hwid_app_switch_from_to_intent
+08-16 10:12:37.601  8174  8174 I Cloud[13.2.0.303]Finder.LocateTrackEventManager: PhoneFinder onAppStart task add
+08-16 10:12:37.601  8174  8690 I Cloud[13.2.0.303]Finder.LocateTrackEventManager: PhoneFinder onAppStart start task
+08-16 10:12:37.602  1636  1663 E system_server: Invalid ID 0x00000000.
+08-16 10:12:37.602  2661  3071 D DollieActivityManagerAdapter: [Paused] pid:2730 uid:10065 ComponentInfo{com.huawei.android.launcher/com.huawei.android.launcher.unihome.UniHomeLauncher} uidState:2
+08-16 10:12:37.603  1636  1663 I DecorView[dogglers]: pkgName:com.example.dogglers old windowMode:0 new windoMode:1, isFixedSize:false
+08-16 10:12:37.603  2690  3310 D ScenarioService: front pkg : com.example.dogglers launcher: false
+08-16 10:12:37.603  2690  3310 D ScenarioService: new above launcher front pkgs: [com.example.dogglers]
+08-16 10:12:37.603  2690  3310 I AppsUsage: scnOff:false FgAPP:com.example.dogglers BgAPP:com.huawei.android.launcher
+08-16 10:12:37.603  8360  8639 E SecurityComp10200303: SX509TM: checkServerTrusted error :Chain validation failed , time : 0
+08-16 10:12:37.604  1636  1663 D MouseWheelSynthesizer: mMoveStepInDp: 64, mMoveStepInPixel: 192, mUpTimeDelayed: 100
+08-16 10:12:37.604  1636  1663 D ViewRootImpl: ViewRootImpl mIsInProductivePCDisplay: false
+08-16 10:12:37.604  1636  1663 I HwPCUtils#HwRioViewManager: check if rio enable, displayId = 0， packageName = com.example.dogglers
+08-16 10:12:37.604  8360  8639 E SecurityComp10200303: SX509TM: root ca issuer : CN=Huawei CBG Root CA, OU=Huawei CBG, O=Huawei, C=CN
+08-16 10:12:37.605  1636  1636 D HwConnectivityManagerImpl: getNetworkPolicyFlag flagStr null
+08-16 10:12:37.605  3386  7832 I HiAdKit.DC.PageSwitchEvent:  switch is off
+08-16 10:12:37.606  3386  7832 I HiAdKit.DC.PaymentPageSwitchEvent:  switch is off
+08-16 10:12:37.606  3386  7832 I HiAdKit.DC.LiteAppPageSwitchEvent:  switch is off
+08-16 10:12:37.606  2690  3438 I PG_ash  : front pkg : com.example.dogglers
+08-16 10:12:37.606  2690  3646 I PGServer: report state:10010 event type:2 pid:0 uid:0 pkg:com.huawei.android.launcher to pid: 2690
+08-16 10:12:37.606  2690  3646 I SceneReceiver: state type: 10010 eventType:2 pid:0 uid:0 pkg:com.huawei.android.launcher
+08-16 10:12:37.606  2690  3646 I PGServer: report state:10010 event type:2 pid:0 uid:0 pkg:com.huawei.android.launcher to pid: 1636
+08-16 10:12:37.606  2690  3646 I PGServer: report state:10000 event type:1 pid:0 uid:0 pkg:com.example.dogglers to pid: 2690
+08-16 10:12:37.606  2690  3646 I SceneReceiver: state type: 10000 eventType:1 pid:0 uid:0 pkg:com.example.dogglers
+08-16 10:12:37.607  1636  1663 D InputEventReceiver: dispatchInputInterval 1000000
+08-16 10:12:37.607  2661  3353 W Hicom_XEngineProc: handleForegroundAppChanged. Feature is not enable.
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: NetworkKit_GRS_RequestController-Task_1 -->NetworkKit_GRS_RequestController-Task_2|network.grs.g.f|249|RequestCallableV2 run task catch IOException
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: javax.net.ssl.SSLHandshakeException: C*a*n*v*l*d*t*o* *a*l*d
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.org.conscrypt.ConscryptFileDescriptorSocket.startHandshake(ConscryptFileDescriptorSocket.java:231)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.okhttp.internal.io.RealConnection.connectTls(RealConnection.java:196)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.okhttp.internal.io.RealConnection.connectSocket(RealConnection.java:153)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.okhttp.internal.io.RealConnection.connect(RealConnection.java:116)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.okhttp.internal.http.StreamAllocation.findConnection(StreamAllocation.java:186)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.okhttp.internal.http.StreamAllocation.findHealthyConnection(StreamAllocation.java:128)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.okhttp.internal.http.StreamAllocation.newStream(StreamAllocation.java:97)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.okhttp.internal.http.HttpEngine.connect(HttpEngine.java:289)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: Caused by: java.security.cert.CertificateException: C*a*n*v*l*d*t*o* *a*l*d
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.verifyChain(TrustManagerImpl.java:721)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.checkTrustedRecursive(TrustManagerImpl.java:551)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.checkTrustedRecursive(TrustManagerImpl.java:572)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.checkTrustedRecursive(TrustManagerImpl.java:617)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.checkTrusted(TrustManagerImpl.java:507)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.checkServerTrusted(TrustManagerImpl.java:335)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at android.security.net.config.NetworkSecurityTrustManager.checkServerTrusted(NetworkSecurityTrustManager.java:113)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at android.security.net.config.NetworkSecurityTrustManager.checkServerTrusted(NetworkSecurityTrustManager.java:87)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at android.security.net.config.RootTrustManager.checkServerTrusted(RootTrustManager.java:117)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.huawei.secure.android.common.ssl.SecureX509TrustManager.checkServerTrusted(SourceFile:23)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.org.conscrypt.Platform.checkServerTrusted(Platform.java:228)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.org.conscrypt.ConscryptFileDescriptorSocket.verifyCertificateChain(ConscryptFileDescriptorSocket.java:407)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.org.conscrypt.NativeCrypto.SSL_do_handshake(Native Method)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.org.conscrypt.NativeSsl.doHandshake(NativeSsl.java:387)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.org.conscrypt.ConscryptFileDescriptorSocket.startHandshake(ConscryptFileDescriptorSocket.java:226)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.okhttp.internal.io.RealConnection.connectTls(RealConnection.java:196)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.okhttp.internal.io.RealConnection.connectSocket(RealConnection.java:153)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.okhttp.internal.io.RealConnection.connect(RealConnection.java:116)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.okhttp.internal.http.StreamAllocation.findConnection(StreamAllocation.java:186)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.okhttp.internal.http.StreamAllocation.findHealthyConnection(StreamAllocation.java:128)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: Caused by: java.security.cert.CertPathValidatorException: t*m*s*a*p*c*e*k*f*i*e*
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at sun.security.provider.certpath.PKIXMasterCertPathValidator.validate(PKIXMasterCertPathValidator.java:135)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at sun.security.provider.certpath.PKIXCertPathValidator.validate(PKIXCertPathValidator.java:222)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at sun.security.provider.certpath.PKIXCertPathValidator.validate(PKIXCertPathValidator.java:140)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at sun.security.provider.certpath.PKIXCertPathValidator.engineValidate(PKIXCertPathValidator.java:79)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at java.security.cert.CertPathValidator.validate(CertPathValidator.java:301)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.verifyChain(TrustManagerImpl.java:717)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.checkTrustedRecursive(TrustManagerImpl.java:551)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.checkTrustedRecursive(TrustManagerImpl.java:572)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.checkTrustedRecursive(TrustManagerImpl.java:617)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.checkTrusted(TrustManagerImpl.java:507)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.checkServerTrusted(TrustManagerImpl.java:335)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at android.security.net.config.NetworkSecurityTrustManager.checkServerTrusted(NetworkSecurityTrustManager.java:113)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at android.security.net.config.NetworkSecurityTrustManager.checkServerTrusted(NetworkSecurityTrustManager.java:87)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at android.security.net.config.RootTrustManager.checkServerTrusted(RootTrustManager.java:117)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.huawei.secure.android.common.ssl.SecureX509TrustManager.checkServerTrusted(SourceFile:23)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.org.conscrypt.Platform.checkServerTrusted(Platform.java:228)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.org.conscrypt.ConscryptFileDescriptorSocket.verifyCertificateChain(ConscryptFileDescriptorSocket.java:407)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.org.conscrypt.NativeCrypto.SSL_do_handshake(Native Method)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.org.conscrypt.NativeSsl.doHandshake(NativeSsl.java:387)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.org.conscrypt.ConscryptFileDescriptorSocket.startHandshake(ConscryptFileDescriptorSocket.java:226)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: Caused by: java.security.cert.CertificateExpiredException: C*r*i*i*a*e*e*p*r*d*a* *r* *a* *3*0*:*0*1* *M*-*3*0* *0*3*(*o*p*r*d*t* *e* *u* *6*1*:*2*3* *M*-*4*0* *0*3*
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.org.conscrypt.OpenSSLX509Certificate.checkValidity(OpenSSLX509Certificate.java:268)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at sun.security.provider.certpath.BasicChecker.verifyTimestamp(BasicChecker.java:194)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at sun.security.provider.certpath.BasicChecker.check(BasicChecker.java:144)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at sun.security.provider.certpath.PKIXMasterCertPathValidator.validate(PKIXMasterCertPathValidator.java:125)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at sun.security.provider.certpath.PKIXCertPathValidator.validate(PKIXCertPathValidator.java:222)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at sun.security.provider.certpath.PKIXCertPathValidator.validate(PKIXCertPathValidator.java:140)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at sun.security.provider.certpath.PKIXCertPathValidator.engineValidate(PKIXCertPathValidator.java:79)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at java.security.cert.CertPathValidator.validate(CertPathValidator.java:301)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.verifyChain(TrustManagerImpl.java:717)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.checkTrustedRecursive(TrustManagerImpl.java:551)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.checkTrustedRecursive(TrustManagerImpl.java:572)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.checkTrustedRecursive(TrustManagerImpl.java:617)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.checkTrusted(TrustManagerImpl.java:507)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.org.conscrypt.TrustManagerImpl.checkServerTrusted(TrustManagerImpl.java:335)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at android.security.net.config.NetworkSecurityTrustManager.checkServerTrusted(NetworkSecurityTrustManager.java:113)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at android.security.net.config.NetworkSecurityTrustManager.checkServerTrusted(NetworkSecurityTrustManager.java:87)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at android.security.net.config.RootTrustManager.checkServerTrusted(RootTrustManager.java:117)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.huawei.secure.android.common.ssl.SecureX509TrustManager.checkServerTrusted(SourceFile:23)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.org.conscrypt.Platform.checkServerTrusted(Platform.java:228)
+08-16 10:12:37.608  8360  8639 W NetworkKit_f: 	at com.android.org.conscrypt.ConscryptFileDescriptorSocket.verifyCertificateChain(ConscryptFileDescriptorSocket.java:407)
+08-16 10:12:37.608  2690  3646 I ApsAppsTypeHandler: APS: APK: ApsAppsTypeHandler.getInstance, sInstance = com.huawei.android.hwaps.o@92bda0
+08-16 10:12:37.608  2690  3310 I ScenarioService: app focus change from: com.huawei.android.launcher to:com.example.dogglers
+08-16 10:12:37.608  2690  3310 I ScenarioService: add focus on app:com.example.dogglers to visiblePkgs
+08-16 10:12:37.609  2624 10575 I iconnect:BluetoothApi: adapter status 12
+08-16 10:12:37.609  2690  3646 I PGServer: report state:10000 event type:1 pid:0 uid:0 pkg:com.example.dogglers to pid: 1636
+08-16 10:12:37.609  2624 10575 I iconnect:NearbyDeviceDetect: isPropEnable=true, isBluetoothEnabled=true, isScreenOn=true, isNotSpecialAppOnTop=true, scanCondition=0
+08-16 10:12:37.609  8360  8639 I NetworkKit_f: NetworkKit_GRS_RequestController-Task_1 -->NetworkKit_GRS_RequestController-Task_2|network.grs.g.f|10|Post call execute
+08-16 10:12:37.609  2690  4743 I PGServer: checkPkgType. calling pkg: android
+08-16 10:12:37.609  2624 10575 I iconnect:DeviceStateMachineManager: report:NOT_SPECIAL_APP_ON_TOP device:D
+08-16 10:12:37.609  2624 10575 I iconnect:DeviceStateMachineManager: Return exist stateMachine
+08-16 10:12:37.609  2690  4743 I PGServer: checkPkgType. calling pkg: android
+08-16 10:12:37.610  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@ec87180 in: PRE_ON_CREATE
+08-16 10:12:37.610  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@ec87180
+08-16 10:12:37.612   664  1311 W /system/bin/netd: A binder object at 0x7903947f40 is being transacted on, however, this object is in the same process as its proxy. Transacting with this binder is expensive compared to just calling the corresponding functionality in the same process.
+08-16 10:12:37.613  1636  2649 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:37.617  1636  8694 D HiTouch_PressGestureDetector: onAttached, package=com.example.dogglers, windowType=3, mIsHiTouchRestricted=false
+08-16 10:12:37.618  1636  1636 D HwConnectivityManagerImpl: getNetworkPolicyFlag flagStr null
+08-16 10:12:37.622   753  1072 D AudioPolicyService: getUidState(10104) !cacheIter->second.first, return PROCESS_STATE_UNKNOWN
+08-16 10:12:37.622   753  1072 D AudioPolicyService: getUidState(10431) cacheIter->second.first, return cacheIter->second.second(5)
+08-16 10:12:37.625  7774  7774 I DecorView[]: pkgName:com.example.dogglers old windowMode:0 new windoMode:1, isFixedSize:false
+08-16 10:12:37.625  7774  7774 I RmeSchedManager: init Rme, version is: v1.0
+08-16 10:12:37.627  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@ec87180 in: CREATED
+08-16 10:12:37.627  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@ec87180
+08-16 10:12:37.629  2690  4739 I PGServer: getTopFrontApp. calling pkg: android
+08-16 10:12:37.630  1636 15589 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:37.633  2208  2208 D ImageWallpaper: wallpaper visibility changes to: false
+08-16 10:12:37.635  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@ec87180 in: STARTED
+08-16 10:12:37.635  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@ec87180
+08-16 10:12:37.644  2661 21890 E DollieActivityManagerAdapter: HwActivityNotifierEx null uid
+08-16 10:12:37.644  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@ec87180 in: RESUMED
+08-16 10:12:37.644  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@ec87180
+08-16 10:12:37.645  3386  7833 I HiAdKit.DC.PageSwitchEvent:  switch is off
+08-16 10:12:37.645  3386  7833 I HiAdKit.DC.PaymentPageSwitchEvent:  switch is off
+08-16 10:12:37.645  3386  7833 I HiAdKit.DC.LiteAppPageSwitchEvent:  switch is off
+08-16 10:12:37.646   665   665 D Zygote  : Forked child process 8696
+08-16 10:12:37.646  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@ec87180 in: PAUSED
+08-16 10:12:37.646  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@ec87180
+08-16 10:12:37.647  1046  1070 D AwareLog: iawared: WorkingsetProcessCommand subCmd = 352, userId=10431, pid=7774, com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+08-16 10:12:37.647  1636  1963 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:37.647  1046  1070 D AwareLog: iawared: WorkingsetStop com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+08-16 10:12:37.647  2661  1440 I Hicom_Monitor: mActivityNotifierEx, className = androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity, uid = 10431
+08-16 10:12:37.647  1046  1070 D AwareLog: iawared: WorkingsetProcessCommand subCmd = 350, userId=10431, pid=7774, com.example.dogglers/.MainActivity
+08-16 10:12:37.647 26909 26909 I HiBoard_22.0.8.300_Workspace: onWindowVisibilityChanged：8 isOverlayClosed:true
+08-16 10:12:37.647  1046  1070 D AwareLog: iawared: WorkingsetSendPrereadMsg com.example.dogglers/.MainActivity
+08-16 10:12:37.647  1046  1070 D AwareLog: iawared: WorkingsetStart com.example.dogglers/.MainActivity in monitor0
+08-16 10:12:37.647  6225  9809 I CAWARENESS_AppUsageManager: onEvent, packageName=com.example.dogglers, activityName=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+08-16 10:12:37.647  6225  9809 I CAWARENESS_AppUsageManager: fuse currently and delay publish
+08-16 10:12:37.648  3386  7816 I HiAdKit.DC.PageSwitchEvent:  switch is off
+08-16 10:12:37.648  3386  7816 I HiAdKit.DC.PaymentPageSwitchEvent:  switch is off
+08-16 10:12:37.648  3386  7816 I HiAdKit.DC.LiteAppPageSwitchEvent:  switch is off
+08-16 10:12:37.649  2661  3071 D DollieActivityManagerAdapter: [Resumed] bg:true pid:7774 uid:10431 ComponentInfo{com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity}
+08-16 10:12:37.649  1046  1070 D AwareLog: iawared: fg_hl_ctl update fgUid=10431 g_isGame=0
+08-16 10:12:37.649   757   993 W BufferQueueProducer: [com.huawei.android.launcher/com.huawei.android.launcher.unihome.UniHomeLauncher#0]:1390: disconnect: not connected (req=1)
+08-16 10:12:37.649  2730  3112 W libEGL  : EGLNativeWindowType 0x766bce6450 disconnect failed
+08-16 10:12:37.650  2661  3071 E DollieAdapterService: notifyActivityState pkg:com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity state:2 fg:true mUid:10431
+08-16 10:12:37.652  2661  3071 I ConnCureStateMonitor: handleMessage: msg[2]
+08-16 10:12:37.652  2661  3071 I HwPacketFilterBypass: handleActivityUidStateChanged uid:10431 -1 foreground:1
+08-16 10:12:37.652  2661  3071 I OllieMsgCenter: publishEvt=2135097351
+08-16 10:12:37.653  8360  8360 I Cloud[13.2.0.303]Base.BaseUtil: Application.getProcessName:com.huawei.android.ds
+08-16 10:12:37.653   664 24580 I OemNetd : setNetBoosterAppUid(10431, 2000)
+08-16 10:12:37.653  2661  3071 I OllieMsgCenter: publishEvt=2130771969
+08-16 10:12:37.653  2661  3071 I OllieMsgCenter: publishEvt=2130771985
+08-16 10:12:37.654  1636  1963 D HwConnectivityManagerImpl: startappqoednscollection action =0timer =1000
+08-16 10:12:37.655  8360  8360 I Cloud[13.2.0.303]Base.BaseUtil: Application.getProcessName:com.huawei.android.ds
+08-16 10:12:37.656  8360  8360 I Cloud[13.2.0.303]Base.BaseUtil: Application.getProcessName:com.huawei.android.ds
+08-16 10:12:37.656  2661  3071 I SpeedTestNotifier: Speed test app is back Activity
+08-16 10:12:37.657  8696  8696 E i.hidisk:remot: LoadAppImageStartupCache enabled : 1
+08-16 10:12:37.658  8083  8315 I HwApiCacheMangerEx: apicache path=/storage/emulated/0 state=mounted key=com.android.gallery3d#10028#512
+08-16 10:12:37.658  8083  8315 I HwApiCacheMangerEx: need clear apicache,because volumes changed,oldCnt=1 newCnt=1
+08-16 10:12:37.658  8696  8696 I i.hidisk:remot: Reinit property: dalvik.vm.checkjni= false
+08-16 10:12:37.659  2661  3071 I OllieMsgCenter: publishEvt=2134966274
+08-16 10:12:37.659  2661  3071 I OllieMsgCenter: publishEvt=2135097350
+08-16 10:12:37.659  8696  8696 I i.hidisk:remot: ReInitProperties: persist.vm.debug.dumpapi= false
+08-16 10:12:37.660   757   992 W BufferQueueProducer: [com.huawei.intelligent.Workspace#0]:1390: disconnect: not connected (req=1)
+08-16 10:12:37.661  7774  7774 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@996675f
+08-16 10:12:37.661  8057  8281 I ConnectivityManager: requestNetwork and the calling app is: com.google.android.youtube
+08-16 10:12:37.662 26909 27098 W libEGL  : EGLNativeWindowType 0x7637d99f90 disconnect failed
+08-16 10:12:37.663  1636  2918 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:37.665  2730  2730 D RtgSchedIpcFile: setCommandByIoctl failed ret:-1, cmdid:22, errno:103
+08-16 10:12:37.665  8696  8696 E i.hidisk:remot: Not starting debugger since process cannot load the jdwp agent.
+08-16 10:12:37.665  2730  2730 W HwLauncher: StateManager Launcher in state:NormalState{9d6631 ordinal = 0,mContainerType = 1,mIsOverviewUi = false}, mConfig.mCurrentAnimationSet == null
+08-16 10:12:37.665  2730  2730 I HwLauncher: Launcher Icon:53 Widget:2 Folder:6 Icon in folder:103, in drawer:0
+08-16 10:12:37.666  2730  2730 D RtgSchedIpcFile: setCommandByIoctl failed ret:-1, cmdid:23, errno:103
+08-16 10:12:37.666  2730  2730 D DecorView: showOrHideHighlightView: hasFocus=false; winMode=1; isMrgNull=true
+08-16 10:12:37.667  2730  3022 E AbilityFormViewRefreshUtils: stopListening [0ms]
+08-16 10:12:37.671  1636  2056 D WifiNetworkFactory: got request NetworkRequest [ TRACK_DEFAULT id=8184, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10104 DNN:  SSCMODE: 0 SNSSAI:  PduSessionType: 0 RouteBitmap: 0] ] with score 50 and serial 4
+08-16 10:12:37.671  1636  2056 D UntrustedWifiNetworkFactory: got request NetworkRequest [ TRACK_DEFAULT id=8184, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10104 DNN:  SSCMODE: 0 SNSSAI:  PduSessionType: 0 RouteBitmap: 0] ] with score 50 and serial 4
+08-16 10:12:37.671  1636  2147 D Ethernet: got request NetworkRequest [ TRACK_DEFAULT id=8184, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10104 DNN:  SSCMODE: 0 SNSSAI:  PduSessionType: 0 RouteBitmap: 0] ] with score 50 and serial 4
+08-16 10:12:37.671  2661  3071 D DsduChr : uid=10431, isTrafficFree=false, isUsingFreeTraffic=false
+08-16 10:12:37.672  2713  2713 D PhoneSwitcherNetworkRequstListener: got request NetworkRequest [ TRACK_DEFAULT id=8184, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10104 DNN:  SSCMODE: 0 SNSSAI:  PduSessionType: 0 RouteBitmap: 0] ] with score 50 and serial 4
+08-16 10:12:37.672  2713  2713 D VoWifiFactory: got request NetworkRequest [ TRACK_DEFAULT id=8184, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10104 DNN:  SSCMODE: 0 SNSSAI:  PduSessionType: 0 RouteBitmap: 0] ] with score 50 and serial 4
+08-16 10:12:37.672  2713  2713 D PhoneSwitcherNetworkRequstListener: got request NetworkRequest [ TRACK_DEFAULT id=8184, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10104 DNN:  SSCMODE: 0 SNSSAI:  PduSessionType: 0 RouteBitmap: 0] ] with score 50 and serial 4
+08-16 10:12:37.674  7774  7774 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@4e41a7b in: PRE_ON_CREATE
+08-16 10:12:37.674  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+08-16 10:12:37.675  8360  8622 I Cloud[13.2.0.303]Sync.CloudBackupConfigOperator: dsStartMainProcessPolicy exist:false
+08-16 10:12:37.676  8360  8622 W Cloud[13.2.0.303]Sync.CloudSpaceProxyImp: dsStartMainProcessPolicy config not exist
+08-16 10:12:37.676  2580 23377 I OPCollectLog: AppChangeImpl:call onAppChange.
+08-16 10:12:37.677  2580  6962 I OPCollectLog: HwForegroundAppAction:handleMessage
+08-16 10:12:37.677  2580  6962 D OPCollectLog: HwForegroundAppAction:FG executeWithArgs
+08-16 10:12:37.677  2580  6962 I OPCollectLog: OPCollectUtils:ODMF Api Version:2.16.3
+08-16 10:12:37.677  2580  6962 I OPCollectLog: Action:HwForegroundAppAction executed successfully
+08-16 10:12:37.677  2580  6962 D OPCollectLog: OdmfCollectScheduler:handleMessage msg: 4
+08-16 10:12:37.677  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache 1
+08-16 10:12:37.677  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache curTime: 574931772, interval: 582
+08-16 10:12:37.678  1636  2012 W AwareLog: SchedLevelBoost: onFgActivitiesChanged config not set!
+08-16 10:12:37.678  2661  3071 D DollieActivityManagerAdapter: [Paused] pid:7774 uid:10431 ComponentInfo{com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity} uidState:2
+08-16 10:12:37.679  1021 21809 D ITouchService: itouch stylusCurrentPkgName = com.example.dogglers lastOneFramePkgName =
+08-16 10:12:37.679  1021 21809 D ITouchService: itouch currentPackageName = com.example.dogglers
+08-16 10:12:37.679  1021 21809 D ITouchService: itouch appType=-1 appState=1 gameMode=2
+08-16 10:12:37.679  1021 21809 D ITouchService: itouchReaderMonitor empty
+08-16 10:12:37.679  1021 21809 D ITouchService: g_itouch_reader_monitor Monitor::IsReaderMonitorEnable()=0
+08-16 10:12:37.679  1021 21809 D ITouchService: itouch getCurrentParmID tempPkg=com.example.xxx
+08-16 10:12:37.679  1021 21809 D ITouchService: itouch:app com.example.dogglers is  not game app
+08-16 10:12:37.679  1021 21809 D ITouchService: itouch:app com.example.dogglers is  not in StylusPenList
+08-16 10:12:37.679  1021 21809 D ITouchService: itouch:styluspen_switch is disable
+08-16 10:12:37.679  1021 21809 D ITouchService: itouch:currentAppTypeName =|UNKNOWN|
+08-16 10:12:37.679  3386  7832 I HiAdKit.DC.PageSwitchEvent:  switch is off
+08-16 10:12:37.680  1636  2918 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:37.681  3386  7832 I HiAdKit.DC.PaymentPageSwitchEvent:  switch is off
+08-16 10:12:37.681  3386  7832 I HiAdKit.DC.LiteAppPageSwitchEvent:  switch is off
+08-16 10:12:37.686  2580  6962 I OPCollectLog: OdmfHelper:isCharging: true
+08-16 10:12:37.686  8174  8174 I Cloud[13.2.0.303]Finder.UnlockScreenReceiver: init
+08-16 10:12:37.688  7774  7774 I DecorView[]: pkgName:com.example.dogglers old windowMode:0 new windoMode:1, isFixedSize:false
+08-16 10:12:37.689  2580  6962 I OPCollectLog: OdmfHelper:insert database success
+08-16 10:12:37.689  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache size: 1
+08-16 10:12:37.689  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache lastTime: 574931784
+08-16 10:12:37.693   664 24580 I OemNetd : setChrAppUid(10, 10431)
+08-16 10:12:37.698   753  5802 D AudioPolicyService: getUidState(10175) cacheIter->second.first, return cacheIter->second.second(4)
+08-16 10:12:37.698  7774  7774 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@4e41a7b in: CREATED
+08-16 10:12:37.698   753  5802 D AudioPolicyService: getUidState(10173) cacheIter->second.first, return cacheIter->second.second(4)
+08-16 10:12:37.698   753  5802 D AudioPolicyService: getUidState(10065) cacheIter->second.first, return cacheIter->second.second(2)
+08-16 10:12:37.698   753  5802 D AudioPolicyService: getUidState(10063) cacheIter->second.first, return cacheIter->second.second(5)
+08-16 10:12:37.698  7774  7774 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.dogglers.MainActivity@4e41a7b
+08-16 10:12:37.698  1636  1964 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:37.699  7774  7774 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@4e41a7b in: STARTED
+08-16 10:12:37.699  7774  7774 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.dogglers.MainActivity@4e41a7b
+08-16 10:12:37.700  8057  8723 I ConnectivityManager: requestNetwork and the calling app is: com.google.android.youtube
+08-16 10:12:37.700  2661  3071 D DollieActivityManagerAdapter: [UidStateChanged]  uid:10065 uidState:6
+08-16 10:12:37.700  2661  3071 E DollieAdapterService: notifyActivityState pkg:com.huawei.android.launcher/com.huawei.android.launcher.unihome.UniHomeLauncher state:6 fg:false mUid:10065
+08-16 10:12:37.701  7774  7774 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@4e41a7b in: RESUMED
+08-16 10:12:37.701  7774  7774 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.dogglers.MainActivity@4e41a7b
+08-16 10:12:37.701  2661  3071 I OllieMsgCenter: publishEvt=2130771969
+08-16 10:12:37.702  7774  7774 D MouseWheelSynthesizer: mMoveStepInDp: 64, mMoveStepInPixel: 192, mUpTimeDelayed: 100
+08-16 10:12:37.703  7774  7774 D ViewRootImpl: ViewRootImpl mIsInProductivePCDisplay: false
+08-16 10:12:37.703  1636  2504 I HwPCUtils#HwRioViewManager: check if rio enable, displayId = 0， packageName = com.example.dogglers
+08-16 10:12:37.703  2208  2208 D BarTransitions.HwPhoneStatusBarView: MODE_TRANSPARENT -> MODE_OPAQUE animate=false
+08-16 10:12:37.703  1636  2147 D Ethernet: got request NetworkRequest [ TRACK_DEFAULT id=8185, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10104 DNN:  SSCMODE: 0 SNSSAI:  PduSessionType: 0 RouteBitmap: 0] ] with score 50 and serial 4
+08-16 10:12:37.703  2208  2208 D BarTransitions.HwPhoneStatusBarView: applyModeBackground oldMode=MODE_TRANSPARENT newMode=MODE_OPAQUE animate=false
+08-16 10:12:37.704  2661  3071 I OllieMsgCenter: publishEvt=2134966274
+08-16 10:12:37.704  2208  2208 D BarTransitions.HwNavigationBarView: MODE_TRANSPARENT -> MODE_OPAQUE animate=false
+08-16 10:12:37.704  2208  2208 D BarTransitions.HwNavigationBarView: applyModeBackground oldMode=MODE_TRANSPARENT newMode=MODE_OPAQUE animate=false
+08-16 10:12:37.704  1636  2056 D WifiNetworkFactory: got request NetworkRequest [ TRACK_DEFAULT id=8185, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10104 DNN:  SSCMODE: 0 SNSSAI:  PduSessionType: 0 RouteBitmap: 0] ] with score 50 and serial 4
+08-16 10:12:37.704  1636  2056 D UntrustedWifiNetworkFactory: got request NetworkRequest [ TRACK_DEFAULT id=8185, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10104 DNN:  SSCMODE: 0 SNSSAI:  PduSessionType: 0 RouteBitmap: 0] ] with score 50 and serial 4
+08-16 10:12:37.705  2713  2713 D PhoneSwitcherNetworkRequstListener: got request NetworkRequest [ TRACK_DEFAULT id=8185, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10104 DNN:  SSCMODE: 0 SNSSAI:  PduSessionType: 0 RouteBitmap: 0] ] with score 50 and serial 4
+08-16 10:12:37.705  2713  2713 D PhoneSwitcherNetworkRequstListener: got request NetworkRequest [ TRACK_DEFAULT id=8185, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10104 DNN:  SSCMODE: 0 SNSSAI:  PduSessionType: 0 RouteBitmap: 0] ] with score 50 and serial 4
+08-16 10:12:37.706  8696  8717 D HwFrameworkSecurityPartsFactory: HwFrameworkSecurityPartsFactory in.
+08-16 10:12:37.706  8696  8717 I HwFrameworkSecurityPartsFactory: add HwFrameworkSecurityPartsFactory to memory.
+08-16 10:12:37.708  7774  7774 D InputEventReceiver: dispatchInputInterval 1000000
+08-16 10:12:37.709  2690  3310 I ScenarioService: refresh visibleApp:[com.example.dogglers]
+08-16 10:12:37.709  2690  3310 I PGServer: report state:14 event type:1 pid:-1 uid:-1 pkg:com.example.dogglers to pid: 2690
+08-16 10:12:37.709  2690  3310 I ApsAppsTypeHandler: APS: APK: ApsAppsTypeHandler.getInstance, sInstance = com.huawei.android.hwaps.o@92bda0
+08-16 10:12:37.709  2690  3310 I PF_API_JNI: ACCKIT_APS_NotifyInfo 3: com.example.dogglers
+08-16 10:12:37.709  2690  3438 I PG_ash  : com.huawei.android.launcher become invisible
+08-16 10:12:37.710   754  2646 D ACCKIT_ : pack:"com.example.dogglers"
+08-16 10:12:37.710  1636  2012 W AwareLog: SchedLevelBoost: onFgActivitiesChanged config not set!
+08-16 10:12:37.710  2661  5454 I Hicom_Monitor: mActivityNotifierEx, className = com.example.dogglers.MainActivity, uid = 10431
+08-16 10:12:37.710  2661  3071 D DollieActivityManagerAdapter: [Resumed] bg:false pid:7774 uid:10431 ComponentInfo{com.example.dogglers/com.example.dogglers.MainActivity}
+08-16 10:12:37.711  2661  3071 E DollieAdapterService: notifyActivityState pkg:com.example.dogglers/com.example.dogglers.MainActivity state:2 fg:true mUid:10431
+08-16 10:12:37.710  6225  9809 I CAWARENESS_AppUsageManager: onEvent, packageName=com.example.dogglers, activityName=com.example.dogglers.MainActivity
+08-16 10:12:37.711  2661  3071 I OllieMsgCenter: publishEvt=2130771985
+08-16 10:12:37.711  6225  9809 I CAWARENESS_AppUsageManager: fuse currently and delay publish
+08-16 10:12:37.712  3386  7833 I HiAdKit.DC.PageSwitchEvent:  switch is off
+08-16 10:12:37.712  3386  7833 I HiAdKit.DC.PaymentPageSwitchEvent:  switch is off
+08-16 10:12:37.713  1636 15589 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:37.714  3386  7833 I HiAdKit.DC.LiteAppPageSwitchEvent:  switch is off
+08-16 10:12:37.715  2580 23377 I OPCollectLog: AppChangeImpl:call onAppChange.
+08-16 10:12:37.715  2580  6962 I OPCollectLog: HwForegroundAppAction:handleMessage
+08-16 10:12:37.715  2580  6962 D OPCollectLog: HwForegroundAppAction:FG executeWithArgs
+08-16 10:12:37.715  2580  6962 I OPCollectLog: OPCollectUtils:ODMF Api Version:2.16.3
+08-16 10:12:37.716  2580  6962 I OPCollectLog: Action:HwForegroundAppAction executed successfully
+08-16 10:12:37.716  2580  6962 D OPCollectLog: OdmfCollectScheduler:handleMessage msg: 4
+08-16 10:12:37.716  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache 1
+08-16 10:12:37.716  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache curTime: 574931811, interval: 27
+08-16 10:12:37.716  8057  8543 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+08-16 10:12:37.717  2580  6962 I OPCollectLog: OdmfHelper:isCharging: true
+08-16 10:12:37.720  7774  8769 D HiTouch_PressGestureDetector: onAttached, package=com.example.dogglers, windowType=1, mIsHiTouchRestricted=false
+08-16 10:12:37.724  8696  8696 D ApplicationLoaders: createClassLoader zip: /system/framework/org.apache.http.legacy.jar librarySearchPath: /data/app/com.huawei.hidisk-N-BeAadWhfDbE6xgzV3cDQ==/lib/arm64:/data/app/com.huawei.hidisk-N-BeAadWhfDbE6xgzV3cDQ==/base.apk!/lib/arm64-v8a:/system/lib64:/hw_product/lib64:/system/product/lib64:/prets/lib64 libraryPermittedPath: /data/user/0/com.huawei.hidisk:/data/app/com.huawei.hidisk-N-BeAadWhfDbE6xgzV3cDQ==:/system/lib64:/hw_product/lib64:/system/product/lib64:/prets/lib64 parent: java.lang.BootClassLoader@c9fb617 targetSdkVersion: 29 isBundled: true classLoaderName: null sharedLibraries: null
+08-16 10:12:37.725  1636  1660 D HwPhoneWindowManager: Transact:setSystemUIColor to status bar service
+08-16 10:12:37.725  1636  2813 D ZrHung.AppEyeFocusWindow: FocusWindowErrorScene cancelCheckFreezeScreen
+08-16 10:12:37.725  1636  2813 D ZrHung.AppEyeTransparentWindow: TransparentWindow mHungConfigStatus = 0,mHungConfigEnable = 1
+08-16 10:12:37.726  8696  8696 I i.hidisk:remot: The ClassLoaderContext is a special shared library.
+08-16 10:12:37.727  7774  7850 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+08-16 10:12:37.729  1636 15589 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:37.733  8696  8696 D ApplicationLoaders: createClassLoader zip: /data/app/com.huawei.hidisk-N-BeAadWhfDbE6xgzV3cDQ==/base.apk librarySearchPath: /data/app/com.huawei.hidisk-N-BeAadWhfDbE6xgzV3cDQ==/lib/arm64:/data/app/com.huawei.hidisk-N-BeAadWhfDbE6xgzV3cDQ==/base.apk!/lib/arm64-v8a:/system/lib64:/hw_product/lib64:/system/product/lib64:/prets/lib64 libraryPermittedPath: /data/user/0/com.huawei.hidisk:/data/app/com.huawei.hidisk-N-BeAadWhfDbE6xgzV3cDQ==:/system/lib64:/hw_product/lib64:/system/product/lib64:/prets/lib64 parent: java.lang.BootClassLoader@c9fb617 targetSdkVersion: 29 isBundled: true classLoaderName: null sharedLibraries: [dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/org.apache.http.legacy.jar"],nativeLibraryDirectories=[/data/app/com.huawei.hidisk-N-BeAadWhfDbE6xgzV3cDQ==/lib/arm64, /data/app/com.huawei.hidisk-N-BeAadWhfDbE6xgzV3cDQ==/base.apk!/lib/arm64-v8a, /system/lib64, /hw_product/lib64, /system/product/lib64, /prets/lib64, /system/lib64, /hw_product/lib64, /system/product/lib64, /prets/lib64]]]]
+08-16 10:12:37.743  8174  8174 I Cloud[13.2.0.303]Base.BaseUtil: Application.getProcessName:com.huawei.hidisk
+08-16 10:12:37.744  1636  1677 I ActivityTaskManager: Displayed com.example.dogglers/.MainActivity: +168ms
+08-16 10:12:37.746  7774  7774 D DecorView: showOrHideHighlightView: hasFocus=true; winMode=1; isMrgNull=true
+08-16 10:12:37.746  1636  1653 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:37.746  7774  7774 W InputMethodManager: startInputReason = 1
+08-16 10:12:37.746  7774  7774 W HwRemoteInputMethodManager: isCasting false because IHwDistributedWindowManager is invalid.
+08-16 10:12:37.749  2580  6962 I OPCollectLog: OdmfHelper:insert database success
+08-16 10:12:37.749  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache size: 1
+08-16 10:12:37.749  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache lastTime: 574931844
+08-16 10:12:37.749  8696  8696 W i.hidisk:remot: JIT profile information will not be recorded: profile file does not exits.
+08-16 10:12:37.750  8360  8360 I Cloud[13.2.0.303]Base.BaseUtil: Application.getProcessName:com.huawei.android.ds
+08-16 10:12:37.752  7774  7774 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view view.getId() is <2131230943/com.example.dogglers:id/horizontal_btn>
+08-16 10:12:37.752  8174  8174 I Cloud[13.2.0.303]Album.CloudAlbumSettings: isEnableCPULoadReductionPlus false
+08-16 10:12:37.754  8174  8525 I Cloud[13.2.0.303]Album.AlbumUtil: begin isSupportDisableAndResumeV2
+08-16 10:12:37.754  2315  2315 E FullInputEventModel: onStartInput event aborted: fk.c0: could not obtain extracted text (class fk.c0)
+08-16 10:12:37.755  8174  8525 E Cloud[13.2.0.303]Base.BaseUtil: isAppInstalled exception: android.content.pm.PackageManager$NameNotFoundException: com.huawei.photos
+08-16 10:12:37.755  2713  2713 D VoWifiFactory: got request NetworkRequest [ TRACK_DEFAULT id=8185, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10104 DNN:  SSCMODE: 0 SNSSAI:  PduSessionType: 0 RouteBitmap: 0] ] with score 50 and serial 4
+08-16 10:12:37.755  8174  8775 I Cloud[13.2.0.303]Finder.AntiTheftInf: isAntiTheftSupported  = true
+08-16 10:12:37.755  8174  8776 I HwApiCacheMangerEx: apicache path=/storage/emulated/0 state=mounted key=com.huawei.hidisk#5513#256
+08-16 10:12:37.756  8174  8776 I HwApiCacheMangerEx: need clear apicache,because volumes changed,oldCnt=1 newCnt=1
+08-16 10:12:37.757  8174  8525 I Cloud[13.2.0.303]Album.AlbumUtil: albumFeatureSwitch obj null
+08-16 10:12:37.758  8174  8525 I Cloud[13.2.0.303]Album.AlbumUtil: begin isSupportDisableAndResume
+08-16 10:12:37.758  2730  3203 I HwLauncher: LocalTaskList loadTasksInBackground:3 numTasks:3 currentUserId:0
+08-16 10:12:37.758  8174  8525 I Cloud[13.2.0.303]Album.AlbumUtil: currentGalleryVersion: 11.0.19.400
+08-16 10:12:37.760  8174  8776 I HwApiCacheMangerEx: apicache path=/storage/emulated/0 state=mounted key=com.huawei.hidisk#5513#0
+08-16 10:12:37.760  8174  8776 I HwApiCacheMangerEx: need clear apicache,because volumes changed,oldCnt=1 newCnt=1
+08-16 10:12:37.760  8696  8696 I i.hidisk:remot: QarthPatchMonintor::Run
+08-16 10:12:37.761  2661  5454 D HwAntiTheftService_jni: NativeRead enter!
+08-16 10:12:37.761  2661  5454 D HwAntiTheftService_jni: enter NativeRead, type is 2!
+08-16 10:12:37.761  8174  8776 E Cloud[13.2.0.303]Album.FileHelper: uuid is null
+08-16 10:12:37.763  1636  1963 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:37.763  8174  8776 E Cloud[13.2.0.303]Album.FileHelper: uuid is null
+08-16 10:12:37.764  8696  8717 I HwApiCacheMangerEx: apicache path=/storage/emulated/0 state=mounted key=com.huawei.hidisk#5513#256
+08-16 10:12:37.764  8696  8717 I HwApiCacheMangerEx: need clear apicache,because volumes changed,oldCnt=0 newCnt=1
+08-16 10:12:37.765  8696  8717 I HwApiCacheMangerEx: apicache path=/storage/emulated/0 state=mounted key=com.huawei.hidisk#5513#0
+08-16 10:12:37.765  8696  8717 I HwApiCacheMangerEx: need clear apicache,because volumes changed,oldCnt=1 newCnt=1
+08-16 10:12:37.769  8174  8525 I Cloud[13.2.0.303]Album.AlbumUtil: galleryDisableVersion: 11.0.19.400
+08-16 10:12:37.769  8174  8525 I Cloud[13.2.0.303]Album.AlbumUtil: galleryDisableVersion not change, galleryDisableSupport: true
+08-16 10:12:37.770  8696  8696 I Cloud[13.2.0.303]Sync.MainApplication: attachBaseContext
+08-16 10:12:37.771  8174  8174 I Cloud[13.2.0.303]Album.CallbackHelper: init
+08-16 10:12:37.771  1046  1070 D AwareLog: iawared: WorkingsetProcessCommand subCmd = 352, userId=10431, pid=7774, com.example.dogglers/.MainActivity
+08-16 10:12:37.771  1046  1070 D AwareLog: iawared: WorkingsetStop com.example.dogglers/.MainActivity
+08-16 10:12:37.772  1046  1070 D AwareLog: iawared: WorkingsetProcessCommand subCmd = 350, userId=10431, pid=7774, com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+08-16 10:12:37.772  1046  1070 D AwareLog: iawared: WorkingsetSendPrereadMsg com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+08-16 10:12:37.772  1046  1070 D AwareLog: iawared: WorkingsetStart com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity in monitor0
+08-16 10:12:37.773  7774  7774 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@4e41a7b in: PAUSED
+08-16 10:12:37.774  8174  8174 I Cloud[13.2.0.303]Base.BaseUtil: Application.getProcessName:com.huawei.hidisk
+08-16 10:12:37.774  7774  7774 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.dogglers.MainActivity@4e41a7b
+08-16 10:12:37.775   741   782 D huawei_antiTheft: AntitheftManagerInit enter!
+08-16 10:12:37.777  1636  2918 D StubTelephonyRegistry: uid:10104 pid:8057 PhoneStateListener.LISTEN_CELL_LOCATION:16 events:1
+08-16 10:12:37.777  1636  1653 D ZrHung.AppEyeFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+08-16 10:12:37.777  1636  1653 D ZrHung.AppEyeTransparentWindow: TransparentWindow cancelCheckFreezeScreen
+08-16 10:12:37.779  8174  8174 I Cloud[13.2.0.303]Base.BaseUtil: current device mScreenMode: -1
+08-16 10:12:37.779  8174  8174 I Cloud[13.2.0.303]Sync.CloudBackupOperator: cloud backup checked change, result = true
+08-16 10:12:37.779  1636  2504 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:37.780  8174  8174 I Cloud[13.2.0.303]Sync.CloudBackupManager: currentVersionCode = 130200303 lastVersionCode = 130200303, dsSpContainsValue: true
+08-16 10:12:37.781  7774  7774 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@603180b
+08-16 10:12:37.781  2661  3071 D DollieActivityManagerAdapter: [Paused] pid:7774 uid:10431 ComponentInfo{com.example.dogglers/com.example.dogglers.MainActivity} uidState:2
+08-16 10:12:37.780  8174  8174 I Cloud[13.2.0.303]Sync.CloudBackupJobManager: stop cloud backup observer service.
+08-16 10:12:37.783   741   782 D huawei_antiTheft: TEEC_InitializeContext end!
+08-16 10:12:37.784  3386  7816 I HiAdKit.DC.PageSwitchEvent:  switch is off
+08-16 10:12:37.784  3386  7816 I HiAdKit.DC.PaymentPageSwitchEvent:  switch is off
+08-16 10:12:37.784  3386  7816 I HiAdKit.DC.LiteAppPageSwitchEvent:  switch is off
+08-16 10:12:37.785  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@426c6e8 in: PRE_ON_CREATE
+08-16 10:12:37.785  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@426c6e8
+08-16 10:12:37.786   741   782 D huawei_antiTheft: TEEC_OpenSession start
+08-16 10:12:37.789   753  5802 D AudioPolicyService: getUidState(99581) cacheIter->second.first, return cacheIter->second.second(5)
+08-16 10:12:37.791  8174  8174 I Cloud[13.2.0.303]Sync.ICBUtil: com.huawei.android.ds : true
+08-16 10:12:37.792  7774  7774 I DecorView[]: pkgName:com.example.dogglers old windowMode:0 new windoMode:1, isFixedSize:false
+08-16 10:12:37.791  8174  8174 I Cloud[13.2.0.303]Sync.CloudBackupDsProviderManager: notifyDsRestoreTimer main
+08-16 10:12:37.793  8696  8717 I HwPartIawareFactory: add android.common.HwPartIawareFactoryImpl to memory.
+08-16 10:12:37.793  2690  3310 I AppManager: dependence has been existed:8057 -> 25853
+08-16 10:12:37.793  8696  8717 I AwareBitmapCacher: init processName:com.huawei.hidisk:remote pid=8696 uid=5513
+08-16 10:12:37.793  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@426c6e8 in: CREATED
+08-16 10:12:37.791  8174  8526 I Cloud[13.2.0.303]Sync.CloudBackupDsProviderManager: notifyDsRestoreTimer isRegister: false ,delaytime: 0
+08-16 10:12:37.793  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@426c6e8
+08-16 10:12:37.794  8174  8526 I Cloud[13.2.0.303]Base.BaseUtil: provider packageName is: com.huawei.hidisk
+08-16 10:12:37.794  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@426c6e8 in: STARTED
+08-16 10:12:37.794  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@426c6e8
+08-16 10:12:37.796  8174  8174 I Cloud[13.2.0.303]Base.BaseUtil: current device mScreenMode: -1
+08-16 10:12:37.797  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@426c6e8 in: RESUMED
+08-16 10:12:37.797  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@426c6e8
+08-16 10:12:37.798  8360  8360 I Cloud[13.2.0.303]Sync.OriginCycleChecker: backup interval millis = 1692195157750, lastSuccessTime: 0, backupCycle: 7
+08-16 10:12:37.798  8360  8360 I Cloud[13.2.0.303]Base.BaseUtil: Application.getProcessName:com.huawei.android.ds
+08-16 10:12:37.798  8174  8663 I Cloud[13.2.0.303]Base.HiAnalyticsUtil: hiAnalyticsURL or useID is empty
+08-16 10:12:37.798  8360  8360 I Cloud[13.2.0.303]Sync.CloudBackupConditionsUtil: isMainProcess is false, nextBackupTime = 86400000, lastFailedTime = 1691614649509, lastSuccessTime: 0, retryInterval: 40
+08-16 10:12:37.798  7774  7774 D MouseWheelSynthesizer: mMoveStepInDp: 64, mMoveStepInPixel: 192, mUpTimeDelayed: 100
+08-16 10:12:37.799  8360  8360 I Cloud[13.2.0.303]Base.BaseUtil: Application.getProcessName:com.huawei.android.ds
+08-16 10:12:37.799  7774  7774 D ViewRootImpl: ViewRootImpl mIsInProductivePCDisplay: false
+08-16 10:12:37.799  8360  8360 I Cloud[13.2.0.303]Sync.CloudBackupConditionsUtil: isMainProcess is false, nextBackupTime = 86400000, lastFailedTime = 1691614649509, lastSuccessTime: 0
+08-16 10:12:37.799  8360  8360 I Cloud[13.2.0.303]Base.BaseUtil: Application.getProcessName:com.huawei.android.ds
+08-16 10:12:37.799  8360  8360 I Cloud[13.2.0.303]Sync.CloudBackupConditionsUtil: isMainProcess is false, getTargetBackupTime, isCycleSatisfy: true, isRetryIntervalSatisfy: false, isNextBackupTimeSatisfy: true, nextBackupTime: 86400000, targetBackupTime: 1691617049509
+08-16 10:12:37.799  8360  8360 I Cloud[13.2.0.303]Sync.CloudBackupConditionsUtil: target backup time = 1691617049509, advancedDelayTime: -578108290
+08-16 10:12:37.799  8174  8174 I Cloud[13.2.0.303]Sync.CloudBackupJobManager: registerAllBackupScheduler isAgreeTerms: true, isChecked: true
+08-16 10:12:37.799  1636 15277 I HwPCUtils#HwRioViewManager: check if rio enable, displayId = 0， packageName = com.example.dogglers
+08-16 10:12:37.799  8174  8174 I Cloud[13.2.0.303]Sync.CloudBackupJobManager: begin register all backup scheduler
+08-16 10:12:37.799  8360  8360 I Cloud[13.2.0.303]Sync.CloudBackupJobManager: unRegisterBackupScheduler
+08-16 10:12:37.799  8174  8174 I Cloud[13.2.0.303]Sync.CloudBackupJobManager: unRegisterPowerConnectScheduler
+08-16 10:12:37.801  1636  1653 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:37.803  7774  7774 D InputEventReceiver: dispatchInputInterval 1000000
+08-16 10:12:37.804  8696  8696 I Cloud[13.2.0.303]Sync.MainApplication: Rom Version: 27
+08-16 10:12:37.805  2661 21890 I Hicom_Monitor: mActivityNotifierEx, className = androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity, uid = 10431
+08-16 10:12:37.806  2661  3071 D DollieActivityManagerAdapter: [Resumed] bg:false pid:7774 uid:10431 ComponentInfo{com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity}
+08-16 10:12:37.806  2661  3071 E DollieAdapterService: notifyActivityState pkg:com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity state:2 fg:true mUid:10431
+08-16 10:12:37.806  2661  3071 I OllieMsgCenter: publishEvt=2130771985
+08-16 10:12:37.807  8174  8174 I Cloud[13.2.0.303]Sync.CloudBackupJobManager: unRegisterNotifyScheduler
+08-16 10:12:37.807  8360  8360 I Cloud[13.2.0.303]Base.BaseUtil: current device mScreenMode: -1
+08-16 10:12:37.808  3386  7832 I HiAdKit.DC.PageSwitchEvent:  switch is off
+08-16 10:12:37.808  3386  7832 I HiAdKit.DC.PaymentPageSwitchEvent:  switch is off
+08-16 10:12:37.808  3386  7832 I HiAdKit.DC.LiteAppPageSwitchEvent:  switch is off
+08-16 10:12:37.808  6225  9809 I CAWARENESS_AppUsageManager: onEvent, packageName=com.example.dogglers, activityName=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+08-16 10:12:37.808  6225  9809 I CAWARENESS_AppUsageManager: fuse currently and delay publish
+08-16 10:12:37.810  7774  8792 D HiTouch_PressGestureDetector: onAttached, package=com.example.dogglers, windowType=1, mIsHiTouchRestricted=false
+08-16 10:12:37.810  8174  8640 I SecurityComp10200303: SSLFNew: createSocket
+08-16 10:12:37.810  8174  8640 I SecurityComp10200303: SSLFNew: set default protocols
+08-16 10:12:37.810  8174  8640 I SecurityComp10200303: SSLFNew: set default cipher
+08-16 10:12:37.811  8696  8696 I LanguagePlugin_b: com.huawei.hidisk is application
+08-16 10:12:37.811  8696  8696 I LanguagePlugin_d: locale:es
+08-16 10:12:37.811  8696  8696 I LanguagePlugin_InstallLanguageStrategy: start languageplugin. needAync=false
+08-16 10:12:37.811  8696  8696 I LanguagePlugin_InstallLanguageStrategy: start try to decode package pressed by brotli
+08-16 10:12:37.812  1636  1964 D ZrHung.AppEyeFocusWindow: FocusWindowErrorScene cancelCheckFreezeScreen
+08-16 10:12:37.812  1636  1964 D ZrHung.AppEyeTransparentWindow: TransparentWindow mHungConfigStatus = 0,mHungConfigEnable = 1
+08-16 10:12:37.812  1636  1963 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:37.813  1636  1660 D HwPhoneWindowManager: Transact:setSystemUIColor to status bar service
+08-16 10:12:37.813  1636  2012 W Process : Unable to open /proc/-1/status
+08-16 10:12:37.814  7774  7850 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+08-16 10:12:37.815  2730  2730 I RmeSchedManager: init Rme, version is: v1.0
+08-16 10:12:37.816  8696  8696 I LanguagePlugin_k: langsFile:base-langs.br
+08-16 10:12:37.816  8696  8696 I LanguagePlugin_InstallLanguageStrategy: start install language, app is com.huawei.hidisk
+08-16 10:12:37.817   741   782 D huawei_antiTheft: AntitheftManagerInit succeed!
+08-16 10:12:37.818  8696  8696 I LanguagePlugin_LanguageInstaller: getDeviceLanguageTags context is:com.huawei.hidisk
+08-16 10:12:37.818  8696  8696 I LanguagePlugin_LanguageInstaller: isRegionCompress is false, return Language only
+08-16 10:12:37.818  8696  8696 I LanguagePlugin_LanguageInstaller: getDeviceLanguageTags languageTags:es SDK version is :29
+08-16 10:12:37.818  8696  8696 I LanguagePlugin_LanguageInstaller: copy language option : single-lang
+08-16 10:12:37.820  8696  8696 I LanguagePlugin_k: langsFile:base-langs.br
+08-16 10:12:37.820  2580 23377 I OPCollectLog: AppChangeImpl:call onAppChange.
+08-16 10:12:37.820  2580  6962 I OPCollectLog: HwForegroundAppAction:handleMessage
+08-16 10:12:37.820  2580  6962 D OPCollectLog: HwForegroundAppAction:FG executeWithArgs
+08-16 10:12:37.820  2580  6962 I OPCollectLog: OPCollectUtils:ODMF Api Version:2.16.3
+08-16 10:12:37.820  2580  6962 I OPCollectLog: Action:HwForegroundAppAction executed successfully
+08-16 10:12:37.820  2580  6962 D OPCollectLog: OdmfCollectScheduler:handleMessage msg: 4
+08-16 10:12:37.820  8696  8696 I LanguagePlugin_LanguageInstaller: copyLanguageFromZip copy base-es .lpk
+08-16 10:12:37.820  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache 1
+08-16 10:12:37.820  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache curTime: 574931915, interval: 71
+08-16 10:12:37.821  8696  8696 I LanguagePlugin_LanguageInstaller: base-es is installed
+08-16 10:12:37.821  8696  8696 I LanguagePlugin_h: Set to preferred locale: es_CL
+08-16 10:12:37.821  2580  6962 I OPCollectLog: OdmfHelper:isCharging: true
+08-16 10:12:37.822  2580  6962 I OPCollectLog: OdmfHelper:insert database success
+08-16 10:12:37.822  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache size: 1
+08-16 10:12:37.822  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache lastTime: 574931917
+08-16 10:12:37.823  8057  8733 D ApplicationLoaders: createClassLoader zip: /system/framework/com.android.media.remotedisplay.jar librarySearchPath: /data/app/com.google.android.gms-MDjz9f5QcIBRT9cQyafjgw==/lib/arm64:/data/app/com.google.android.gms-MDjz9f5QcIBRT9cQyafjgw==/base.apk!/lib/arm64-v8a:/data/app/com.google.android.gms-MDjz9f5QcIBRT9cQyafjgw==/split_config.es.apk!/lib/arm64-v8a:/data/app/com.google.android.gms-MDjz9f5QcIBRT9cQyafjgw==/split_config.xxhdpi.apk!/lib/arm64-v8a libraryPermittedPath: /data/user/0/com.google.android.gms parent: java.lang.BootClassLoader@c9fb617 targetSdkVersion: 33 isBundled: false classLoaderName: null sharedLibraries: null
+08-16 10:12:37.823  8360  8622 I Cloud[13.2.0.303]Base.ContentValues: in N, migrate ok
+08-16 10:12:37.824  8174  8174 I Cloud[13.2.0.303]Sync.CloudBackupJobManager: registerPowerConnectScheduler
+08-16 10:12:37.825  8360  8360 I Cloud[13.2.0.303]Base.BaseUtil: Application.getProcessName:com.huawei.android.ds
+08-16 10:12:37.825  8360  8360 I Cloud[13.2.0.303]Sync.CloudBackupConditionsUtil: getUserBackUpFrequency mainProcess: false , checkType: 0
+08-16 10:12:37.825  8360  8360 I Cloud[13.2.0.303]Sync.CloudBackupJobManager: registerBackupScheduler delay time: 0, isAgreeTerms: true, satisfyCount: 0, disSatisfyCount: 0, cloudBackupFrequencyOnDeviceIdleType: 0
+08-16 10:12:37.826  7774  7774 D DecorView: showOrHideHighlightView: hasFocus=false; winMode=1; isMrgNull=true
+08-16 10:12:37.826  8174  8174 I Cloud[13.2.0.303]Base.BaseUtil: current device mScreenMode: -1
+08-16 10:12:37.826  8057  8733 I android.youtub: The ClassLoaderContext is a special shared library.
+08-16 10:12:37.826  8174  8174 I Cloud[13.2.0.303]Base.BaseUtil: Application.getProcessName:com.huawei.hidisk
+08-16 10:12:37.828  7774  7774 D DecorView: showOrHideHighlightView: hasFocus=true; winMode=1; isMrgNull=true
+08-16 10:12:37.829  7774  7774 W InputMethodManager: startInputReason = 1
+08-16 10:12:37.829  7774  7774 W HwRemoteInputMethodManager: isCasting false because IHwDistributedWindowManager is invalid.
+08-16 10:12:37.829  1636  2918 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:37.832  8174  8174 I Cloud[13.2.0.303]Sync.CloudBackupConditionsUtil: getOMBatteryCharge mainProcess: true ,batteryCharge: 70
+08-16 10:12:37.833  8174  8174 I Cloud[13.2.0.303]Sync.CloudBackupConditionsUtil: isConfigureBatteryChanger result: true
+08-16 10:12:37.834  8174  8174 I Cloud[13.2.0.303]Sync.CloudBackupConditionsUtil: battery status charging: true, status: 2, chargePlug: 2
+08-16 10:12:37.834  8057  8733 D ApplicationLoaders: createClassLoader zip: /system/framework/com.android.location.provider.jar librarySearchPath: /data/app/com.google.android.gms-MDjz9f5QcIBRT9cQyafjgw==/lib/arm64:/data/app/com.google.android.gms-MDjz9f5QcIBRT9cQyafjgw==/base.apk!/lib/arm64-v8a:/data/app/com.google.android.gms-MDjz9f5QcIBRT9cQyafjgw==/split_config.es.apk!/lib/arm64-v8a:/data/app/com.google.android.gms-MDjz9f5QcIBRT9cQyafjgw==/split_config.xxhdpi.apk!/lib/arm64-v8a libraryPermittedPath: /data/user/0/com.google.android.gms parent: java.lang.BootClassLoader@c9fb617 targetSdkVersion: 33 isBundled: false classLoaderName: null sharedLibraries: null
+08-16 10:12:37.834  8174  8174 I Cloud[13.2.0.303]Sync.CloudBackupJobManager: begin register power connect job scheduler, delayTime:0
+08-16 10:12:37.834  8174  8174 I Cloud[13.2.0.303]Base.BaseUtil: Application.getProcessName:com.huawei.hidisk
+08-16 10:12:37.835  8174  8174 I Cloud[13.2.0.303]Sync.CloudBackupConditionsUtil: getUserBackUpFrequency mainProcess: true , frequency: 7
+08-16 10:12:37.835  8696  8696 D ApplicationLoaders: createClassLoader zip: /data/app/com.google.android.trichromelibrary_579016631-DGR1Vv-rUTeG8v9QLtDtnQ==/base.apk librarySearchPath: /data/app/com.google.android.webview-in5BznCMmGLzA31S1kjVNQ==/lib/arm64:/data/app/com.google.android.webview-in5BznCMmGLzA31S1kjVNQ==/base.apk!/lib/arm64-v8a:/data/app/com.google.android.webview-in5BznCMmGLzA31S1kjVNQ==/split_config.es.apk!/lib/arm64-v8a:/data/app/com.google.android.trichromelibrary_579016631-DGR1Vv-rUTeG8v9QLtDtnQ==/base.apk!/lib/arm64-v8a libraryPermittedPath:  parent: java.lang.BootClassLoader@c9fb617 targetSdkVersion: 34 isBundled: false classLoaderName: null sharedLibraries: null
+08-16 10:12:37.837  8174  8174 I Cloud[13.2.0.303]Sync.CloudBackupJobManager: isCloudBackupFrequencyOnDeviceIdle frequency = 7, enableCloudBackupFrequencyOnDeviceIdle = false, cloudBackupFrequencyOnDeviceIdle = 0
+08-16 10:12:37.837  8174  8174 I Cloud[13.2.0.303]Base.BaseUtil: Application.getProcessName:com.huawei.hidisk
+08-16 10:12:37.837  8174  8174 I Cloud[13.2.0.303]Sync.CloudBackupConditionsUtil: getUserBackUpFrequency mainProcess: true , checkType: 0
+08-16 10:12:37.839  8174  8174 I Cloud[13.2.0.303]Sync.CloudBackupJobManager: registerNotifyScheduler isDelay: false
+08-16 10:12:37.840  8174  8574 I Cloud[13.2.0.303]Sync.CloudBackupNotifyJobTask: doNotifyCheck isOpen: true
+08-16 10:12:37.840  8696  8696 D ApplicationLoaders: createClassLoader zip: /data/app/com.google.android.webview-in5BznCMmGLzA31S1kjVNQ==/base.apk librarySearchPath: /data/app/com.google.android.webview-in5BznCMmGLzA31S1kjVNQ==/lib/arm64:/data/app/com.google.android.webview-in5BznCMmGLzA31S1kjVNQ==/base.apk!/lib/arm64-v8a:/data/app/com.google.android.webview-in5BznCMmGLzA31S1kjVNQ==/split_config.es.apk!/lib/arm64-v8a:/data/app/com.google.android.trichromelibrary_579016631-DGR1Vv-rUTeG8v9QLtDtnQ==/base.apk!/lib/arm64-v8a libraryPermittedPath:  parent: java.lang.BootClassLoader@c9fb617 targetSdkVersion: 34 isBundled: false classLoaderName: null sharedLibraries: [dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.google.android.trichromelibrary_579016631-DGR1Vv-rUTeG8v9QLtDtnQ==/base.apk"],nativeLibraryDirectories=[/data/app/com.google.android.webview-in5BznCMmGLzA31S1kjVNQ==/lib/arm64, /data/app/com.google.android.webview-in5BznCMmGLzA31S1kjVNQ==/base.apk!/lib/arm64-v8a, /data/app/com.google.android.webview-in5BznCMmGLzA31S1kjVNQ==/split_config.es.apk!/lib/arm64-v8a, /data/app/com.google.android.trichromelibrary_579016631-DGR1Vv-rUTeG8v9QLtDtnQ==/base.apk!/lib/arm64-v8a, /system/lib64, /hw_product/lib64, /system/product/lib64, /prets/lib64]]]]
+08-16 10:12:37.841  8174  8174 I Cloud[13.2.0.303]Sync.CBAccess: restore task not exist.
+08-16 10:12:37.842  8174  8174 I Cloud[13.2.0.303]Sync.CloudBackupJobManager: registerTimeWindowScheduler isAgreeTerms: true, isChecked: true
+08-16 10:12:37.844  8174  8663 I Cloud[13.2.0.303]Base.HiAnalyticsUtil: hiAnalyticsURL or useID is empty
+08-16 10:12:37.845  1636  1964 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:37.848   757  1624 W BufferQueueProducer: [com.example.dogglers/com.example.dogglers.MainActivity#0]:1390: disconnect: not connected (req=1)
+08-16 10:12:37.848  7774  7850 W libEGL  : EGLNativeWindowType 0x76e4c263d0 disconnect failed
+08-16 10:12:37.849  8083  8341 I StubController: system app validUid:10028, isFriend:true
+08-16 10:12:37.850   741   775 E libteec_vendor: invoke cmd failed(14), code=0xffff5002, origin=4
+08-16 10:12:37.850   741   775 E libteec_vendor: InvokeCommand failed
+08-16 10:12:37.850   741   775 E huawei_antiTheft: invoke failed, code=0xffff5002, origin=0x4 in AntitheftGetFileSize!
+08-16 10:12:37.851  8696  8696 I WebViewFactory: Loading com.google.android.webview version 115.0.5790.166 (code 579016631)
+08-16 10:12:37.851  2661  5454 E HwAntiTheftService_jni: NativeRead getFileSize fail!
+08-16 10:12:37.852   741   775 D huawei_antiTheft: AntitheftManagerUninit succeed!
+08-16 10:12:37.852  8174  8775 I Cloud[13.2.0.303]Finder.SharedPreferenceUtil: getPhoneFinderSwitch
+08-16 10:12:37.852  8174  8775 I Cloud[13.2.0.303]Finder.AntiTheftInf: AntiTheftManagerEx getEnable = false from Anti
+08-16 10:12:37.852  8174  8775 I Cloud[13.2.0.303]Finder.SharedPreferenceUtil: writePhoneFinderSwitch:false
+08-16 10:12:37.853  8174  8174 W Cloud[13.2.0.303]Sync.CloudBackupConfigOperator: getBackupTimeWindowConfig, timeWindowBean is null.
+08-16 10:12:37.853  8174  8574 I Cloud[13.2.0.303]Notify.UserSpaceUtil: getUserTagUseCache, userTags is UserTag{}
+08-16 10:12:37.854  8057  8733 I android.youtub: The ClassLoaderContext is a special shared library.
+08-16 10:12:37.857  8057  8733 D ApplicationLoaders: createClassLoader zip: /data/app/com.google.android.gms-MDjz9f5QcIBRT9cQyafjgw==/base.apk:/data/app/com.google.android.gms-MDjz9f5QcIBRT9cQyafjgw==/split_config.es.apk:/data/app/com.google.android.gms-MDjz9f5QcIBRT9cQyafjgw==/split_config.xxhdpi.apk librarySearchPath: /data/app/com.google.android.gms-MDjz9f5QcIBRT9cQyafjgw==/lib/arm64:/data/app/com.google.android.gms-MDjz9f5QcIBRT9cQyafjgw==/base.apk!/lib/arm64-v8a:/data/app/com.google.android.gms-MDjz9f5QcIBRT9cQyafjgw==/split_config.es.apk!/lib/arm64-v8a:/data/app/com.google.android.gms-MDjz9f5QcIBRT9cQyafjgw==/split_config.xxhdpi.apk!/lib/arm64-v8a libraryPermittedPath: /data/user/0/com.google.android.gms parent: java.lang.BootClassLoader@c9fb617 targetSdkVersion: 33 isBundled: false classLoaderName: null sharedLibraries: [dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/org.apache.http.legacy.jar"],nativeLibraryDirectories=[/data/app/com.google.android.youtube-mDYAXU6dnLDlQIEz-XngYQ==/lib/arm64, /data/app/com.google.android.youtube-mDYAXU6dnLDlQIEz-XngYQ==/base.apk!/lib/arm64-v8a, /data/app/com.google.android.youtube-mDYAXU6dnLDlQIEz-XngYQ==/split_config.arm64_v8a.apk!/lib/arm64-v8a, /data/app/com.google.android.youtube-mDYAXU6dnLDlQIEz-XngYQ==/split_config.es.apk!/lib/arm64-v8a, /data/app/com.google.android.youtube-mDYAXU6dnLDlQIEz-XngYQ==/split_config.xxhdpi.apk!/lib/arm64-v8a, /system/lib64, /hw_product/lib64, /system/product/lib64, /prets/lib64]]], dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/com.android.media.remotedisplay.jar"],nativeLibraryDirectories=[/data/app/com.google.android.gms-MDjz9f5QcIBRT9cQyafjgw==/lib/arm64, /data/app/com.google.android.gms-MDjz9f5QcIBRT9cQyafjgw==/base.apk!/lib/arm64-v8a, /data/app/com.google.android.gms-MDjz9f5QcIBRT9cQyafjgw==/split_config.es.apk!/lib/arm64-v8a, /data/app/com.google.android.gms-MDjz9f5QcIBRT9cQyafjgw==/split_config.xxhdpi.apk!/lib/arm64-v8a, /system/lib64, /hw_product/lib64, /system/product/lib64, /prets/lib64]]], dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/com.android.location.provider.jar"],nativeLibraryDirectories=[/data/app/com.google.android.gms-MDjz9f5QcIBRT9cQyafjgw==/lib/arm64, /data/app/com.google.android.gms-MDjz9f5QcIBRT9cQyafjgw==/base.apk!/lib/arm64-v8a, /data/app/com.google.android.gms-MDjz9f5QcIBRT9cQyafjgw==/split_config.es.apk!/lib/arm64-v8a, /data/app/com.google.android.gms-MDjz9f5QcIBRT9cQyafjgw==/split_config.xxhdpi.apk!/lib/arm64-v8a, /system/lib64, /hw_product/lib64, /system/product/lib64, /prets/lib64]]]]
+08-16 10:12:37.859  8696  8696 W linker  : Warning: "/data/app/com.google.android.webview-in5BznCMmGLzA31S1kjVNQ==/base.apk!/lib/arm64-v8a/libmonochrome.so" unused DT entry: unknown processor-specific (type 0x70000001 arg 0x0) (ignoring)
+08-16 10:12:37.862  1636  1653 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:37.865  8360  8622 I Cloud[13.2.0.303]Sync.CloudSpaceProxyImp: isDsStartMainFrequencySatisfied:true,actionTimeRecords:[ActionTimeRecord{actionType=1,timeStamp=1691996176781}, ActionTimeRecord{actionType=1,timeStamp=1692044894052}, ActionTimeRecord{actionType=1,timeStamp=1692088695997}, ActionTimeRecord{actionType=1,timeStamp=1692128575458}, ActionTimeRecord{actionType=1,timeStamp=1692165193745}],count:0,dsStartMainProcessPolicy:DsStartMainProcessPolicy{periodInterval=8, times=1}
+08-16 10:12:37.866  8174  8574 I Cloud[13.2.0.303]Notify.BaseNotificationConfig: getConfigFromFile
+08-16 10:12:37.867  8360  8622 I Cloud[13.2.0.303]Base.ContentValues: in N, migrate ok
+08-16 10:12:37.871  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@426c6e8 in: PAUSED
+08-16 10:12:37.871  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@426c6e8
+08-16 10:12:37.871  8174  8574 I Cloud[13.2.0.303]Base.BaseUtil: read local config str success
+08-16 10:12:37.874   664 24580 I netd    : trafficSwapActiveStatsMap() <33.88ms>
+08-16 10:12:37.876  8696  8696 I cr_WVCFactoryProvider: Loaded version=115.0.5790.166 minSdkVersion=29 isBundle=true multiprocess=true packageId=3
+08-16 10:12:37.878  1636 15589 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:37.880  1636  1963 D ZrHung.AppEyeFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+08-16 10:12:37.880  1636  1963 D ZrHung.AppEyeTransparentWindow: TransparentWindow cancelCheckFreezeScreen
+08-16 10:12:37.884  1046  1070 D AwareLog: iawared: WorkingsetProcessCommand subCmd = 352, userId=10431, pid=7774, com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+08-16 10:12:37.885  1046  1070 D AwareLog: iawared: WorkingsetStop com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+08-16 10:12:37.885  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@ec87180 in: STOPPED
+08-16 10:12:37.885  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@ec87180
+08-16 10:12:37.887  8360  8622 I Cloud[13.2.0.303]Notify.NotificationV2Util: noticeBeforeBackupTask notifyTime in sp is after current time,notifyTime is:1692219338579
+08-16 10:12:37.888  1046  1070 D AwareLog: iawared: WorkingsetProcessCommand subCmd = 350, userId=10431, pid=7774, com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+08-16 10:12:37.888  2661  3071 D DollieActivityManagerAdapter: [Paused] pid:7774 uid:10431 ComponentInfo{com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity} uidState:2
+08-16 10:12:37.888  1046  1070 D AwareLog: iawared: WorkingsetSendPrereadMsg com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+08-16 10:12:37.888  1046  1070 D AwareLog: iawared: WorkingsetStart com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity in monitor0
+08-16 10:12:37.888  3386  7833 I HiAdKit.DC.PageSwitchEvent:  switch is off
+08-16 10:12:37.888  3386  7833 I HiAdKit.DC.PaymentPageSwitchEvent:  switch is off
+08-16 10:12:37.888  3386  7833 I HiAdKit.DC.LiteAppPageSwitchEvent:  switch is off
+08-16 10:12:37.891  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@ec87180 in: DESTROYED
+08-16 10:12:37.892  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@ec87180
+08-16 10:12:37.892  8360  8360 I Cloud[13.2.0.303]Sync.PowerConnectJobService: PowerConnectJobService onStopJob
+08-16 10:12:37.892  7774  7774 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@6f76edf
+08-16 10:12:37.892  8174  8775 I Cloud[13.2.0.303]Finder.AntiTheftInf: isAntiTheftSupported  = true
+08-16 10:12:37.892  8174  8775 I Cloud[13.2.0.303]Finder.AntiTheftInf: AntiTheftManagerEx getEnable = false from cache
+08-16 10:12:37.892  8174  8775 I Cloud[13.2.0.303]Finder.PhoneFinderManager: initAccountCheckTaKey
+08-16 10:12:37.892  8174  8775 I Cloud[13.2.0.303]Finder.AntiTheftInf: AntiTheftManagerEx getEnable = false from cache
+08-16 10:12:37.892  8174  8775 I Cloud[13.2.0.303]Finder.PhoneFinderManager: phoneFinderSwitch: false
+08-16 10:12:37.892  8174  8775 I Cloud[13.2.0.303]Finder.SharedPreferenceUtil: getPhoneFinderSwitch
+08-16 10:12:37.893  8174  8775 I Cloud[13.2.0.303]Finder.AntiTheftInf: AntiTheftManagerEx getEnable = false from cache
+08-16 10:12:37.892  2315  2315 E FullInputEventModel: onStartInput event aborted: fk.c0: could not obtain extracted text (class fk.c0)
+08-16 10:12:37.893  8174  8174 W Cloud[13.2.0.303]Sync.CloudBackupJobManager: isNewPeriod. timeWindowCollectSwitch is close.
+08-16 10:12:37.896  1636  1964 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:37.896  8174  8174 I Cloud[13.2.0.303]Sync.CloudBackupManager: transferBackupSettingsRecord , isTransfer = true , return
+08-16 10:12:37.898  8102  8327 I Bugle   : Initializing EmojiCompat
+08-16 10:12:37.899  8174  8775 I Cloud[13.2.0.303]Finder.AntiTheftInf: AntiTheftManagerEx getEnable = false from cache
+08-16 10:12:37.899  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@a9c572c in: PRE_ON_CREATE
+08-16 10:12:37.899  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@a9c572c
+08-16 10:12:37.900  8174  8174 I Cloud[13.2.0.303]Sync.OMConfigureUtil: isMatchTwinAppControl twinAppControl is empty
+08-16 10:12:37.900  8174  8174 I Cloud[13.2.0.303]Sync.OMConfigureUtil: initMatchV1OSVersRegex  initAppTwinStatus false
+08-16 10:12:37.901  8174  8775 I Cloud[13.2.0.303]Finder.AntiTheftInf: AntiTheftManagerEx getEnable = false from cache
+08-16 10:12:37.902  8174  8775 I Cloud[13.2.0.303]Finder.AntiTheftInf: AntiTheftManagerEx getEnable = false from cache
+08-16 10:12:37.902  8174  8804 I Cloud[13.2.0.303]Sync.CloudBackupOperator: onDatabaseUpgradeForParse  upgrade: true
+08-16 10:12:37.904  8174  8775 I Cloud[13.2.0.303]Finder.AntiTheftInf: AntiTheftManagerEx getEnable = false from cache
+08-16 10:12:37.904  8174  8775 I chatty  : uid=5513(vendor_cloudservice) pool-7-thread-2 identical 2 lines
+08-16 10:12:37.904  8174  8775 I Cloud[13.2.0.303]Finder.AntiTheftInf: AntiTheftManagerEx getEnable = false from cache
+08-16 10:12:37.905  8174  8174 I Cloud[13.2.0.303]Sync.ICBBroadcastManager: registerBroadcastReceiver
+08-16 10:12:37.905  8174  8174 I Cloud[13.2.0.303]Sync.CloudBackupManager: isPrivacyUser or Rom is not China region, disable BackupMainforSettingActivity
+08-16 10:12:37.906  8174  8775 I Cloud[13.2.0.303]Finder.PhoneFinderManager: not harmony os three
+08-16 10:12:37.906   664 24580 I netd    : trafficSwapActiveStatsMap() <21.65ms>
+08-16 10:12:37.909  7774  7774 I DecorView[]: pkgName:com.example.dogglers old windowMode:0 new windoMode:1, isFixedSize:false
+08-16 10:12:37.910  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@a9c572c in: CREATED
+08-16 10:12:37.910  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@a9c572c
+08-16 10:12:37.912  1636  1653 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:37.914  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@a9c572c in: STARTED
+08-16 10:12:37.914  8696  8696 I cr_LibraryLoader: Successfully loaded native library
+08-16 10:12:37.914  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@a9c572c
+08-16 10:12:37.915  8696  8696 I cr_CachingUmaRecorder: Flushed 6 samples from 6 histograms, 0 samples were dropped.
+08-16 10:12:37.916  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@a9c572c in: RESUMED
+08-16 10:12:37.916  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@a9c572c
+08-16 10:12:37.918  7774  7774 D MouseWheelSynthesizer: mMoveStepInDp: 64, mMoveStepInPixel: 192, mUpTimeDelayed: 100
+08-16 10:12:37.918  7774  7774 D ViewRootImpl: ViewRootImpl mIsInProductivePCDisplay: false
+08-16 10:12:37.919  1636  2649 I HwPCUtils#HwRioViewManager: check if rio enable, displayId = 0， packageName = com.example.dogglers
+08-16 10:12:37.919  8174  8682 I Cloud[13.2.0.303]Notify.RestoreNotifyManager: handleApplicationStart
+08-16 10:12:37.920  8174  8174 I Cloud[13.2.0.303]Sync.CloudBackupV3Utils: MainProcessInit: start initBackupActiveTime
+08-16 10:12:37.921  8174  8174 I HwTypeface: updateFont: scale=0.95
+08-16 10:12:37.921  8174  8174 D SystemFonts: areFontsVariable: script=Latn
+08-16 10:12:37.922  7774  7774 D InputEventReceiver: dispatchInputInterval 1000000
+08-16 10:12:37.924  8174  8811 I Cloud[13.2.0.303]Notify.NoticeBeforeBackupDecisionMaker: enter into NoticeBeforeBackup DecisionMaker,event id:0
+08-16 10:12:37.926  8360  8677 I SecurityComp10200303: SSLFNew: createSocket
+08-16 10:12:37.927  8360  8677 I SecurityComp10200303: SSLFNew: set default protocols
+08-16 10:12:37.927  8360  8677 I SecurityComp10200303: SSLFNew: set default cipher
+08-16 10:12:37.927  2661  5454 I Hicom_Monitor: mActivityNotifierEx, className = androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity, uid = 10431
+08-16 10:12:37.927  6225  9809 I CAWARENESS_AppUsageManager: Repeat info, don't need publish
+08-16 10:12:37.928  2661  3071 D DollieActivityManagerAdapter: [Resumed] bg:false pid:7774 uid:10431 ComponentInfo{com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity}
+08-16 10:12:37.928  2661  3071 E DollieAdapterService: notifyActivityState pkg:com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity state:2 fg:true mUid:10431
+08-16 10:12:37.928  2661  3071 I OllieMsgCenter: publishEvt=2130771985
+08-16 10:12:37.930  3386  7816 I HiAdKit.DC.PageSwitchEvent:  switch is off
+08-16 10:12:37.930  3386  7816 I HiAdKit.DC.PaymentPageSwitchEvent:  switch is off
+08-16 10:12:37.930  3386  7816 I HiAdKit.DC.LiteAppPageSwitchEvent:  switch is off
+08-16 10:12:37.931  2690  3310 I AppManager: dependence has been existed:8696 -> 17161
+08-16 10:12:37.931  1636 15589 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:37.933  8057  8733 I android.youtub: Waiting for a blocking GC ClassLinker
+08-16 10:12:37.934  8360  8622 I Cloud[13.2.0.303]Sync.BackupSpaceInsufficientNotifyUtil: isAutoBackupDlgCheckTaskExecuteNow get backupNotEnoughDlgSpInfo success
+08-16 10:12:37.936  1636  2813 D ZrHung.AppEyeFocusWindow: FocusWindowErrorScene cancelCheckFreezeScreen
+08-16 10:12:37.936  1636  2813 D ZrHung.AppEyeTransparentWindow: TransparentWindow mHungConfigStatus = 0,mHungConfigEnable = 1
+08-16 10:12:37.937  7774  8813 D HiTouch_PressGestureDetector: onAttached, package=com.example.dogglers, windowType=1, mIsHiTouchRestricted=false
+08-16 10:12:37.938  7774  7850 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+08-16 10:12:37.938  8174  8174 I SecurityComp10200303: ActivityProtect: handleMessage: >= 28
+08-16 10:12:37.941  8174  8574 I Cloud[13.2.0.303]Sync.CloudBackupNotifyJobTask: has no backup record, day = 15
+08-16 10:12:37.941  8174  8574 I Cloud[13.2.0.303]Sync.CloudBackupNotifyJobTask: notify flag = false
+08-16 10:12:37.944  8360  8622 I Cloud[13.2.0.303]Base.BaseUtil: homeName is: com.example.dogglers
+08-16 10:12:37.945  2580 23377 I OPCollectLog: AppChangeImpl:call onAppChange.
+08-16 10:12:37.945  2580  6962 I OPCollectLog: HwForegroundAppAction:handleMessage
+08-16 10:12:37.945  2580  6962 D OPCollectLog: HwForegroundAppAction:FG executeWithArgs
+08-16 10:12:37.945  2580  6962 I OPCollectLog: OPCollectUtils:ODMF Api Version:2.16.3
+08-16 10:12:37.945  2580  6962 I OPCollectLog: Action:HwForegroundAppAction executed successfully
+08-16 10:12:37.945  2580  6962 D OPCollectLog: OdmfCollectScheduler:handleMessage msg: 4
+08-16 10:12:37.945  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache 1
+08-16 10:12:37.945  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache curTime: 574932040, interval: 123
+08-16 10:12:37.946  1636  2649 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:37.946  8174  8815 I iGraphics: [0020080c] pn: com.huawei.hidisk, p: 8174
+08-16 10:12:37.946  8174  8815 I iGraphics: [0030080c] no spt app: com.huawei.hidisk
+08-16 10:12:37.949  8174  8811 I Cloud[13.2.0.303]Sync.CloudSpaceProxyImp: lastSuccessTime is 0,get backupStartTime:1691614538579
+08-16 10:12:37.949  8174  8811 I Cloud[13.2.0.303]Sync.CloudSpaceProxyImp: isNoticeBeforeBackupTimeSatisfied,backupFrequency:7,lastBackupSuccessTime:1691614538579
+08-16 10:12:37.949  8174  8811 I Cloud[13.2.0.303]Base.BaseUtil: Application.getProcessName:com.huawei.hidisk
+08-16 10:12:37.949  8174  8811 I chatty  : uid=5513(vendor_cloudservice) backup_event_ex identical 2 lines
+08-16 10:12:37.951  8174  8811 I Cloud[13.2.0.303]Base.BaseUtil: Application.getProcessName:com.huawei.hidisk
+08-16 10:12:37.961  8360  8622 I Cloud[13.2.0.303]Base.BaseUtil: is not Foreground
+08-16 10:12:37.962  1636  2918 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:37.962  8174  8811 I Cloud[13.2.0.303]Sync.OriginCycleChecker: backup interval millis = 1692195157951, lastSuccessTime: 0, backupCycle: 7
+08-16 10:12:37.962  8174  8811 I Cloud[13.2.0.303]Base.BaseUtil: Application.getProcessName:com.huawei.hidisk
+08-16 10:12:37.963   757  1624 W BufferQueueProducer: [com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0]:1390: disconnect: not connected (req=1)
+08-16 10:12:37.963  7774  7850 W libEGL  : EGLNativeWindowType 0x76e8d48bd0 disconnect failed
+08-16 10:12:37.968  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@426c6e8 in: STOPPED
+08-16 10:12:37.968  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@426c6e8
+08-16 10:12:37.970  7774  7774 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@4e41a7b in: STOPPED
+08-16 10:12:37.970  7774  7774 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.dogglers.MainActivity@4e41a7b
+08-16 10:12:37.970  8360  8622 I Cloud[13.2.0.303]Base.BaseUtil: is not Foreground
+08-16 10:12:37.970  8174  8811 I Cloud[13.2.0.303]Sync.CloudBackupConditionsUtil: isMainProcess is true, nextBackupTime = 86400000, lastFailedTime = 1691614649509, lastSuccessTime: 0, retryInterval: 40
+08-16 10:12:37.971  8174  8811 I Cloud[13.2.0.303]Base.BaseUtil: Application.getProcessName:com.huawei.hidisk
+08-16 10:12:37.971  7774  7774 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@4e41a7b in: DESTROYED
+08-16 10:12:37.971  7774  7774 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+08-16 10:12:37.971  8174  8619 I SecurityComp10200303: SSLFNew: createSocket
+08-16 10:12:37.971  8174  8619 I SecurityComp10200303: SSLFNew: set default protocols
+08-16 10:12:37.971  8174  8619 I SecurityComp10200303: SSLFNew: set default cipher
+08-16 10:12:37.973  8174  8811 I Cloud[13.2.0.303]Sync.CloudBackupConditionsUtil: isMainProcess is true, nextBackupTime = 86400000, lastFailedTime = 1691614649509, lastSuccessTime: 0
+08-16 10:12:37.973  8174  8811 I Cloud[13.2.0.303]Base.BaseUtil: Application.getProcessName:com.huawei.hidisk
+08-16 10:12:37.974  8174  8811 I Cloud[13.2.0.303]Sync.CloudBackupConditionsUtil: isMainProcess is true, getTargetBackupTime, isCycleSatisfy: true, isRetryIntervalSatisfy: false, isNextBackupTimeSatisfy: true, nextBackupTime: 86400000, targetBackupTime: 1691617049509
+08-16 10:12:37.974  8174  8811 I Cloud[13.2.0.303]Notify.NoticeBeforeBackupDecisionMaker: notifyTime is:1692219338579
+08-16 10:12:37.975  8174  8811 I Cloud[13.2.0.303]Base.ContentValues: in N, migrate ok
+08-16 10:12:37.979  1636  1963 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:37.980  8083  8083 I CloudAlbumSDK[11.1.0.303].NetBatteryManager: init
+08-16 10:12:37.981  8360  8622 I Cloud[13.2.0.303]Base.BaseUtil: is not Foreground
+08-16 10:12:37.981  8360  8622 I Cloud[13.2.0.303]Sync.BackupSpaceInsufficientNotifyUtil: isShowBackupSpaceNotEnoughDlg is false
+08-16 10:12:37.981  8360  8622 I Cloud[13.2.0.303]Sync.BackupNotifyMission: conditionCheck, noticeBeforeCheckResult: false, isAutoBackupDlgCheckResult: false
+08-16 10:12:37.985  8174  8811 I Cloud[13.2.0.303]Notify.NoticeBeforeBackupDecisionMaker: preCheckNoticeBeforeBackup enter
+08-16 10:12:37.987  8174  8174 W ConnectivityManager.CallbackHandler: callback not found for CALLBACK_AVAILABLE message
+08-16 10:12:37.987  8174  8174 W ConnectivityManager.CallbackHandler: callback not found for CALLBACK_AVAILABLE message
+08-16 10:12:37.988  8174  8174 V PowerKitApi: Power kit service connected
+08-16 10:12:37.989  8174  8174 I Cloud[13.2.0.303]Sync.HiCloudPowerKitManager: powerKit onServiceConnected
+08-16 10:12:37.992  6225  9809 I CAWARENESS_AppUsageManager: onEvent, packageName=com.huawei.android.launcher, activityName=com.huawei.android.launcher.unihome.UniHomeLauncher
+08-16 10:12:37.992  6225  9809 I CAWARENESS_AppUsageManager: fuse currently and delay publish
+08-16 10:12:37.993  1636  2918 D ZrHung.AppEyeFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+08-16 10:12:37.993  1636  2918 D ZrHung.AppEyeTransparentWindow: TransparentWindow cancelCheckFreezeScreen
+08-16 10:12:37.993  2730 23736 W HwLauncher: ExitAppAnimationManager getAnimationInfoMyself, mAnimationInfo = com.huawei.android.launcher.exitapp.ExitAppAnimationManager$AnimationInfo@c9ab9d2
+08-16 10:12:37.993  2730  2730 W HwLauncher: RotationHelper hideAdjacentScreen, launcher is not transposed. RotationMode = com.huawei.android.launcher.graphics.RotationMode$1{293d90b surfaceRotation = 0.0,isTransposed = false}
+08-16 10:12:37.994  2661  5454 I AssistantService-11.2.1.200: registerHwActivityNotifier call fromPackage:com.example.dogglers, toPackage:com.huawei.android.launcher
+08-16 10:12:37.994  2690  3310 I ScenarioService: app focus change from: com.example.dogglers to:com.huawei.android.launcher
+08-16 10:12:37.994  2690  3310 I ScenarioService: add focus on app:com.huawei.android.launcher to visiblePkgs
+08-16 10:12:37.995  2661 21890 I Hicom_Monitor: mAppSwitchNotifierEx. uid: 10065, foreground app: com.huawei.android.launcher, foreground activity: com.huawei.android.launcher.unihome.UniHomeLauncher
+08-16 10:12:37.995  3386  7832 I HiAdKit.DC.PersistentMessageCenter:  notifyMessage com.huawei.hwid_app_switch_from_to_intent
+08-16 10:12:37.996  1636  2649 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:37.996  2661  3353 W Hicom_XEngineProc: handleForegroundAppChanged. Feature is not enable.
+08-16 10:12:37.998  2661  6711 D AssistantService-11.2.1.200: handleMessage app switch fromPackage:com.example.dogglers, toPackage:com.huawei.android.launcher
+08-16 10:12:37.998  2624 10575 I iconnect:BluetoothApi: adapter status 12
+08-16 10:12:37.999  2624 10575 I iconnect:NearbyDeviceDetect: isPropEnable=true, isBluetoothEnabled=true, isScreenOn=true, isNotSpecialAppOnTop=true, scanCondition=0
+08-16 10:12:37.999  2624 10575 I iconnect:DeviceStateMachineManager: report:NOT_SPECIAL_APP_ON_TOP device:D
+08-16 10:12:37.999  2624 10575 I iconnect:DeviceStateMachineManager: Return exist stateMachine
+08-16 10:12:38.000  8174  8174 I Cloud[13.2.0.303]Finder.AntiTheftInf: AntiTheftManagerEx getEnable = false from cache
+08-16 10:12:38.000  8174  8174 I Cloud[13.2.0.303]Finder.TrackSpConfig: SystemProperties set begin,isTrackWorking:false
+08-16 10:12:38.001  8360  8639 I SecurityComp10200303: SSLFNew: createSocket
+08-16 10:12:38.001  8360  8639 I SecurityComp10200303: SSLFNew: set default protocols
+08-16 10:12:38.002  8360  8639 I SecurityComp10200303: SSLFNew: set default cipher
+08-16 10:12:38.002  8174  8174 W libc    : Unable to set property "persist.radio.findmyphone" to "0": error code: 0x18
+08-16 10:12:38.003  8174  8174 E Cloud[13.2.0.303]Base.SystemPropertiesInvoke: SystemPropertiesInvoke set : java.lang.reflect.InvocationTargetException
+08-16 10:12:38.003  8174  8174 I Cloud[13.2.0.303]Finder.TrackSpConfig: SystemProperties set begin,SystemProperties.get:0
+08-16 10:12:38.009  2730  2730 I RmeSchedManager: init Rme, version is: v1.0
+08-16 10:12:38.011  1636  2813 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:38.018  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@426c6e8 in: DESTROYED
+08-16 10:12:38.018  2580  6962 I OPCollectLog: OdmfHelper:isCharging: true
+08-16 10:12:38.018  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@426c6e8
+08-16 10:12:38.022  7774  7774 D RtgSchedIpcFile: setCommandByIoctl failed ret:-1, cmdid:23, errno:103
+08-16 10:12:38.022  7774  7774 D RtgSchedIpcFile: setCommandByIoctl failed ret:-1, cmdid:22, errno:103
+08-16 10:12:38.023  7774  7774 D RtgSchedIpcFile: setCommandByIoctl failed ret:-1, cmdid:23, errno:103
+08-16 10:12:38.023  7774  7774 D RtgSchedIpcFile: setCommandByIoctl failed ret:-1, cmdid:22, errno:103
+08-16 10:12:38.023  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@a9c572c in: PAUSED
+08-16 10:12:38.023  8174  8574 I Cloud[13.2.0.303]Sync.CloudBackupJobManager: registerNotifyScheduler isDelay: true
+08-16 10:12:38.023  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@a9c572c
+08-16 10:12:38.024  8174  8574 I Cloud[13.2.0.303]Notify.BackupBeforeNoticeManager: getConfigFromFile
+08-16 10:12:38.024  8174  8574 E Cloud[13.2.0.303]Notify.BackupBeforeNoticeManager: cloud config file not exist, msg:/data/user/0/com.huawei.hidisk/files/HiCloudBackupBeforeNotice.json: open failed: ENOENT (No such file or directory)
+08-16 10:12:38.024  8174  8574 W Cloud[13.2.0.303]Notify.NotificationV2Util: BackupBeforeNoticeConfig is null
+08-16 10:12:38.024  8174  8574 E Cloud[13.2.0.303]Notify.NotificationV2Util: backupBeforeNotice is null
+08-16 10:12:38.024  8174  8574 I Cloud[13.2.0.303]Sync.CloudBackupJobManager: compute delayTime is:0,delayMillis is:90000000
+08-16 10:12:38.026  2580  6962 I OPCollectLog: OdmfHelper:insert database success
+08-16 10:12:38.026  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache size: 1
+08-16 10:12:38.026  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache lastTime: 574932121
+08-16 10:12:38.028  1636  2649 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:38.030  2690  3310 D ScenarioService: front pkg : com.huawei.android.launcher launcher: true
+08-16 10:12:38.032  7774  7774 D RtgSchedIpcFile: setCommandByIoctl failed ret:-1, cmdid:23, errno:103
+08-16 10:12:38.032  2690  3310 I AppsUsage: scnOff:false FgAPP:com.huawei.android.launcher BgAPP:com.example.dogglers
+08-16 10:12:38.033  2661  3071 D DollieActivityManagerAdapter: [Paused] pid:7774 uid:10431 ComponentInfo{com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity} uidState:2
+08-16 10:12:38.035  3386  7816 I HiAdKit.DC.PageSwitchEvent:  switch is off
+08-16 10:12:38.035  3386  7816 I HiAdKit.DC.PaymentPageSwitchEvent:  switch is off
+08-16 10:12:38.035  3386  7816 I HiAdKit.DC.LiteAppPageSwitchEvent:  switch is off
+08-16 10:12:38.036  2690  3438 I PG_ash  : front pkg : com.huawei.android.launcher
+08-16 10:12:38.036  2690  3646 I PGServer: report state:10000 event type:2 pid:0 uid:0 pkg:com.example.dogglers to pid: 2690
+08-16 10:12:38.036  2690  3646 I SceneReceiver: state type: 10000 eventType:2 pid:0 uid:0 pkg:com.example.dogglers
+08-16 10:12:38.036  2690  3646 I PGServer: report state:10000 event type:2 pid:0 uid:0 pkg:com.example.dogglers to pid: 1636
+08-16 10:12:38.036  2690  3646 I PGServer: report state:10010 event type:1 pid:0 uid:0 pkg:com.huawei.android.launcher to pid: 2690
+08-16 10:12:38.036  2690  3646 I SceneReceiver: state type: 10010 eventType:1 pid:0 uid:0 pkg:com.huawei.android.launcher
+08-16 10:12:38.036  2690  3646 I ApsAppsTypeHandler: APS: APK: ApsAppsTypeHandler.getInstance, sInstance = com.huawei.android.hwaps.o@92bda0
+08-16 10:12:38.036  2730  3048 E HwLauncher: ReflectUtils , no such field.
+08-16 10:12:38.036  2730  3048 W HwLauncher: Clock getDataFormat the getSystemString failed.
+08-16 10:12:38.037  2690  3646 I PGServer: report state:10010 event type:1 pid:0 uid:0 pkg:com.huawei.android.launcher to pid: 1636
+08-16 10:12:38.037  2730  2730 I HwLauncher: Model loadWidgetsAfterUserUnlockIfNeeded, sLoadWidgetOnResume is false!
+08-16 10:12:38.037  1636  3594 I HwBastetService: current len less then 0, need return!
+08-16 10:12:38.037  1636  3594 I HwBastetService: current len less then 0, need return!
+08-16 10:12:38.038  2690 26664 I PGServer: checkPkgType. calling pkg: android
+08-16 10:12:38.038  2690 26664 I PGServer: checkPkgType. calling pkg: android
+08-16 10:12:38.039  2661  3071 D DollieActivityManagerAdapter: [Resumed] bg:true pid:2730 uid:10065 ComponentInfo{com.huawei.android.launcher/com.huawei.android.launcher.unihome.UniHomeLauncher}
+08-16 10:12:38.039  2661  3071 E DollieAdapterService: notifyActivityState pkg:com.huawei.android.launcher/com.huawei.android.launcher.unihome.UniHomeLauncher state:2 fg:true mUid:10065
+08-16 10:12:38.040  2661  5454 I Hicom_Monitor: mActivityNotifierEx, className = com.huawei.android.launcher.unihome.UniHomeLauncher, uid = 10065
+08-16 10:12:38.040  2661  3071 I OllieMsgCenter: publishEvt=2135097351
+08-16 10:12:38.040  2661  3071 I OllieMsgCenter: publishEvt=2130771969
+08-16 10:12:38.040  2661  3071 I OllieMsgCenter: publishEvt=2130771985
+08-16 10:12:38.040  1046  1070 D AwareLog: iawared: fg_hl_ctl update fgUid=10065 g_isGame=0
+08-16 10:12:38.040  6225  9809 I CAWARENESS_AppUsageManager: Repeat info, don't need publish
+08-16 10:12:38.041  3386  7832 I HiAdKit.DC.PageSwitchEvent:  switch is off
+08-16 10:12:38.041  3386  7832 I HiAdKit.DC.PaymentPageSwitchEvent:  switch is off
+08-16 10:12:38.041  3386  7832 I HiAdKit.DC.LiteAppPageSwitchEvent:  switch is off
+08-16 10:12:38.041  2661  3071 I SpeedTestNotifier: Speed test app is back Activity
+08-16 10:12:38.041  2580 23377 I OPCollectLog: AppChangeImpl:call onAppChange.
+08-16 10:12:38.042  2580  6962 I OPCollectLog: HwForegroundAppAction:handleMessage
+08-16 10:12:38.042  2580  6962 D OPCollectLog: HwForegroundAppAction:FG executeWithArgs
+08-16 10:12:38.042  2580  6962 I OPCollectLog: OPCollectUtils:ODMF Api Version:2.16.3
+08-16 10:12:38.042  2580  6962 I OPCollectLog: Action:HwForegroundAppAction executed successfully
+08-16 10:12:38.042  2580  6962 D OPCollectLog: OdmfCollectScheduler:handleMessage msg: 4
+08-16 10:12:38.042  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache 1
+08-16 10:12:38.042  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache curTime: 574932137, interval: 16
+08-16 10:12:38.042  2661  3071 I OllieMsgCenter: publishEvt=2134966274
+08-16 10:12:38.042  2661  3071 I OllieMsgCenter: publishEvt=2135097350
+08-16 10:12:38.044 26909 26909 I HiBoard_22.0.8.300_Workspace: onWindowVisibilityChanged：0 isOverlayClosed:true
+08-16 10:12:38.044  1636  2918 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:38.044 26909 26909 I HiBoard_22.0.8.300_ShareCodeClipboardHelper: removeClipboardView is executed!
+08-16 10:12:38.044 26909 27127 I HiBoard_22.0.8.300_ShareCodeClipboardHelper: handleMsg 5
+08-16 10:12:38.046  2661  3071 D DsduChr : uid=10065, isTrafficFree=false, isUsingFreeTraffic=false
+08-16 10:12:38.049  1636  2813 D ZrHung.AppEyeFocusWindow: FocusWindowErrorScene cancelCheckFreezeScreen
+08-16 10:12:38.049  1636  2813 D ZrHung.AppEyeTransparentWindow: TransparentWindow mHungConfigStatus = 0,mHungConfigEnable = 1
+08-16 10:12:38.050  2730  3112 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+08-16 10:12:38.051  2730  3203 I HwLauncher: LocalTaskList loadTasksInBackground:5 numTasks:20 currentUserId:0
+08-16 10:12:38.060  1636  5869 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:38.062 26909 27098 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+08-16 10:12:38.063 26909 26909 I HiBoard_22.0.8.300_NewsBackgroundLayout: onDraw
+08-16 10:12:38.065  2208  2208 D ImageWallpaper: wallpaper visibility changes to: true
+08-16 10:12:38.066  2208  2380 I ImageWallpaperRenderer: updateOffsets mXOffset 0.5 mYOffset 0.5
+08-16 10:12:38.069  2730  3201 E TaskKeyCache: Unexpected null key or value: id=2217 windowingMode=1 user=0 lastActiveTime=574932088, null
+08-16 10:12:38.070  1636  2012 W AwareLog: SchedLevelBoost: onFgActivitiesChanged config not set!
+08-16 10:12:38.071  7774  7836 I TestRunner: finished: horizontal_list_button_is_displayed(com.example.dogglers.ButtonTests)

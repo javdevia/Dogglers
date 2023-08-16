@@ -1,0 +1,1299 @@
+08-16 10:12:46.549  7774  7836 I TestRunner: started: horizontal_scrolling(com.example.dogglers.HorizontalListTests)
+08-16 10:12:46.550  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.mmircil.cnb2 match om config, backup app data.
+08-16 10:12:46.551  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.mmircil.cnb2","appName":"Crafting and Building","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"49011","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:46.552  1636  2813 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:46.554  7774  7836 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+08-16 10:12:46.559  1636  2813 I HWRME LIBHWRME_CLIENT: ResMngMmEvent interface arg 0, 10431
+08-16 10:12:46.563  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:46.563  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.microsoft.office.excel
+08-16 10:12:46.567  1046  1070 D AwareLog: iawared: WorkingsetProcessCommand subCmd = 352, userId=10431, pid=7774, com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+08-16 10:12:46.568  1046  1070 D AwareLog: iawared: WorkingsetStop com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+08-16 10:12:46.568  1046  1070 D AwareLog: iawared: WorkingsetProcessCommand subCmd = 350, userId=10431, pid=7774, com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+08-16 10:12:46.568  1046  1070 D AwareLog: iawared: WorkingsetSendPrereadMsg com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+08-16 10:12:46.568  1046  1070 D AwareLog: iawared: WorkingsetStart com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity in monitor0
+08-16 10:12:46.568  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:46.569  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:46.569  1636  2649 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:46.571  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:46.572  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:46.572  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.microsoft.office.excel, isAppDataAble: false
+08-16 10:12:46.575  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.microsoft.office.excel match om config, backup app data.
+08-16 10:12:46.575  2661 29501 E DollieActivityManagerAdapter: HwActivityNotifierEx null uid
+08-16 10:12:46.576  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.microsoft.office.excel","appName":"Excel","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"2003592774","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:46.576  3386  7833 I HiAdKit.DC.PageSwitchEvent:  switch is off
+08-16 10:12:46.576  3386  7833 I HiAdKit.DC.PaymentPageSwitchEvent:  switch is off
+08-16 10:12:46.576  3386  7833 I HiAdKit.DC.LiteAppPageSwitchEvent:  switch is off
+08-16 10:12:46.581  2690  3438 I AppFastHibernation: rev F_Z exception for visible pkg: com.example.dogglers
+08-16 10:12:46.582  7774  7774 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@6358302
+08-16 10:12:46.582  1636 15277 D ZrHung.AppEyeFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+08-16 10:12:46.582  1636 15277 D ZrHung.AppEyeTransparentWindow: TransparentWindow cancelCheckFreezeScreen
+08-16 10:12:46.583  2690  3310 D ScenarioService: front pkg : com.example.dogglers launcher: false
+08-16 10:12:46.583  2690  3310 D ScenarioService: new above launcher front pkgs: [com.example.dogglers]
+08-16 10:12:46.583  2690  3310 I AppsUsage: scnOff:false FgAPP:com.example.dogglers BgAPP:com.huawei.android.launcher
+08-16 10:12:46.583  2690  3438 I PG_ash  : front pkg : com.example.dogglers
+08-16 10:12:46.583  2690  3646 I PGServer: report state:10010 event type:2 pid:0 uid:0 pkg:com.huawei.android.launcher to pid: 2690
+08-16 10:12:46.583  2690  3646 I SceneReceiver: state type: 10010 eventType:2 pid:0 uid:0 pkg:com.huawei.android.launcher
+08-16 10:12:46.583  2690  3646 I PGServer: report state:10010 event type:2 pid:0 uid:0 pkg:com.huawei.android.launcher to pid: 1636
+08-16 10:12:46.583  2690  3646 I PGServer: report state:10000 event type:1 pid:0 uid:0 pkg:com.example.dogglers to pid: 2690
+08-16 10:12:46.583  2690  3646 I SceneReceiver: state type: 10000 eventType:1 pid:0 uid:0 pkg:com.example.dogglers
+08-16 10:12:46.583  2690  3646 I ApsAppsTypeHandler: APS: APK: ApsAppsTypeHandler.getInstance, sInstance = com.huawei.android.hwaps.o@92bda0
+08-16 10:12:46.584  2690  3646 I PGServer: report state:10000 event type:1 pid:0 uid:0 pkg:com.example.dogglers to pid: 1636
+08-16 10:12:46.584  2690 22775 I PGServer: checkPkgType. calling pkg: android
+08-16 10:12:46.584  2690 22775 I PGServer: checkPkgType. calling pkg: android
+08-16 10:12:46.586  1636  2649 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:46.587  1636  1663 I DecorView[dogglers]: pkgName:com.example.dogglers old windowMode:0 new windoMode:1, isFixedSize:false
+08-16 10:12:46.588  1636  1663 D MouseWheelSynthesizer: mMoveStepInDp: 64, mMoveStepInPixel: 192, mUpTimeDelayed: 100
+08-16 10:12:46.588  1636  1663 D ViewRootImpl: ViewRootImpl mIsInProductivePCDisplay: false
+08-16 10:12:46.588  1636  1663 I HwPCUtils#HwRioViewManager: check if rio enable, displayId = 0， packageName = com.example.dogglers
+08-16 10:12:46.588  2661  5454 I Hicom_Monitor: mAppSwitchNotifierEx. uid: 10431, foreground app: com.example.dogglers, foreground activity: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+08-16 10:12:46.589  3386  7816 I HiAdKit.DC.PageSwitchEvent:  switch is off
+08-16 10:12:46.589  2661  2756 I AssistantService-11.2.1.200: registerHwActivityNotifier call fromPackage:com.huawei.android.launcher, toPackage:com.example.dogglers
+08-16 10:12:46.589  3386  7816 I HiAdKit.DC.PaymentPageSwitchEvent:  switch is off
+08-16 10:12:46.589  1636  1663 D InputEventReceiver: dispatchInputInterval 1000000
+08-16 10:12:46.589  2661  6711 D AssistantService-11.2.1.200: handleMessage app switch fromPackage:com.huawei.android.launcher, toPackage:com.example.dogglers
+08-16 10:12:46.589  3386  7832 I HiAdKit.DC.PersistentMessageCenter:  notifyMessage com.huawei.hwid_app_switch_from_to_intent
+08-16 10:12:46.590  2661  3071 D DollieActivityManagerAdapter: [Paused] pid:2730 uid:10065 ComponentInfo{com.huawei.android.launcher/com.huawei.android.launcher.unihome.UniHomeLauncher} uidState:2
+08-16 10:12:46.590  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@83f9413 in: PRE_ON_CREATE
+08-16 10:12:46.590  2690  3310 I ScenarioService: app focus change from: com.huawei.android.launcher to:com.example.dogglers
+08-16 10:12:46.590  2690  3310 I ScenarioService: add focus on app:com.example.dogglers to visiblePkgs
+08-16 10:12:46.590  2661  3353 W Hicom_XEngineProc: handleForegroundAppChanged. Feature is not enable.
+08-16 10:12:46.590  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@83f9413
+08-16 10:12:46.589  3386  7816 I HiAdKit.DC.LiteAppPageSwitchEvent:  switch is off
+08-16 10:12:46.591  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:46.591  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.buda.crypto
+08-16 10:12:46.592  2624 10575 I iconnect:BluetoothApi: adapter status 12
+08-16 10:12:46.592  2624 10575 I iconnect:NearbyDeviceDetect: isPropEnable=true, isBluetoothEnabled=true, isScreenOn=true, isNotSpecialAppOnTop=true, scanCondition=0
+08-16 10:12:46.593  2624 10575 I iconnect:DeviceStateMachineManager: report:NOT_SPECIAL_APP_ON_TOP device:D
+08-16 10:12:46.593  2624 10575 I iconnect:DeviceStateMachineManager: Return exist stateMachine
+08-16 10:12:46.596  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:46.597  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:46.597  7774  7774 I DecorView[]: pkgName:com.example.dogglers old windowMode:0 new windoMode:1, isFixedSize:false
+08-16 10:12:46.598  7774  7774 I RmeSchedManager: init Rme, version is: v1.0
+08-16 10:12:46.599  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@83f9413 in: CREATED
+08-16 10:12:46.599  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@83f9413
+08-16 10:12:46.600  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@83f9413 in: STARTED
+08-16 10:12:46.600  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@83f9413
+08-16 10:12:46.600  1636  2012 W AwareLog: SchedLevelBoost: onFgActivitiesChanged config not set!
+08-16 10:12:46.602  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:46.602  1636 15277 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:46.603  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:46.603  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.buda.crypto, isAppDataAble: false
+08-16 10:12:46.603  1021 29289 D ITouchService: itouch stylusCurrentPkgName = com.example.dogglers lastOneFramePkgName =
+08-16 10:12:46.603  1021 29289 D ITouchService: itouch currentPackageName = com.example.dogglers
+08-16 10:12:46.603  1021 29289 D ITouchService: itouch appType=-1 appState=1 gameMode=2
+08-16 10:12:46.603  1021 29289 D ITouchService: itouchReaderMonitor empty
+08-16 10:12:46.603  1021 29289 D ITouchService: g_itouch_reader_monitor Monitor::IsReaderMonitorEnable()=0
+08-16 10:12:46.603  1021 29289 D ITouchService: itouch getCurrentParmID tempPkg=com.example.xxx
+08-16 10:12:46.603  1021 29289 D ITouchService: itouch:app com.example.dogglers is  not game app
+08-16 10:12:46.603  1021 29289 D ITouchService: itouch:app com.example.dogglers is  not in StylusPenList
+08-16 10:12:46.603  1021 29289 D ITouchService: itouch:styluspen_switch is disable
+08-16 10:12:46.603  1021 29289 D ITouchService: itouch:currentAppTypeName =|UNKNOWN|
+08-16 10:12:46.604  1636  9766 D HiTouch_PressGestureDetector: onAttached, package=com.example.dogglers, windowType=3, mIsHiTouchRestricted=false
+08-16 10:12:46.604  2690  4739 I PGServer: getTopFrontApp. calling pkg: android
+08-16 10:12:46.606  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.buda.crypto match om config, backup app data.
+08-16 10:12:46.607  3386  7832 I HiAdKit.DC.PageSwitchEvent:  switch is off
+08-16 10:12:46.607  3386  7832 I HiAdKit.DC.PaymentPageSwitchEvent:  switch is off
+08-16 10:12:46.607  3386  7832 I HiAdKit.DC.LiteAppPageSwitchEvent:  switch is off
+08-16 10:12:46.607  2661 30856 E DollieActivityManagerAdapter: HwActivityNotifierEx null uid
+08-16 10:12:46.607  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.buda.crypto","appName":"Buda.com","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"21505","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:46.608  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@83f9413 in: RESUMED
+08-16 10:12:46.608  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@83f9413
+08-16 10:12:46.613  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@83f9413 in: PAUSED
+08-16 10:12:46.613  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@83f9413
+08-16 10:12:46.617  2661 30856 I Hicom_Monitor: mActivityNotifierEx, className = androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity, uid = 10431
+08-16 10:12:46.619  1636 15277 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:46.622  1046  1070 D AwareLog: iawared: WorkingsetProcessCommand subCmd = 352, userId=10431, pid=7774, com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+08-16 10:12:46.622   664 24580 I OemNetd : setChrAppUid(10, 10431)
+08-16 10:12:46.622  2661  3071 D DollieActivityManagerAdapter: [Resumed] bg:true pid:7774 uid:10431 ComponentInfo{com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity}
+08-16 10:12:46.622  2661  3071 E DollieAdapterService: notifyActivityState pkg:com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity state:2 fg:true mUid:10431
+08-16 10:12:46.622  1046  1070 D AwareLog: iawared: WorkingsetStop com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+08-16 10:12:46.622  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:46.622  6225  9809 I CAWARENESS_AppUsageManager: onEvent, packageName=com.example.dogglers, activityName=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+08-16 10:12:46.622  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.google.ar.core
+08-16 10:12:46.622  6225  9809 I CAWARENESS_AppUsageManager: fuse currently and delay publish
+08-16 10:12:46.622  7774  7774 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@9fccd4e
+08-16 10:12:46.624  3386  7833 I HiAdKit.DC.PageSwitchEvent:  switch is off
+08-16 10:12:46.624  1046  1070 D AwareLog: iawared: WorkingsetProcessCommand subCmd = 350, userId=10431, pid=7774, com.example.dogglers/.HorizontalListActivity
+08-16 10:12:46.624  3386  7833 I HiAdKit.DC.PaymentPageSwitchEvent:  switch is off
+08-16 10:12:46.624  1046  1070 D AwareLog: iawared: WorkingsetSendPrereadMsg com.example.dogglers/.HorizontalListActivity
+08-16 10:12:46.624  1046  1070 D AwareLog: iawared: WorkingsetStart com.example.dogglers/.HorizontalListActivity in monitor0
+08-16 10:12:46.626  3386  7833 I HiAdKit.DC.LiteAppPageSwitchEvent:  switch is off
+08-16 10:12:46.628  2730  2730 D DecorView: showOrHideHighlightView: hasFocus=false; winMode=1; isMrgNull=true
+08-16 10:12:46.628  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:46.628  7774  7774 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@ddc705a in: PRE_ON_CREATE
+08-16 10:12:46.629  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+08-16 10:12:46.630   753  1510 D AudioPolicyService: getUidState(10431) cacheIter->second.first, return cacheIter->second.second(5)
+08-16 10:12:46.630  2661  3071 I ConnCureStateMonitor: handleMessage: msg[2]
+08-16 10:12:46.630  1046  1070 D AwareLog: iawared: fg_hl_ctl update fgUid=10431 g_isGame=0
+08-16 10:12:46.630  2661  3071 I HwPacketFilterBypass: handleActivityUidStateChanged uid:10431 -1 foreground:1
+08-16 10:12:46.630   664 24580 I OemNetd : setNetBoosterAppUid(10431, 2000)
+08-16 10:12:46.630  2661  3071 I OllieMsgCenter: publishEvt=2135097351
+08-16 10:12:46.630  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:46.631  2661  3071 I OllieMsgCenter: publishEvt=2130771969
+08-16 10:12:46.631  2661  3071 I OllieMsgCenter: publishEvt=2130771985
+08-16 10:12:46.632  1636 17378 D HwConnectivityManagerImpl: startappqoednscollection action =0timer =1000
+08-16 10:12:46.632  2661  3071 I SpeedTestNotifier: Speed test app is back Activity
+08-16 10:12:46.633  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:46.634  2661  3071 I OllieMsgCenter: publishEvt=2134966274
+08-16 10:12:46.634  2661  3071 I OllieMsgCenter: publishEvt=2135097350
+08-16 10:12:46.634  2580 23377 I OPCollectLog: AppChangeImpl:call onAppChange.
+08-16 10:12:46.634  2580  6962 I OPCollectLog: HwForegroundAppAction:handleMessage
+08-16 10:12:46.634  2580  6962 D OPCollectLog: HwForegroundAppAction:FG executeWithArgs
+08-16 10:12:46.634  2580  6962 I OPCollectLog: OPCollectUtils:ODMF Api Version:2.16.3
+08-16 10:12:46.634  2580  6962 I OPCollectLog: Action:HwForegroundAppAction executed successfully
+08-16 10:12:46.634  2580  6962 D OPCollectLog: OdmfCollectScheduler:handleMessage msg: 4
+08-16 10:12:46.634  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache 1
+08-16 10:12:46.634  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache curTime: 574940729, interval: 580
+08-16 10:12:46.634  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:46.635  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.google.ar.core, isAppDataAble: false
+08-16 10:12:46.635  1636  2813 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:46.635  7774  7774 I DecorView[]: pkgName:com.example.dogglers old windowMode:0 new windoMode:1, isFixedSize:false
+08-16 10:12:46.636  2580  6962 I OPCollectLog: OdmfHelper:isCharging: true
+08-16 10:12:46.636  3386  7816 I HiAdKit.DC.PageSwitchEvent:  switch is off
+08-16 10:12:46.636  3386  7816 I HiAdKit.DC.PaymentPageSwitchEvent:  switch is off
+08-16 10:12:46.636  3386  7816 I HiAdKit.DC.LiteAppPageSwitchEvent:  switch is off
+08-16 10:12:46.637  2580  6962 I OPCollectLog: OdmfHelper:insert database success
+08-16 10:12:46.637  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache size: 1
+08-16 10:12:46.637  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache lastTime: 574940732
+08-16 10:12:46.640  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.google.ar.core match om config, backup app data.
+08-16 10:12:46.640  2661  3071 D DsduChr : uid=10431, isTrafficFree=false, isUsingFreeTraffic=false
+08-16 10:12:46.640  2661  3071 D DollieActivityManagerAdapter: [Paused] pid:7774 uid:10431 ComponentInfo{com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity} uidState:2
+08-16 10:12:46.642  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.google.ar.core","appName":"Google Play Services for AR","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"231530423","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:46.647  2661  3071 I HwPacketFilterBypass: kernelAddTrackUid uid:10431 allowed:true
+08-16 10:12:46.647  2661  3071 E HwPacketFilterBypass: sendRequestToKernel ADD_UID [10431]
+08-16 10:12:46.648  2208  2208 D ImageWallpaper: wallpaper visibility changes to: false
+08-16 10:12:46.649  2208  2208 D BarTransitions.HwPhoneStatusBarView: MODE_TRANSPARENT -> MODE_OPAQUE animate=false
+08-16 10:12:46.649  2208  2208 D BarTransitions.HwPhoneStatusBarView: applyModeBackground oldMode=MODE_TRANSPARENT newMode=MODE_OPAQUE animate=false
+08-16 10:12:46.650  2208  2208 D BarTransitions.HwNavigationBarView: MODE_TRANSPARENT -> MODE_OPAQUE animate=false
+08-16 10:12:46.650  2208  2208 D BarTransitions.HwNavigationBarView: applyModeBackground oldMode=MODE_TRANSPARENT newMode=MODE_OPAQUE animate=false
+08-16 10:12:46.650  7774  7774 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@ddc705a in: CREATED
+08-16 10:12:46.651  7774  7774 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.dogglers.HorizontalListActivity@ddc705a
+08-16 10:12:46.652  7774  7774 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@ddc705a in: STARTED
+08-16 10:12:46.652  7774  7774 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.dogglers.HorizontalListActivity@ddc705a
+08-16 10:12:46.653  7774  7774 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@ddc705a in: RESUMED
+08-16 10:12:46.653  7774  7774 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.dogglers.HorizontalListActivity@ddc705a
+08-16 10:12:46.653 26909 26909 I HiBoard_22.0.8.300_Workspace: onWindowVisibilityChanged：8 isOverlayClosed:true
+08-16 10:12:46.653  1636 17378 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:46.654  7774  7774 D MouseWheelSynthesizer: mMoveStepInDp: 64, mMoveStepInPixel: 192, mUpTimeDelayed: 100
+08-16 10:12:46.655  7774  7774 D ViewRootImpl: ViewRootImpl mIsInProductivePCDisplay: false
+08-16 10:12:46.655  1636 15277 I HwPCUtils#HwRioViewManager: check if rio enable, displayId = 0， packageName = com.example.dogglers
+08-16 10:12:46.655   757   992 W BufferQueueProducer: [com.huawei.android.launcher/com.huawei.android.launcher.unihome.UniHomeLauncher#0]:1390: disconnect: not connected (req=1)
+08-16 10:12:46.655  2730  3112 W libEGL  : EGLNativeWindowType 0x766bce6450 disconnect failed
+08-16 10:12:46.658  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:46.658  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.android.vending
+08-16 10:12:46.659   757  1629 W BufferQueueProducer: [com.huawei.intelligent.Workspace#0]:1390: disconnect: not connected (req=1)
+08-16 10:12:46.659 26909 27098 W libEGL  : EGLNativeWindowType 0x7637d99f90 disconnect failed
+08-16 10:12:46.660  7774  7774 D InputEventReceiver: dispatchInputInterval 1000000
+08-16 10:12:46.664  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:46.665  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:46.665  2661 30856 I Hicom_Monitor: mActivityNotifierEx, className = com.example.dogglers.HorizontalListActivity, uid = 10431
+08-16 10:12:46.666  2661  3071 D DollieActivityManagerAdapter: [Resumed] bg:false pid:7774 uid:10431 ComponentInfo{com.example.dogglers/com.example.dogglers.HorizontalListActivity}
+08-16 10:12:46.666  2661  3071 E DollieAdapterService: notifyActivityState pkg:com.example.dogglers/com.example.dogglers.HorizontalListActivity state:2 fg:true mUid:10431
+08-16 10:12:46.666  6225  9809 I CAWARENESS_AppUsageManager: onEvent, packageName=com.example.dogglers, activityName=com.example.dogglers.HorizontalListActivity
+08-16 10:12:46.666  6225  9809 I CAWARENESS_AppUsageManager: fuse currently and delay publish
+08-16 10:12:46.666  2661  3071 I OllieMsgCenter: publishEvt=2130771985
+08-16 10:12:46.667  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:46.667  3386  7832 I HiAdKit.DC.PageSwitchEvent:  switch is off
+08-16 10:12:46.667  3386  7832 I HiAdKit.DC.PaymentPageSwitchEvent:  switch is off
+08-16 10:12:46.667  3386  7832 I HiAdKit.DC.LiteAppPageSwitchEvent:  switch is off
+08-16 10:12:46.667  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:46.667  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.android.vending, isAppDataAble: false
+08-16 10:12:46.670  1636 17378 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:46.671  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.android.vending match om config, backup app data.
+08-16 10:12:46.672  2580 23377 I OPCollectLog: AppChangeImpl:call onAppChange.
+08-16 10:12:46.673  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.android.vending","appName":"Google Play Store","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"83691620","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:46.674  7774  9771 D HiTouch_PressGestureDetector: onAttached, package=com.example.dogglers, windowType=1, mIsHiTouchRestricted=false
+08-16 10:12:46.677  2580  6962 I OPCollectLog: HwForegroundAppAction:handleMessage
+08-16 10:12:46.677  2580  6962 D OPCollectLog: HwForegroundAppAction:FG executeWithArgs
+08-16 10:12:46.677  2580  6962 I OPCollectLog: OPCollectUtils:ODMF Api Version:2.16.3
+08-16 10:12:46.678  2580  6962 I OPCollectLog: Action:HwForegroundAppAction executed successfully
+08-16 10:12:46.678  2580  6962 D OPCollectLog: OdmfCollectScheduler:handleMessage msg: 4
+08-16 10:12:46.678  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache 1
+08-16 10:12:46.678  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache curTime: 574940773, interval: 41
+08-16 10:12:46.678  2580  6962 I OPCollectLog: OdmfHelper:isCharging: true
+08-16 10:12:46.680  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:46.680  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.rexyazilim.batteryextendergo
+08-16 10:12:46.681  1636  1660 D HwPhoneWindowManager: Transact:setSystemUIColor to status bar service
+08-16 10:12:46.682  1636  1963 D ZrHung.AppEyeFocusWindow: FocusWindowErrorScene cancelCheckFreezeScreen
+08-16 10:12:46.682  1636  1963 D ZrHung.AppEyeTransparentWindow: TransparentWindow mHungConfigStatus = 0,mHungConfigEnable = 1
+08-16 10:12:46.683  7774  7850 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+08-16 10:12:46.685  1636  2920 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:46.690  2580  6962 I OPCollectLog: OdmfHelper:insert database success
+08-16 10:12:46.690  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache size: 1
+08-16 10:12:46.690  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache lastTime: 574940785
+08-16 10:12:46.690  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:46.691  2690  3310 I ScenarioService: refresh visibleApp:[com.example.dogglers]
+08-16 10:12:46.691  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:46.691  2690  3310 I PGServer: report state:14 event type:1 pid:-1 uid:-1 pkg:com.example.dogglers to pid: 2690
+08-16 10:12:46.691  2690  3310 I ApsAppsTypeHandler: APS: APK: ApsAppsTypeHandler.getInstance, sInstance = com.huawei.android.hwaps.o@92bda0
+08-16 10:12:46.691  2690  3310 I PF_API_JNI: ACCKIT_APS_NotifyInfo 3: com.example.dogglers
+08-16 10:12:46.692  2661  3071 I HwPacketFilterBypass: kernelAddTrackUid uid:10431 allowed:true
+08-16 10:12:46.692  2690  3438 I PG_ash  : com.huawei.android.launcher become invisible
+08-16 10:12:46.692   754  2646 D ACCKIT_ : pack:"com.example.dogglers"
+08-16 10:12:46.693  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:46.693  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:46.694  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.rexyazilim.batteryextendergo, isAppDataAble: false
+08-16 10:12:46.697  7774  7774 D DecorView: showOrHideHighlightView: hasFocus=true; winMode=1; isMrgNull=true
+08-16 10:12:46.698  7774  7774 W InputMethodManager: startInputReason = 1
+08-16 10:12:46.698  7774  7774 W HwRemoteInputMethodManager: isCasting false because IHwDistributedWindowManager is invalid.
+08-16 10:12:46.698  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.rexyazilim.batteryextendergo match om config, backup app data.
+08-16 10:12:46.699  1636  1677 I ActivityTaskManager: Displayed com.example.dogglers/.HorizontalListActivity: +137ms
+08-16 10:12:46.702  1636  2920 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:46.704  2315  2315 E FullInputEventModel: onStartInput event aborted: fk.c0: could not obtain extracted text (class fk.c0)
+08-16 10:12:46.706  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.rexyazilim.batteryextendergo","appName":"Battery Extender GO","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"30","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:46.707  2730  2730 D RtgSchedIpcFile: setCommandByIoctl failed ret:-1, cmdid:22, errno:103
+08-16 10:12:46.707  2730  2730 W HwLauncher: StateManager Launcher in state:NormalState{9d6631 ordinal = 0,mContainerType = 1,mIsOverviewUi = false}, mConfig.mCurrentAnimationSet == null
+08-16 10:12:46.707  2730  2730 I HwLauncher: Launcher Icon:53 Widget:2 Folder:6 Icon in folder:103, in drawer:0
+08-16 10:12:46.707  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@83f9413 in: STOPPED
+08-16 10:12:46.708  2730  2730 D RtgSchedIpcFile: setCommandByIoctl failed ret:-1, cmdid:23, errno:103
+08-16 10:12:46.708  2730  3022 E AbilityFormViewRefreshUtils: stopListening [0ms]
+08-16 10:12:46.708  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@83f9413
+08-16 10:12:46.712  1636  7153 W AwareLog: AwareMem_Reclaim: generateCompressList procsGroups error!
+08-16 10:12:46.714   753  1510 D AudioPolicyService: getUidState(10175) cacheIter->second.first, return cacheIter->second.second(4)
+08-16 10:12:46.714   753  1510 D AudioPolicyService: getUidState(10173) cacheIter->second.first, return cacheIter->second.second(4)
+08-16 10:12:46.714   753  1510 D AudioPolicyService: getUidState(10065) cacheIter->second.first, return cacheIter->second.second(2)
+08-16 10:12:46.714   753  1510 D AudioPolicyService: getUidState(10063) cacheIter->second.first, return cacheIter->second.second(5)
+08-16 10:12:46.714  2661  3071 D DollieActivityManagerAdapter: [UidStateChanged]  uid:10065 uidState:6
+08-16 10:12:46.714  2661  3071 E DollieAdapterService: notifyActivityState pkg:com.huawei.android.launcher/com.huawei.android.launcher.unihome.UniHomeLauncher state:6 fg:false mUid:10065
+08-16 10:12:46.714  2661  3071 I OllieMsgCenter: publishEvt=2130771969
+08-16 10:12:46.715  2661  3071 I OllieMsgCenter: publishEvt=2134966274
+08-16 10:12:46.716  1046  1070 D         : HibSTrategy::HibStrategySwapCandidateProcessAdd packageName com.android.gallery3d
+08-16 10:12:46.718  1636 17378 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:46.719  7774  7774 I ViewInteraction: Performing 'fast swipe' action on view view.getId() is <2131230945/com.example.dogglers:id/horizontal_recycler_view>
+08-16 10:12:46.719  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:46.720  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.microsoft.skydrive
+08-16 10:12:46.720  1636  2034 V InputDispatcher: Asynchronous input event injection succeeded.
+08-16 10:12:46.721  1636  2034 I InputDispatcher: stylus touch down, set lcd event 1
+08-16 10:12:46.721  7774  7774 W Settings: Setting device_provisioned has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+08-16 10:12:46.721  7774  7774 V HiTouch_HiTouchSensor: User setup is finished.
+08-16 10:12:46.722  1636  2034 I InputDispatcher: stylus touch down, set lcd event 1
+08-16 10:12:46.722  1636  2034 I InputDispatcher: stylus touch down, set lcd event 1
+08-16 10:12:46.723  1636  1660 I NavigationBarPolicy: pointY:1290.5realSize.y:2340HIT_REGION_TO_MAX:36
+08-16 10:12:46.724  2730  3203 I HwLauncher: LocalTaskList loadTasksInBackground:3 numTasks:3 currentUserId:0
+08-16 10:12:46.726  1636  2012 W AwareLog: SchedLevelBoost: onFgActivitiesChanged config not set!
+08-16 10:12:46.731  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:46.732  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:46.733  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:46.733  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:46.733  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.microsoft.skydrive, isAppDataAble: false
+08-16 10:12:46.736  1636  2034 V InputDispatcher: Asynchronous input event injection succeeded.
+08-16 10:12:46.737  1636 17378 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:46.738  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.microsoft.skydrive match om config, backup app data.
+08-16 10:12:46.739  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.microsoft.skydrive","appName":"OneDrive","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"2026850302","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:46.739   753   753 D AudioPolicyService: getUidState(10107) cacheIter->second.first, return cacheIter->second.second(6)
+08-16 10:12:46.741  8102  8273 W Bugle   : TextClassifierLibManagerImpl: Reclaiming memory at level: 80
+08-16 10:12:46.743  8696  8772 D ZrHung.AppEyeUiProbe: stop UiProbe
+08-16 10:12:46.743  8696  8772 D ZrHung.AppEyeUiProbe: not watching, wait.
+08-16 10:12:46.743  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:46.743  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.example.tiptime.test
+08-16 10:12:46.747  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:46.747  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:46.748  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:46.749  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:46.749  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.example.tiptime.test, isAppDataAble: false
+08-16 10:12:46.750  1636  2034 V InputDispatcher: Asynchronous input event injection succeeded.
+08-16 10:12:46.751  1636  1963 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:46.751  7774  7774 W HiTouch_PressGestureDetector: Touch pointer move a lot. The moving distance of X is:143.54785, limit is:60The moving distance of Y is:0.0, limit is:60
+08-16 10:12:46.751  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.example.tiptime.test match om config, backup app data.
+08-16 10:12:46.753  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.example.tiptime.test","appName":"com.example.tiptime.test","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"0","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:46.754  2690 22776 I PGServer: getTopFrontApp. calling pkg: android
+08-16 10:12:46.765  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:46.765  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.mcdo.mcdonalds
+08-16 10:12:46.766  1636  2034 V InputDispatcher: Asynchronous input event injection succeeded.
+08-16 10:12:46.769  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:46.769  1636 15277 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:46.770  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:46.771  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:46.771  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:46.771  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.mcdo.mcdonalds, isAppDataAble: false
+08-16 10:12:46.774  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.mcdo.mcdonalds match om config, backup app data.
+08-16 10:12:46.775 16029  9460 I Finsky  : [42955] qdq.q(41): Completed 0 account content syncs with 0 successful.
+08-16 10:12:46.776  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.mcdo.mcdonalds","appName":"McDonald\u0027s","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"41564","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:46.776 16029 16029 I Finsky  : [1] ContentSyncJob.a(14): [ContentSync] Installation state replication succeeded.
+08-16 10:12:46.779 16029 16029 I Finsky  : [1] zlf.r(83): SCH: jobFinished: 12-1. TimeElapsed: 4079ms.
+08-16 10:12:46.780  1636  2034 V InputDispatcher: Asynchronous input event injection succeeded.
+08-16 10:12:46.783  1040  3884 E Thermal-daemon:ambient: UpdateAmbientInformation: is first history!!
+08-16 10:12:46.784  1636  1963 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:46.790  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:46.790  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.reddit.frontpage
+08-16 10:12:46.794  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:46.794  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:46.795  1636  2034 V InputDispatcher: Asynchronous input event injection succeeded.
+08-16 10:12:46.795  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:46.796  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:46.796  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.reddit.frontpage, isAppDataAble: false
+08-16 10:12:46.796  1636  2012 W Process : Unable to open /proc/-1/status
+08-16 10:12:46.796  2730  2730 I RmeSchedManager: init Rme, version is: v1.0
+08-16 10:12:46.798  1046  5076 D AwareLog: HiberManagerService::DoReclaim ok, pid=8083, reclaimMode=hiber_anon
+08-16 10:12:46.798  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.reddit.frontpage match om config, backup app data.
+08-16 10:12:46.798  1046  5076 D AwareLog: GetReclaimResult:reclaimKb=852, swapKb=852, swapUs=4399
+08-16 10:12:46.798  1046  5076 D         : HibStrategy::HibStrategySwapCandidateProcessRemove packageName is com.android.gallery3d
+08-16 10:12:46.798  1046  5076 D AwareLog: HiberManagerService::SendMessageToHiberTask successful
+08-16 10:12:46.800  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.reddit.frontpage","appName":"Reddit","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"1091027","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:46.801  1636  1963 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:46.810  1636  2034 V InputDispatcher: Asynchronous input event injection succeeded.
+08-16 10:12:46.814  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:46.814  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.huawei.mycenter
+08-16 10:12:46.817  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:46.818  1636  1963 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:46.818  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:46.819  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:46.820  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:46.820  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.huawei.mycenter, isAppDataAble: false
+08-16 10:12:46.822  2208  2208 D BarTransitions.HwPhoneStatusBarView: MODE_OPAQUE -> MODE_TRANSPARENT animate=false
+08-16 10:12:46.822  2208  2208 D BarTransitions.HwPhoneStatusBarView: applyModeBackground oldMode=MODE_OPAQUE newMode=MODE_TRANSPARENT animate=false
+08-16 10:12:46.823  2208  2208 D BarTransitions.HwNavigationBarView: MODE_OPAQUE -> MODE_TRANSPARENT animate=false
+08-16 10:12:46.823  2208  2208 D BarTransitions.HwNavigationBarView: applyModeBackground oldMode=MODE_OPAQUE newMode=MODE_TRANSPARENT animate=false
+08-16 10:12:46.824  9407  9720 I FA      : App measurement initialized, version: 80020
+08-16 10:12:46.824  9407  9720 I FA      : To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+08-16 10:12:46.824  9407  9720 I FA      : To enable faster debug mode event logging run:
+08-16 10:12:46.824  9407  9720 I FA      :   adb shell setprop debug.firebase.analytics.app com.reddit.frontpage
+08-16 10:12:46.825  1636  2034 V InputDispatcher: Asynchronous input event injection succeeded.
+08-16 10:12:46.834  1636  1963 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:46.838   664 24580 I netd    : trafficSwapActiveStatsMap() <15.78ms>
+08-16 10:12:46.841  1636  2034 V InputDispatcher: Asynchronous input event injection succeeded.
+08-16 10:12:46.843  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.huawei.mycenter match om config, backup app data.
+08-16 10:12:46.844  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.huawei.mycenter","appName":"Member Center","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"100201311","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:46.849  1636 11047 I MQoS    : MSG_QUERY_TCP_INFO called,count:3438
+08-16 10:12:46.850  1636  2055 I HwWifiProServiceProxy: ctrlHwWifiNetwork pkgName: WIFIPRO_SERVICE interfaceId: 8
+08-16 10:12:46.850  1636  1963 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:46.854  1636  2055 I QosMonitor: postEventFromNative: msg=100,arg1=0,arg2=10
+08-16 10:12:46.855  1636  2055 I MQoS    : rtt=3040,tcpTxPkts=193861,tcpRxPkts=753764
+08-16 10:12:46.855  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:46.855  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = cl.bancochile.mipass
+08-16 10:12:46.855  1636 11047 I TrafficMonitor: getStatic,count:0,work status:false
+08-16 10:12:46.855  1636 11047 I MQoS    : QOS_level:5(5),use RAT:4G;signalLvl:5
+08-16 10:12:46.855  1636  2034 V InputDispatcher: Asynchronous input event injection succeeded.
+08-16 10:12:46.856 16029 16216 I Finsky  : [42823] yiv.accept(391): SCH: Scheduling phonesky job Id: 1-1337, CT: 1692164499873, Constraints: [{ L: 43189002, D: 86389002, C: 1, I: 1, N: 1 }]
+08-16 10:12:46.856   664 24580 I netd    : trafficSwapActiveStatsMap() <14.55ms>
+08-16 10:12:46.856 16029 16216 I Finsky  : [42823] yiv.accept(391): SCH: Scheduling phonesky job Id: 34-4774, CT: 1692164505765, Constraints: [{ L: 72884761, D: 1368884761, C: 1, I: 1, N: 1 }]
+08-16 10:12:46.865  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:46.866  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:46.867  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:46.867  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:46.867  1636  1963 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:46.867  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: cl.bancochile.mipass, isAppDataAble: false
+08-16 10:12:46.870  1636  2034 V InputDispatcher: Asynchronous input event injection succeeded.
+08-16 10:12:46.872  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: cl.bancochile.mipass match om config, backup app data.
+08-16 10:12:46.874  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"cl.bancochile.mipass","appName":"Mi Pass","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"2300200","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:46.881 16029 16195 I Finsky  : [42811] yrr.apply(79): SCH: Scheduling 1 system job(s)
+08-16 10:12:46.883 16029 16195 I Finsky  : [42811] zlc.d(263): SCH: Scheduling system job Id: 9711, L: 12521993, D: 55721993, C: false, I: false, N: 1
+08-16 10:12:46.886  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:46.886  1636  2034 I InputDispatcher: stylus touch up, set lcd event 0
+08-16 10:12:46.886  1636  2034 I chatty  : uid=1000(system) InputDispatcher identical 1 line
+08-16 10:12:46.886  1636  2034 I InputDispatcher: stylus touch up, set lcd event 0
+08-16 10:12:46.886  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.fif.fpay.android
+08-16 10:12:46.887  1636  1660 I NavigationBarPolicy: onFling::Gest_Navigation_Enable, return!
+08-16 10:12:46.891  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:46.891  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:46.892 16029  9436 I Finsky  : [42952] zms.a(17): SCH: job service finished with id 9707.
+08-16 10:12:46.893  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:46.894  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:46.894  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.fif.fpay.android, isAppDataAble: false
+08-16 10:12:46.895   753   753 D AudioPolicyService: getUidState(10121) cacheIter->second.first, return cacheIter->second.second(9)
+08-16 10:12:46.896  1046  1070 D AwareLog: iawared: WorkingsetProcessCommand subCmd = 351, userId=10431, pid=7774, com.example.dogglers/.HorizontalListActivity
+08-16 10:12:46.896  1046  1070 D AwareLog: iawared: WorkingsetPause com.example.dogglers/.HorizontalListActivity
+08-16 10:12:46.897  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.fif.fpay.android match om config, backup app data.
+08-16 10:12:46.898  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.fif.fpay.android","appName":"Fpay","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"13106","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:46.904  2690  3310 I AppManager: dependence has been existed:1636 -> 9407
+08-16 10:12:46.905 16029 16029 I Finsky  : [1] tst.onTrimMemory(13): Memory trim requested to level 80
+08-16 10:12:46.905   753   753 D AudioPolicyService: getUidState(10121) cacheIter->second.first, return cacheIter->second.second(11)
+08-16 10:12:46.905 16029 16029 I Finsky  : [1] nej.accept(57): Flushing in-memory image cache
+08-16 10:12:46.911  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:46.911  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.example.lemonade
+08-16 10:12:46.915  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:46.916  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:46.917  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:46.918  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:46.918  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.example.lemonade, isAppDataAble: false
+08-16 10:12:46.938  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.example.lemonade match om config, backup app data.
+08-16 10:12:46.939  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.example.lemonade","appName":"Lemonade","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"1","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:46.950  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:46.950  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = cl.bancochile.mi_banco
+08-16 10:12:46.955  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:46.956  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:46.957  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:46.958  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:46.959  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: cl.bancochile.mi_banco, isAppDataAble: false
+08-16 10:12:46.961  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: cl.bancochile.mi_banco match om config, backup app data.
+08-16 10:12:46.963  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"cl.bancochile.mi_banco","appName":"Mi Banco","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"230731221","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:46.964  9407  9720 I FA      : Tag Manager is not found and thus will not be used
+08-16 10:12:46.964  9407  9720 E FA      : Name must consist of letters, digits or _ (underscores). Type, name: event, app.creating
+08-16 10:12:46.965  9407  9720 E FA      : Invalid public event name. Event will not be logged (FE): app.creating
+08-16 10:12:46.968  9407  9720 E FA      : Name must consist of letters, digits or _ (underscores). Type, name: event, app.created
+08-16 10:12:46.969  9407  9720 E FA      : Invalid public event name. Event will not be logged (FE): app.created
+08-16 10:12:46.977  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:46.977  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = zombie.survival.craft.z
+08-16 10:12:46.981  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:46.982  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:46.984  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:46.984  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:46.985  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: zombie.survival.craft.z, isAppDataAble: false
+08-16 10:12:46.998  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: zombie.survival.craft.z match om config, backup app data.
+08-16 10:12:46.999  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"zombie.survival.craft.z","appName":"Last Day On Earth: Survival","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"600695","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.008  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:47.008  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.instagram.android
+08-16 10:12:47.012  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:47.012  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:47.013  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:47.014  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:47.014  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.instagram.android, isAppDataAble: false
+08-16 10:12:47.039  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.instagram.android match om config, backup app data.
+08-16 10:12:47.041  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.instagram.android","appName":"Instagram","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"369510760","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.053  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:47.053  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.waze
+08-16 10:12:47.058  2730  2814 D ZrHung.AppEyeUiProbe: not watching, wait.
+08-16 10:12:47.059  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:47.060  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:47.062  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:47.063  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:47.063  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.waze, isAppDataAble: false
+08-16 10:12:47.068  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.waze match om config, backup app data.
+08-16 10:12:47.070  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.waze","appName":"Waze","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"1030410","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.087  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:47.087  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = cl.copec.PagoClick
+08-16 10:12:47.091  2661  3071 I OllieMsgCenter: publishEvt=2135097345
+08-16 10:12:47.091  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:47.091  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:47.092  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:47.098  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:47.098  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: cl.copec.PagoClick, isAppDataAble: false
+08-16 10:12:47.100  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: cl.copec.PagoClick match om config, backup app data.
+08-16 10:12:47.102  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"cl.copec.PagoClick","appName":"Copec","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"1311322001","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.114  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:47.114  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.huawei.hwread.dz
+08-16 10:12:47.121  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:47.121  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:47.122  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:47.123  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:47.123  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.huawei.hwread.dz, isAppDataAble: false
+08-16 10:12:47.127  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.huawei.hwread.dz match om config, backup app data.
+08-16 10:12:47.128  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.huawei.hwread.dz","appName":"Libros","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"90126303","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.140  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:47.140  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.google.android.apps.tachyon
+08-16 10:12:47.144  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:47.145  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:47.146  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:47.146  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:47.147  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.google.android.apps.tachyon, isAppDataAble: false
+08-16 10:12:47.149  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.google.android.apps.tachyon match om config, backup app data.
+08-16 10:12:47.150  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.google.android.apps.tachyon","appName":"Meet","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"4449652","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.151  1636  1677 I NetworkPolicy: upPwResUL:10173,idle:1,resPw:0,dIdle:0,fg=1,white=0,old=0,new=32,newUid=32,oldUid=0,resBg=0
+08-16 10:12:47.167  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:47.167  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.microsoft.office.outlook
+08-16 10:12:47.171  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:47.171  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:47.172  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:47.173  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:47.173  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.microsoft.office.outlook, isAppDataAble: false
+08-16 10:12:47.175  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.microsoft.office.outlook match om config, backup app data.
+08-16 10:12:47.176  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.microsoft.office.outlook","appName":"Outlook","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"42330820","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.178  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:47.178  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = cl.bice.bicemovil
+08-16 10:12:47.181  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:47.182  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:47.183  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:47.184  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:47.184  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: cl.bice.bicemovil, isAppDataAble: false
+08-16 10:12:47.187  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: cl.bice.bicemovil match om config, backup app data.
+08-16 10:12:47.188  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"cl.bice.bicemovil","appName":"Banco BICE","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"486","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.192  1021 29289 I AGPService: aps-info: focus pkgName - com.example.dogglers, with 0 more apps
+08-16 10:12:47.199  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:47.199  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.google.android.music
+08-16 10:12:47.203  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:47.203  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:47.204  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:47.205  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:47.205  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.google.android.music, isAppDataAble: false
+08-16 10:12:47.207  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.google.android.music match om config, backup app data.
+08-16 10:12:47.208  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.google.android.music","appName":"Google Play Música","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"91131","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.217  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:47.217  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = games.lightheart.mrautofire
+08-16 10:12:47.221  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:47.222  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:47.223  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:47.224  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:47.224  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: games.lightheart.mrautofire, isAppDataAble: false
+08-16 10:12:47.226  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: games.lightheart.mrautofire match om config, backup app data.
+08-16 10:12:47.227  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"games.lightheart.mrautofire","appName":"Mr Autofire","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"13110917","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.237  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:47.237  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.huawei.maps.app
+08-16 10:12:47.241  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:47.241  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:47.242  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:47.243  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:47.243  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.huawei.maps.app, isAppDataAble: false
+08-16 10:12:47.245  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.huawei.maps.app match om config, backup app data.
+08-16 10:12:47.247  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.huawei.maps.app","appName":"Petal Maps","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"30700302","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.250  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:47.250  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.project.affirmations.test
+08-16 10:12:47.253  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:47.254  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:47.255  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:47.256  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:47.256  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.project.affirmations.test, isAppDataAble: false
+08-16 10:12:47.259  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.project.affirmations.test match om config, backup app data.
+08-16 10:12:47.261  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.project.affirmations.test","appName":"com.project.affirmations.test","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"0","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.268  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:47.268  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = cl.sosafe.panicbuttonandroid.app
+08-16 10:12:47.272  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:47.272  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:47.273  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:47.274  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:47.274  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: cl.sosafe.panicbuttonandroid.app, isAppDataAble: false
+08-16 10:12:47.276  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: cl.sosafe.panicbuttonandroid.app match om config, backup app data.
+08-16 10:12:47.277  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"cl.sosafe.panicbuttonandroid.app","appName":"SOSAFE","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"942","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.286  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:47.286  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.sosmartlabs.momotabletpadres
+08-16 10:12:47.290  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:47.290  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:47.291  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:47.292  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:47.292  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.sosmartlabs.momotabletpadres, isAppDataAble: false
+08-16 10:12:47.294  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.sosmartlabs.momotabletpadres match om config, backup app data.
+08-16 10:12:47.295  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.sosmartlabs.momotabletpadres","appName":"SoyMomo Tablet - Parent","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"63","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.306  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:47.306  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.instagram.barcelona
+08-16 10:12:47.309  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:47.310  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:47.311  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:47.311  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:47.311  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.instagram.barcelona, isAppDataAble: false
+08-16 10:12:47.318  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.instagram.barcelona match om config, backup app data.
+08-16 10:12:47.319  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.instagram.barcelona","appName":"Threads","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"496500537","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.328  1046 12149 I Pged-IPgedBinderService: ****action is 2, pid num is 7***
+08-16 10:12:47.328  1046 12149 I Pged-Freezer: thawPids
+08-16 10:12:47.328  1046 12149 I Pged-Freezer: Pid 19712 is not exist in vector
+08-16 10:12:47.328  1046 12149 I Pged-Freezer: Pid 21002 is not exist in vector
+08-16 10:12:47.328  1046 12149 I Pged-Freezer: Pid 21360 is not exist in vector
+08-16 10:12:47.328  1046 12149 I Pged-Freezer: Pid 18777 is not exist in vector
+08-16 10:12:47.328  1046 12149 I Pged-Freezer: Pid 20784 is not exist in vector
+08-16 10:12:47.328  1046 12149 I Pged-Freezer: Pid 4680 is not exist in vector
+08-16 10:12:47.328  2690  3436 D PgedBinderAdapter: unF_Z ok, pid: [19712, 21002, 21360, 18777, 20784, 4680]
+08-16 10:12:47.333  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:47.333  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.anevva14
+08-16 10:12:47.337  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:47.337  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:47.342  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:47.342  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:47.342  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.anevva14, isAppDataAble: false
+08-16 10:12:47.345  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.anevva14 match om config, backup app data.
+08-16 10:12:47.346  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.anevva14","appName":"Super Slime","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"1030004","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.359  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:47.359  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.wallet.crypto.trustapp
+08-16 10:12:47.363  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:47.363  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:47.364  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:47.365  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:47.365  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.wallet.crypto.trustapp, isAppDataAble: false
+08-16 10:12:47.374  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.wallet.crypto.trustapp match om config, backup app data.
+08-16 10:12:47.375  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.wallet.crypto.trustapp","appName":"Trust Wallet","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"1691008009","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.386  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:47.386  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.twitter.android
+08-16 10:12:47.389  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:47.390  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:47.391  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:47.391  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:47.391  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.twitter.android, isAppDataAble: false
+08-16 10:12:47.393  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.twitter.android match om config, backup app data.
+08-16 10:12:47.394  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.twitter.android","appName":"X","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"310010000","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.402  2208  2382 D NetworkController.MobileSignalController(0_1): mSimSubId:1 onDataActivity: direction=0
+08-16 10:12:47.402  2208  2382 I MobileSignalController: copyFrom::dataConnected = true
+08-16 10:12:47.402  2208  2382 I MobileSignalController: copyFrom::dataConnected = true
+08-16 10:12:47.405  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:47.406  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.google.android.apps.docs
+08-16 10:12:47.409  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:47.409  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:47.410  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:47.411  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:47.411  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.google.android.apps.docs, isAppDataAble: false
+08-16 10:12:47.413  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.google.android.apps.docs match om config, backup app data.
+08-16 10:12:47.415  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.google.android.apps.docs","appName":"Drive","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"213228124","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.424  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:47.424  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.google.android.apps.maps
+08-16 10:12:47.427  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:47.427  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:47.428  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:47.429  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:47.429  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.google.android.apps.maps, isAppDataAble: false
+08-16 10:12:47.432  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.google.android.apps.maps match om config, backup app data.
+08-16 10:12:47.433  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.google.android.apps.maps","appName":"Maps","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"1067124847","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.442  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:47.443  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.tunnelbear.android
+08-16 10:12:47.446  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:47.446  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:47.448  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:47.448  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:47.448  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.tunnelbear.android, isAppDataAble: false
+08-16 10:12:47.451  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.tunnelbear.android match om config, backup app data.
+08-16 10:12:47.452  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.tunnelbear.android","appName":"TunnelBear","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"804017002","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.460  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:47.460  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.google.android.modulemetadata
+08-16 10:12:47.464  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:47.464  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:47.465  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:47.466  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:47.466  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.google.android.modulemetadata, isAppDataAble: false
+08-16 10:12:47.468  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.google.android.modulemetadata match om config, backup app data.
+08-16 10:12:47.469  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.google.android.modulemetadata","appName":"Main components","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"331731000","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.483  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:47.483  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.microsoft.office.word
+08-16 10:12:47.488  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:47.489  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:47.491  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:47.491  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:47.491  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.microsoft.office.word, isAppDataAble: false
+08-16 10:12:47.494  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.microsoft.office.word match om config, backup app data.
+08-16 10:12:47.495  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.microsoft.office.word","appName":"Word","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"2003592774","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.515  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:47.515  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.estudio.debugging
+08-16 10:12:47.518  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:47.519  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:47.520  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:47.520  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:47.520  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.estudio.debugging, isAppDataAble: false
+08-16 10:12:47.534  8083  8316 I HwHiAIEngine_SystemPropertiesUtil: debugOnFlag is:0
+08-16 10:12:47.543   665   665 D Zygote  : Forked child process 9776
+08-16 10:12:47.548  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.estudio.debugging match om config, backup app data.
+08-16 10:12:47.550  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.estudio.debugging","appName":"Debugging","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"1","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.551  9776  9776 E com.huawei.hia: LoadAppImageStartupCache enabled : 1
+08-16 10:12:47.551  9776  9776 I com.huawei.hia: Reinit property: dalvik.vm.checkjni= false
+08-16 10:12:47.551  9776  9776 I com.huawei.hia: ReInitProperties: persist.vm.debug.dumpapi= false
+08-16 10:12:47.553  9776  9776 E com.huawei.hia: Not starting debugger since process cannot load the jdwp agent.
+08-16 10:12:47.557  8083  8316 V PowerKitApi: bind power kit service, state: true
+08-16 10:12:47.558  8083  8083 V PowerKitApi: Power kit service connected
+08-16 10:12:47.560  2690 22776 I PowerKit_Impl: register sink from pid: 8083
+08-16 10:12:47.560  2690 22776 I PowerKit_Impl: registerSink callingUid : 10028 callingPkg: com.android.gallery3d
+08-16 10:12:47.560  8083  8083 I PowerKitApi: registerSink return true
+08-16 10:12:47.562  2690 22776 I PowerKit_Impl: enable state type: 50 from pid: 8083
+08-16 10:12:47.563  8083  8316 D HwOneHopSdkDelegate: registerOneHop, packageName:com.android.gallery3d
+08-16 10:12:47.563  8083  8316 D EmcomManagerEx: onehopGetVersion
+08-16 10:12:47.565  2661  5454 I Hicom_EMS: onehopGetVersion
+08-16 10:12:47.565  8083  8316 D HwOneHopSdkDelegate: isSupportOneHopInterface strVersion:
+08-16 10:12:47.565  8083  8316 D HwOneHopSdkDelegate: isSupportOneHopInterface mainVersion: 2subVersion:3
+08-16 10:12:47.565  8083  8316 D EmcomManagerEx: registerOneHop packageName: com.android.gallery3dDataType: 3
+08-16 10:12:47.565  8083  8316 D EmcomManager: registerOneHop packageName: com.android.gallery3d DataType: 3
+08-16 10:12:47.566  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:47.566  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.fungames.blockcraft
+08-16 10:12:47.570  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:47.571  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:47.572  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:47.573  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:47.573  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.fungames.blockcraft, isAppDataAble: false
+08-16 10:12:47.578  2661  5454 I OneHopCallPermission: isTrustApp: valid package
+08-16 10:12:47.580  2661  5454 D HandoffProxy: HwOneHop registerOneHop . packageName: com.android.gallery3d Type: 3 callback: android.emcom.IOneHopAppCallback$Stub$Proxy@54e5d01
+08-16 10:12:47.580  2661  5454 D HandoffProxy: registerOneHop, handoffService not running.
+08-16 10:12:47.586  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.fungames.blockcraft match om config, backup app data.
+08-16 10:12:47.588  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.fungames.blockcraft","appName":"Block Craft 3D","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"1282","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.594  9776  9776 D ApplicationLoaders: createClassLoader zip: /system/framework/com.huawei.nb.sdk.jar librarySearchPath: /hw_product/region_comm/oversea/app/HwHiAiEngine/lib/arm64:/hw_product/region_comm/oversea/app/HwHiAiEngine/HwHiAiEngine.apk!/lib/arm64-v8a:/system/lib64:/hw_product/lib64:/system/product/lib64:/prets/lib64 libraryPermittedPath: /data/user/0/com.huawei.hiai:/hw_product/region_comm/oversea/app/HwHiAiEngine:/system/lib64:/hw_product/lib64:/system/product/lib64:/prets/lib64 parent: java.lang.BootClassLoader@c9fb617 targetSdkVersion: 29 isBundled: true classLoaderName: null sharedLibraries: null
+08-16 10:12:47.597  8955  8997 D ZrHung.AppEyeUiProbe: stop UiProbe
+08-16 10:12:47.597  8955  8997 D ZrHung.AppEyeUiProbe: not watching, wait.
+08-16 10:12:47.598  9776  9798 D HwFrameworkSecurityPartsFactory: HwFrameworkSecurityPartsFactory in.
+08-16 10:12:47.598  9776  9798 I HwFrameworkSecurityPartsFactory: add HwFrameworkSecurityPartsFactory to memory.
+08-16 10:12:47.603  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:47.603  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.microsoft.office.powerpoint
+08-16 10:12:47.604 26474 26474 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.presencemanager.service.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+08-16 10:12:47.604 26474 26474 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.presencemanager.service.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+08-16 10:12:47.608  9776  9776 I com.huawei.hia: The ClassLoaderContext is a special shared library.
+08-16 10:12:47.609 26474 26474 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.presencemanager.service.INTERNAL_IDENTITY dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+08-16 10:12:47.609 26474 26474 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.presencemanager.service.INTERNAL_IDENTITY dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+08-16 10:12:47.612  9776  9776 D ApplicationLoaders: createClassLoader zip: /system/framework/hisoftbus.jar librarySearchPath: /hw_product/region_comm/oversea/app/HwHiAiEngine/lib/arm64:/hw_product/region_comm/oversea/app/HwHiAiEngine/HwHiAiEngine.apk!/lib/arm64-v8a:/system/lib64:/hw_product/lib64:/system/product/lib64:/prets/lib64 libraryPermittedPath: /data/user/0/com.huawei.hiai:/hw_product/region_comm/oversea/app/HwHiAiEngine:/system/lib64:/hw_product/lib64:/system/product/lib64:/prets/lib64 parent: java.lang.BootClassLoader@c9fb617 targetSdkVersion: 29 isBundled: true classLoaderName: null sharedLibraries: null
+08-16 10:12:47.613  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:47.614  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:47.615  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:47.616  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:47.616  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.microsoft.office.powerpoint, isAppDataAble: false
+08-16 10:12:47.621  9776  9776 W ziparchive: Zip: empty archive?
+08-16 10:12:47.622  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.microsoft.office.powerpoint match om config, backup app data.
+08-16 10:12:47.622  9776  9776 I com.huawei.hia: The ClassLoaderContext is a special shared library.
+08-16 10:12:47.623  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.microsoft.office.powerpoint","appName":"PowerPoint","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"2003592774","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.625  9776  9776 D ApplicationLoaders: createClassLoader zip: /system/framework/org.apache.http.legacy.jar librarySearchPath: /hw_product/region_comm/oversea/app/HwHiAiEngine/lib/arm64:/hw_product/region_comm/oversea/app/HwHiAiEngine/HwHiAiEngine.apk!/lib/arm64-v8a:/system/lib64:/hw_product/lib64:/system/product/lib64:/prets/lib64 libraryPermittedPath: /data/user/0/com.huawei.hiai:/hw_product/region_comm/oversea/app/HwHiAiEngine:/system/lib64:/hw_product/lib64:/system/product/lib64:/prets/lib64 parent: java.lang.BootClassLoader@c9fb617 targetSdkVersion: 29 isBundled: true classLoaderName: null sharedLibraries: null
+08-16 10:12:47.629  9776  9776 I com.huawei.hia: The ClassLoaderContext is a special shared library.
+08-16 10:12:47.631  9776  9776 D ApplicationLoaders: createClassLoader zip: /hw_product/region_comm/oversea/app/HwHiAiEngine/HwHiAiEngine.apk librarySearchPath: /hw_product/region_comm/oversea/app/HwHiAiEngine/lib/arm64:/hw_product/region_comm/oversea/app/HwHiAiEngine/HwHiAiEngine.apk!/lib/arm64-v8a:/system/lib64:/hw_product/lib64:/system/product/lib64:/prets/lib64 libraryPermittedPath: /data/user/0/com.huawei.hiai:/hw_product/region_comm/oversea/app/HwHiAiEngine:/system/lib64:/hw_product/lib64:/system/product/lib64:/prets/lib64 parent: java.lang.BootClassLoader@c9fb617 targetSdkVersion: 29 isBundled: true classLoaderName: null sharedLibraries: [dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/com.huawei.nb.sdk.jar"],nativeLibraryDirectories=[/hw_product/region_comm/oversea/app/HwHiAiEngine/lib/arm64, /hw_product/region_comm/oversea/app/HwHiAiEngine/HwHiAiEngine.apk!/lib/arm64-v8a, /system/lib64, /hw_product/lib64, /system/product/lib64, /prets/lib64, /system/lib64, /hw_product/lib64, /system/product/lib64, /prets/lib64]]], dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/hisoftbus.jar"],nativeLibraryDirectories=[/hw_product/region_comm/oversea/app/HwHiAiEngine/lib/arm64, /hw_product/region_comm/oversea/app/HwHiAiEngine/HwHiAiEngine.apk!/lib/arm64-v8a, /system/lib64, /hw_product/lib64, /system/product/lib64, /prets/lib64, /system/lib64, /hw_product/lib64, /system/product/lib64, /prets/lib64]]], dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/org.apache.http.legacy.jar"],nativeLibraryDirectories=[/hw_product/region_comm/oversea/app/HwHiAiEngine/lib/arm64, /hw_product/region_comm/oversea/app/HwHiAiEngine/HwHiAiEngine.apk!/lib/arm64-v8a, /system/lib64, /hw_product/lib64, /system/product/lib64, /prets/lib64, /system/lib64, /hw_product/lib64, /system/product/lib64, /prets/lib64]]], dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/org.apache.http.legacy.jar"],nativeLibraryDirectories=[/hw_product/region_comm/oversea/app/HwHiAiEngine/lib/arm64, /hw_product/region_comm/oversea/app/HwHiAiEngine/HwHiAiEngine.apk!/lib/arm64-v8a, /system/lib64, /hw_product/lib64, /system/product/lib64, /prets/lib64, /system/lib64, /hw_product/lib64, /system/product/lib64, /prets/lib64]]], dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/org.apache.http.legacy.jar"],nativeLibraryDirectories=[/hw_product/region_comm/oversea/app/HwHiAiEngine/lib/arm64, /hw_product/region_comm/oversea/app/HwHiAiEngine/HwHiAiEngine.apk!/lib/arm64-v8a, /system/lib64, /hw_product/lib64, /system/product/lib64, /prets/lib64, /system/lib64, /hw_product/lib64, /system/product/lib64, /prets/lib64]]]]
+08-16 10:12:47.632  2661  3071 I HwPacketFilterBypass: kernelAddTrackUid uid:10431 allowed:true
+08-16 10:12:47.639  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:47.640  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.grability.rappi
+08-16 10:12:47.643  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:47.644  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:47.645  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:47.645  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:47.646  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.grability.rappi, isAppDataAble: false
+08-16 10:12:47.646  2661  3920 I Booster_Qoe: AdaBoostPredict rlt,index:4,NisPsSlow:0,NProba:425,rsrp(rssi):-95,rsrq(noise):-9,rtt(chload):0,buffhigh(uldelay):0,buffcomm(rtt):0
+08-16 10:12:47.646  2661  3920 I Booster_Qoe: AdaBoostPredict rlt,index:0,NisPsSlow:0,NProba:398,rsrp(rssi):-95,rsrq(noise):-9,rtt(chload):93,buffhigh(uldelay):0,buffcomm(rtt):0
+08-16 10:12:47.647  2661  3353 I Hicom_Monitor: handleNetworkQoeReport. foregroundAppTcpRtt: 0, maxRatioChannelId: 0
+08-16 10:12:47.647  2661  3353 I Hicom_Monitor: handleNetworkQoeReport. qoeString: 10431,4,0,425,1,0,4,0,398,7958,19895,10,0,0,0,0,0
+08-16 10:12:47.651  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.grability.rappi match om config, backup app data.
+08-16 10:12:47.653  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.grability.rappi","appName":"Rappi","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"74162","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.656  2661  3071 I OllieMsgCenter: publishEvt=2135097345
+08-16 10:12:47.665  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:47.665  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.huawei.welinknow
+08-16 10:12:47.668  6225  9802 I CAWARENESS_AbilityContext: [1692195604445] publishing {dataId=100000006, mode=0}
+08-16 10:12:47.668  6225  9802 I CAWARENESS_AbilityContext: [1692195604445] deliver {dataId=100000006, mode=0} to 5 receivers
+08-16 10:12:47.668  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:47.669  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:47.670  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:47.670  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:47.671  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.huawei.welinknow, isAppDataAble: false
+08-16 10:12:47.673  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.huawei.welinknow match om config, backup app data.
+08-16 10:12:47.674  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.huawei.welinknow","appName":"Link Now","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"20001301","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.689  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:47.689  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.android.chrome
+08-16 10:12:47.691  9776  9798 I HwApiCacheMangerEx: apicache path=/storage/emulated/0 state=mounted key=com.huawei.hiai#10030#256
+08-16 10:12:47.691  9776  9798 I HwApiCacheMangerEx: need clear apicache,because volumes changed,oldCnt=0 newCnt=1
+08-16 10:12:47.693  9776  9776 I com.huawei.hia: QarthPatchMonintor::Run
+08-16 10:12:47.694  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:47.694  9776  9798 I HwApiCacheMangerEx: apicache path=/storage/emulated/0 state=mounted key=com.huawei.hiai#10030#0
+08-16 10:12:47.694  9776  9798 I HwApiCacheMangerEx: need clear apicache,because volumes changed,oldCnt=1 newCnt=1
+08-16 10:12:47.695  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:47.698  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:47.699  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:47.699  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.android.chrome, isAppDataAble: false
+08-16 10:12:47.706  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.android.chrome match om config, backup app data.
+08-16 10:12:47.707  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.android.chrome","appName":"Chrome","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"579016631","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.710  9776  9776 I HwHiAIEngine_SystemPropertiesUtil: debugOnFlag is:0
+08-16 10:12:47.716  9776  9776 I HwHiAIEngine_AiEngineProvider: onCreate DATABASE_VERSION is 3
+08-16 10:12:47.717  9776  9776 I HwHiAIEngine_AiEngineProvider: createDatabaseLabel
+08-16 10:12:47.723  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:47.723  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.bigbluebubble.singingmonsters.full
+08-16 10:12:47.728  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:47.729  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:47.730  9776  9776 I HwHiAIEngine_FileLabelUtil: Identify file label is s2.
+08-16 10:12:47.731  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:47.732  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:47.733  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.bigbluebubble.singingmonsters.full, isAppDataAble: false
+08-16 10:12:47.733  9776  9776 I HwHiAIEngine_DeviceUtil: OsBrand: emui
+08-16 10:12:47.737  9776  9776 I HwHiAIEngine_HiAiEngineDeProvider: onCreate DATABASE_VERSION is 4
+08-16 10:12:47.737  9776  9776 I HwHiAIEngine_HiAiEngineDeProvider: createDatabaseLabel
+08-16 10:12:47.740  9776  9776 I HwHiAIEngine_FileLabelUtil: Identify file label is s1.
+08-16 10:12:47.740  9776  9776 I HwHiAIEngine_DeviceUtil: OsBrand: emui
+08-16 10:12:47.742  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.bigbluebubble.singingmonsters.full match om config, backup app data.
+08-16 10:12:47.750  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.bigbluebubble.singingmonsters.full","appName":"My Singing Monsters","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"338","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.755  9776  9798 I HwPartIawareFactory: add android.common.HwPartIawareFactoryImpl to memory.
+08-16 10:12:47.756  9776  9798 I AwareBitmapCacher: init processName:com.huawei.hiai pid=9776 uid=10030
+08-16 10:12:47.769  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:47.769  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.Earthkwak.Platformer
+08-16 10:12:47.777  9776  9776 I HwHiAIEngine_AiEngineEceProvider: onCreate DATABASE_VERSION is 1
+08-16 10:12:47.779  9776  9776 I HwHiAIEngine_FileLabelUtil: set empty directory ece protect type
+08-16 10:12:47.779  9776  9776 I HwHiAIEngine_DeviceUtil: OsBrand: emui
+08-16 10:12:47.780  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:47.781  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:47.782  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:47.783  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:47.783  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.Earthkwak.Platformer, isAppDataAble: false
+08-16 10:12:47.786  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.Earthkwak.Platformer match om config, backup app data.
+08-16 10:12:47.786   505   513 I fbex    : versionNum 2
+08-16 10:12:47.786  9776  9776 I HwSfpManager: getFbeVersion version = 0
+08-16 10:12:47.787  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.Earthkwak.Platformer","appName":"Super Bear Adventure","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"87","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.789  9776  9776 D iudf_xattr: Begin SetDirFileXattr.
+08-16 10:12:47.789  9776  9776 D iudf_xattr: Begin DecodeKeyDesc.
+08-16 10:12:47.789  9776  9776 I HwHiAIEngine_AiEngineEceProvider: registerScreenObserver
+08-16 10:12:47.796  9776  9776 I HwHiAIEngine_AiEngineEceProvider: dealUnlock
+08-16 10:12:47.797  9776  9776 I HwHiAIEngine_AiEngineSeceProvider: onCreate DATABASE_VERSION is 1
+08-16 10:12:47.801  9776  9776 I HwHiAIEngine_FileLabelUtil: set empty directory sece protect type
+08-16 10:12:47.801  9776  9776 I HwHiAIEngine_DeviceUtil: OsBrand: emui
+08-16 10:12:47.801  9776  9776 E HwHiAIEngine_FileLabelUtil: The directory must be empty.
+08-16 10:12:47.801  9776  9776 I HwHiAIEngine_AiEngineSeceProvider: registerScreenObserver
+08-16 10:12:47.805  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:47.806  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.google.android.tts
+08-16 10:12:47.806  9776  9776 I HwHiAIEngine_AiEngineSeceProvider: dealUnlock
+08-16 10:12:47.806  9776  9776 I HwHiAIEngine_AiEngineSeceProvider: getWriteableDb
+08-16 10:12:47.810  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:47.813  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:47.815  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:47.816  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:47.816  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.google.android.tts, isAppDataAble: false
+08-16 10:12:47.822  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.google.android.tts match om config, backup app data.
+08-16 10:12:47.823  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.google.android.tts","appName":"Reconocimiento y síntesis de voz de Google","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"210437205","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.829  9776  9776 I HwHiAIEngine_FileLabelUtil: file set s3 sece label
+08-16 10:12:47.829  9776  9776 I HwHiAIEngine_DeviceUtil: OsBrand: emui
+08-16 10:12:47.830  9776  9776 W HwSfpPolicyManager: setLabelInner: the security level of target path has been set!
+08-16 10:12:47.831  9776  9776 I HwSfpPolicyManager: eventId : 992740301, result code : 2
+08-16 10:12:47.835  9776  9776 I HwHiAIEngine_FileLabelUtil: file set s3 sece result ：2
+08-16 10:12:47.835  9776  9776 I HwHiAIEngine_ScreenListener: unregister
+08-16 10:12:47.847  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:47.847  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.google.android.videos
+08-16 10:12:47.853  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:47.856  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:47.858  2661  3071 I DollieDcTracterAdapter: handleSendGetTcpSumToKernel enter
+08-16 10:12:47.858  2690  3310 I LocationDetection: need regisiter L_H_F
+08-16 10:12:47.859  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:47.859  6225  9809 I CAWARENESS_CompatibleBinder: registerLocationFence
+08-16 10:12:47.861  6225  9809 I CAWARENESS_CompatibleBinder: registerLocationFence
+08-16 10:12:47.861  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:47.861  6225  9809 W CAWARENESS_ThreadPool: thread pool FenceManager(1) is busy 1/2
+08-16 10:12:47.862  6225  9809 I CAWARENESS_CompatibleBinder: registerLocationFence
+08-16 10:12:47.862  6225  9809 W CAWARENESS_ThreadPool: thread pool FenceManager(1) is busy 2/3
+08-16 10:12:47.863  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.google.android.videos, isAppDataAble: false
+08-16 10:12:47.863  6225  9811 I CAWARENESS_FenceManager: addDataId name = null
+08-16 10:12:47.863  6225  9811 I CAWARENESS_FenceManager: addDataId dataId = 0
+08-16 10:12:47.863  6225  9811 I CAWARENESS_ManagedFenceFactory: AwarenessFence parsing to Optional.empty
+08-16 10:12:47.863  6225  9811 I CAWARENESS_FenceManager: onResult, onResultListener=com.huawei.hiai.awareness.opencapacity.fence.FenceManager$3@363884d, code=0
+08-16 10:12:47.863  6225  9811 I CAWARENESS_CacheReportDataService: insertData
+08-16 10:12:47.863  6225  9809 I CAWARENESS_CompatibleBinder: registerLocationFence
+08-16 10:12:47.863  6225  9809 W CAWARENESS_ThreadPool: thread pool FenceManager(1) is busy 3/4
+08-16 10:12:47.863  2690 22776 I LocationDetection: leaveHomeFence: RequestResult{6, 2, 3, null, 0, 0, 100, com.huawei.powergenie_1:1;6,2,3, 1, null, 4, 200007, error_unknown}
+08-16 10:12:47.864  6225  9813 I CAWARENESS_FenceManager: addDataId name = null
+08-16 10:12:47.864  6225  9813 I CAWARENESS_FenceManager: addDataId dataId = 0
+08-16 10:12:47.864  6225  9813 I CAWARENESS_ManagedFenceFactory: AwarenessFence parsing to Optional.empty
+08-16 10:12:47.864  6225  9813 I CAWARENESS_FenceManager: onResult, onResultListener=com.huawei.hiai.awareness.opencapacity.fence.FenceManager$3@2151250, code=0
+08-16 10:12:47.864  6225  9813 I CAWARENESS_CacheReportDataService: insertData
+08-16 10:12:47.864  6225  9813 W CAWARENESS_ThreadPool: thread pool CacheReportDataService(1) is busy 1/2
+08-16 10:12:47.864  2690 22776 I LocationDetection: arriveHomeFence: RequestResult{6, 1, 3, null, 0, 0, 100, com.huawei.powergenie_1:1;6,1,3, 1, null, 4, 200007, error_unknown}
+08-16 10:12:47.865  6225  9814 I CAWARENESS_FenceManager: addDataId name = null
+08-16 10:12:47.865  6225  9814 I CAWARENESS_FenceManager: addDataId dataId = 0
+08-16 10:12:47.865  6225  9814 I CAWARENESS_ManagedFenceFactory: AwarenessFence parsing to Optional.empty
+08-16 10:12:47.865  6225  9814 I CAWARENESS_FenceManager: onResult, onResultListener=com.huawei.hiai.awareness.opencapacity.fence.FenceManager$3@224b94e, code=0
+08-16 10:12:47.865  6225  9814 I CAWARENESS_CacheReportDataService: insertData
+08-16 10:12:47.865  6225  9814 W CAWARENESS_ThreadPool: thread pool CacheReportDataService(1) is busy 2/3
+08-16 10:12:47.865  2690 22776 I LocationDetection: leaveCompanyFence: RequestResult{6, 8, 3, null, 0, 0, 100, com.huawei.powergenie_1:1;6,8,3, 1, null, 4, 200007, error_unknown}
+08-16 10:12:47.865  6225  9812 I CAWARENESS_AwarenessSQLiteDatabase: insert recId is 13557772
+08-16 10:12:47.865  6225  9815 I CAWARENESS_FenceManager: addDataId name = null
+08-16 10:12:47.866  6225  9815 I CAWARENESS_FenceManager: addDataId dataId = 0
+08-16 10:12:47.866  6225  9815 I CAWARENESS_ManagedFenceFactory: AwarenessFence parsing to Optional.empty
+08-16 10:12:47.866  6225  9815 I CAWARENESS_FenceManager: onResult, onResultListener=com.huawei.hiai.awareness.opencapacity.fence.FenceManager$3@bc1037c, code=0
+08-16 10:12:47.866  6225  9815 I CAWARENESS_CacheReportDataService: insertData
+08-16 10:12:47.866  6225  9815 W CAWARENESS_ThreadPool: thread pool CacheReportDataService(1) is busy 3/4
+08-16 10:12:47.866  2690 22776 I LocationDetection: arriveCompanyFence: RequestResult{6, 4, 3, null, 0, 0, 100, com.huawei.powergenie_1:1;6,4,3, 1, null, 4, 200007, error_unknown}
+08-16 10:12:47.866  6225  9812 I CAWARENESS_CacheReportDataService: Current count 149
+08-16 10:12:47.868  6225  9816 I CAWARENESS_AwarenessSQLiteDatabase: insert recId is 13557773
+08-16 10:12:47.869  6225  9816 I CAWARENESS_CacheReportDataService: Current count 150
+08-16 10:12:47.870  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.google.android.videos match om config, backup app data.
+08-16 10:12:47.871  6225  9817 I CAWARENESS_AwarenessSQLiteDatabase: insert recId is 13557774
+08-16 10:12:47.871  6225  9817 I CAWARENESS_CacheReportDataService: Current count 151
+08-16 10:12:47.872  6225  9818 I CAWARENESS_AwarenessSQLiteDatabase: insert recId is 13557775
+08-16 10:12:47.872  6225  9818 I CAWARENESS_CacheReportDataService: Current count 152
+08-16 10:12:47.873  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.google.android.videos","appName":"Google TV","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"439071731","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.874  9776  9776 I HwHiAIEngine_ResPackageUtil: ResPackageUtil premadeResources called
+08-16 10:12:47.875  9776  9776 I HwHiAIEngine_ThreadPoolExecutorUtil: ThreadPoolExecutorUtil execute
+08-16 10:12:47.880  9776  9776 I HwHiAIEngine_AbsUpdateManager: startUpdate called
+08-16 10:12:47.890  9776  9819 I HwHiAIEngine_ResPackageUtil: ResPackageUtil readPremadeResToDatabase called
+08-16 10:12:47.892  9776  9819 I HwHiAIEngine_n: FileUtil getJsonFileContent called
+08-16 10:12:47.895  9776  9776 I HwHiAIEngine_AbsUpdateManager: startUpdate called
+08-16 10:12:47.896  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:47.896  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.pedidosya
+08-16 10:12:47.902  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:47.904  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:47.906  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:47.907  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:47.908  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.pedidosya, isAppDataAble: false
+08-16 10:12:47.921  9776  9821 I HwHiAIEngine_ResPackageUpdateHandler: ResPackageUpdateHandler handleStartMessage called
+08-16 10:12:47.922  9776  9820 I HwHiAIEngine_i: no need to schedule job again
+08-16 10:12:47.922  9776  9820 I HwHiAIEngine_AbsUpdateManager: stopUpdate called
+08-16 10:12:47.922  9776  9821 I HwHiAIEngine_ResPackageUpdateHandler: no need to schedule job again
+08-16 10:12:47.924  9776  9821 I HwHiAIEngine_AbsUpdateManager: stopUpdate called
+08-16 10:12:47.924  9776  9821 I HwHiAIEngine_ResReportUtil: silentUpdateReport
+08-16 10:12:47.924  9776  9821 I HwHiAIEngine_ResReportUtil: not report
+08-16 10:12:47.925  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.pedidosya match om config, backup app data.
+08-16 10:12:47.925  9776  9776 I HwTypeface: updateFont: scale=0.95
+08-16 10:12:47.927  9776  9819 I HwHiAIEngine_ResPackageUtil: getCurrentVersion called
+08-16 10:12:47.927  9776  9819 E HwHiAIEngine_ResPackageUtil: readPremadeResToDatabase version <= currentVersion
+08-16 10:12:47.928  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.pedidosya","appName":"PedidosYa","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"1596","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.929  9776  9776 D SystemFonts: areFontsVariable: script=Latn
+08-16 10:12:47.960  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:47.960  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.sosmartlabs.momo
+08-16 10:12:47.967  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:47.969  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:47.971  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:47.972  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:47.973  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.sosmartlabs.momo, isAppDataAble: false
+08-16 10:12:47.993  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.sosmartlabs.momo match om config, backup app data.
+08-16 10:12:47.995  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.sosmartlabs.momo","appName":"SoyMomo Watch","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"214","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:47.996   753   753 D AudioPolicyService: getUidState(10028) !cacheIter->second.first, return PROCESS_STATE_UNKNOWN
+08-16 10:12:48.005  9776  9799 I HwHiAIEngine_PluginManager: updateInstalledSplits called
+08-16 10:12:48.008  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:48.008  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.project.pokedex
+08-16 10:12:48.015  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:48.017  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:48.017  9776  9799 I HwHiAIEngine_PluginManager: queryPluginVersion called
+08-16 10:12:48.018  9776  9799 I HwHiAIEngine_PluginManager: queryPluginVersion, plugin:cv_videomulti, version:2000033301
+08-16 10:12:48.018  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:48.019  8083  8083 E HwHiAIEngine_VisionBase: Service disconnected : this.service is null
+08-16 10:12:48.020  9776  9799 I HwHiAIEngine_PluginManager: queryPluginVersion called
+08-16 10:12:48.020  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:48.020  9776  9799 I HwHiAIEngine_PluginManager: queryPluginVersion, plugin:cv_facerating, version:2000033301
+08-16 10:12:48.020  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.project.pokedex, isAppDataAble: false
+08-16 10:12:48.022  8083  8083 E HwHiAIEngine_VisionBase: mEngine is null when release
+08-16 10:12:48.024  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.project.pokedex match om config, backup app data.
+08-16 10:12:48.032  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.project.pokedex","appName":"PokeDex","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"1","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:48.041  2661  3071 I OllieMsgCenter: publishEvt=2135097345
+08-16 10:12:48.057  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:48.057  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.netflix.mediaclient
+08-16 10:12:48.063  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:48.063  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:48.064  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:48.065  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:48.065  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.netflix.mediaclient, isAppDataAble: false
+08-16 10:12:48.069  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.netflix.mediaclient match om config, backup app data.
+08-16 10:12:48.071  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.netflix.mediaclient","appName":"Netflix","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"50478","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:48.118  2661  3071 I SpeedTestNotifier: is low speed scene
+08-16 10:12:48.125   753   753 D AudioPolicyService: getUidState(10028) !cacheIter->second.first, return PROCESS_STATE_UNKNOWN
+08-16 10:12:48.130  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:48.130  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.zhiliaoapp.musically
+08-16 10:12:48.136  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:48.137   753   753 D AudioPolicyService: getUidState(10120) cacheIter->second.first, return cacheIter->second.second(5)
+08-16 10:12:48.137  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:48.141  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:48.145  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:48.145  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.zhiliaoapp.musically, isAppDataAble: false
+08-16 10:12:48.150  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.zhiliaoapp.musically match om config, backup app data.
+08-16 10:12:48.151  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.zhiliaoapp.musically","appName":"TikTok","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"2023006040","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:48.179  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:48.179  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.astrolink.webapp
+08-16 10:12:48.183  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:48.184  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:48.185  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:48.186  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:48.186  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.astrolink.webapp, isAppDataAble: false
+08-16 10:12:48.190  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.astrolink.webapp match om config, backup app data.
+08-16 10:12:48.194  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.astrolink.webapp","appName":"Astrolink","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"76","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:48.216  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:48.216  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.google.android.apps.photos
+08-16 10:12:48.221  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:48.222  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:48.225  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:48.230  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:48.231  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.google.android.apps.photos, isAppDataAble: false
+08-16 10:12:48.244  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.google.android.apps.photos match om config, backup app data.
+08-16 10:12:48.245  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.google.android.apps.photos","appName":"Fotos","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"48461016","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:48.253  9407  9407 I AwareBitmapCacher: init lrucache size: 2097152 pid=9407
+08-16 10:12:48.255  9104  9136 D ZrHung.AppEyeUiProbe: stop UiProbe
+08-16 10:12:48.255  9104  9136 D ZrHung.AppEyeUiProbe: not watching, wait.
+08-16 10:12:48.275  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:48.276  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.spotify.music
+08-16 10:12:48.282  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:48.283  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:48.285  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:48.286  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:48.286  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.spotify.music, isAppDataAble: false
+08-16 10:12:48.291  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.spotify.music match om config, backup app data.
+08-16 10:12:48.294  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.spotify.music","appName":"Spotify","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"103550191","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:48.324  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:48.324  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.mercadolibre
+08-16 10:12:48.334  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:48.335  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:48.337  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:48.339  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:48.340  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.mercadolibre, isAppDataAble: false
+08-16 10:12:48.360  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.mercadolibre match om config, backup app data.
+08-16 10:12:48.362  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.mercadolibre","appName":"Mercado Libre","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"1816179751","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:48.376  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:48.377  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.estudio.tiptime
+08-16 10:12:48.383  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:48.384  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:48.385  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:48.386  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:48.386  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.estudio.tiptime, isAppDataAble: false
+08-16 10:12:48.394  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.estudio.tiptime match om config, backup app data.
+08-16 10:12:48.395  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.estudio.tiptime","appName":"TipTime","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"1","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:48.419  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:48.420  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.facebook.katana
+08-16 10:12:48.431  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:48.438  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by osRegex
+08-16 10:12:48.438  8174  8678 I Cloud[13.2.0.303]Sync.OMConfigureUtil: configure osVersRegex: (^EmotionUI_8|^EmotionUI_9|^EmotionUI_[1-2][0-9]|^MagicUI_[4-9]|^HarmonyOS_[1-9]).*current osVersion: EmotionUI_12.0.0
+08-16 10:12:48.439  8174  8678 I Cloud[13.2.0.303]Sync.OMConfigureUtil: currentVersion: 130200303, minClientVersion = 0
+08-16 10:12:48.439  8174  8678 I Cloud[13.2.0.303]Sync.OMConfigureUtil: deviceList is empty, default match effect device
+08-16 10:12:48.439  8174  8678 I Cloud[13.2.0.303]Sync.OMConfigureUtil: gradeList is empty, default match effect grade
+08-16 10:12:48.440  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:48.440  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.facebook.katana, isAppDataAble: true
+08-16 10:12:48.441  8174  8678 I Cloud[13.2.0.303]Sync.OMConfigureUtil: isMatchTwinAppControl twinAppControl is empty
+08-16 10:12:48.451  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupConfigOperator: appBackupSwitchRecommend 15 status 1 OPEN
+08-16 10:12:48.452  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: 5g cloud package user
+08-16 10:12:48.457  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.facebook.katana match om config, backup app data.
+08-16 10:12:48.459  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.facebook.katana","appName":"Facebook","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"122021","data3":"2","data4":"444209345","data5":"","data6":"","dataBytes":755078423,"increase1":755078423,"increase2":755078423,"isDataEnable":2,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdAppData","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:48.476  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:48.477  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.hit.master
+08-16 10:12:48.481  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:48.481  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:48.482  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:48.483  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:48.483  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.hit.master, isAppDataAble: false
+08-16 10:12:48.487  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.hit.master match om config, backup app data.
+08-16 10:12:48.490  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.hit.master","appName":"Hit Master 3D","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"47","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:48.507  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:48.507  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.didiglobal.passenger
+08-16 10:12:48.512  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:48.513  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:48.514  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:48.515  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:48.515  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.didiglobal.passenger, isAppDataAble: false
+08-16 10:12:48.519  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.didiglobal.passenger match om config, backup app data.
+08-16 10:12:48.520  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.didiglobal.passenger","appName":"DiDi","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"1107039610","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:48.537  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:48.537  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.wondershare.filmorago
+08-16 10:12:48.542  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:48.543  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:48.544  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:48.544  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:48.545  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.wondershare.filmorago, isAppDataAble: false
+08-16 10:12:48.547  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.wondershare.filmorago match om config, backup app data.
+08-16 10:12:48.548  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.wondershare.filmorago","appName":"Filmora","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"9100","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:48.558  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:48.559  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = cl.naranjasoft.moteles
+08-16 10:12:48.564  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:48.564  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:48.564  7774  7774 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Frankie"
+08-16 10:12:48.566  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:48.567  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:48.567  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: cl.naranjasoft.moteles, isAppDataAble: false
+08-16 10:12:48.569  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: cl.naranjasoft.moteles match om config, backup app data.
+08-16 10:12:48.571  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"cl.naranjasoft.moteles","appName":"MotelNow","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"267","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:48.580  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:48.580  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.example.lemonade.test
+08-16 10:12:48.581  1046  1070 D AwareLog: iawared: WorkingsetProcessCommand subCmd = 352, userId=10431, pid=7774, com.example.dogglers/.HorizontalListActivity
+08-16 10:12:48.581  1046  1070 D AwareLog: iawared: WorkingsetStop com.example.dogglers/.HorizontalListActivity
+08-16 10:12:48.582  7774  7774 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@ddc705a in: PAUSED
+08-16 10:12:48.582  7774  7774 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.dogglers.HorizontalListActivity@ddc705a
+08-16 10:12:48.582  1046  1070 D AwareLog: iawared: WorkingsetProcessCommand subCmd = 350, userId=10431, pid=7774, com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+08-16 10:12:48.582  1046  1070 D AwareLog: iawared: WorkingsetSendPrereadMsg com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+08-16 10:12:48.583  1046  1070 D AwareLog: iawared: WorkingsetStart com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity in monitor0
+08-16 10:12:48.585  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:48.586  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:48.586  1636  1963 D ZrHung.AppEyeFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+08-16 10:12:48.586  1636  1963 D ZrHung.AppEyeTransparentWindow: TransparentWindow cancelCheckFreezeScreen
+08-16 10:12:48.586  4623  4623 I HiAdKit.ExSplashManager:  do not request exsplash config
+08-16 10:12:48.586  2690 22776 I PGServer: android calls fast HApps
+08-16 10:12:48.586  2690 22776 I AppFastHibernation: fast H duration: 1500 reason: start activity
+08-16 10:12:48.587  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:48.588  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:48.588  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.example.lemonade.test, isAppDataAble: false
+08-16 10:12:48.588  1046 12149 I Pged-IPgedBinderService: ****action is 1, pid num is 8***
+08-16 10:12:48.588  1046 12149 I Pged-Freezer: freezePids
+08-16 10:12:48.588  1046 12149 I Pged-Freezer: freezePids pid 9407 binder called 1661 ms ago by 25853, ignor it:0
+08-16 10:12:48.589  2690  3436 W PgedBinderAdapter: F_Z failed pid: [19712, 21002, 21360, 18777, 20784, 4680, 9407]
+08-16 10:12:48.589  7774  7774 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@122ce32
+08-16 10:12:48.592  2661  3071 D DollieActivityManagerAdapter: [Paused] pid:7774 uid:10431 ComponentInfo{com.example.dogglers/com.example.dogglers.HorizontalListActivity} uidState:2
+08-16 10:12:48.592  1636  3033 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:48.594  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3513783 in: PRE_ON_CREATE
+08-16 10:12:48.594  3386  7833 I HiAdKit.DC.PageSwitchEvent:  switch is off
+08-16 10:12:48.594  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3513783
+08-16 10:12:48.594  3386  7833 I HiAdKit.DC.PaymentPageSwitchEvent:  switch is off
+08-16 10:12:48.594  3386  7833 I HiAdKit.DC.LiteAppPageSwitchEvent:  switch is off
+08-16 10:12:48.597  7774  7774 I DecorView[]: pkgName:com.example.dogglers old windowMode:0 new windoMode:1, isFixedSize:false
+08-16 10:12:48.598  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3513783 in: CREATED
+08-16 10:12:48.598  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3513783
+08-16 10:12:48.599  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3513783 in: STARTED
+08-16 10:12:48.599  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3513783
+08-16 10:12:48.600  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.example.lemonade.test match om config, backup app data.
+08-16 10:12:48.600  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3513783 in: RESUMED
+08-16 10:12:48.600  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3513783
+08-16 10:12:48.601  7774  7774 D MouseWheelSynthesizer: mMoveStepInDp: 64, mMoveStepInPixel: 192, mUpTimeDelayed: 100
+08-16 10:12:48.602  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.example.lemonade.test","appName":"com.example.lemonade.test","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"0","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:48.602  7774  7774 D ViewRootImpl: ViewRootImpl mIsInProductivePCDisplay: false
+08-16 10:12:48.602  1636  1963 I HwPCUtils#HwRioViewManager: check if rio enable, displayId = 0， packageName = com.example.dogglers
+08-16 10:12:48.605  1636  1963 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:48.605  7774  7774 D InputEventReceiver: dispatchInputInterval 1000000
+08-16 10:12:48.608  7774  7774 D DecorView: showOrHideHighlightView: hasFocus=false; winMode=1; isMrgNull=true
+08-16 10:12:48.609  2661  5454 I Hicom_Monitor: mActivityNotifierEx, className = androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity, uid = 10431
+08-16 10:12:48.610  2661  3071 D DollieActivityManagerAdapter: [Resumed] bg:false pid:7774 uid:10431 ComponentInfo{com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity}
+08-16 10:12:48.610  2661  3071 E DollieAdapterService: notifyActivityState pkg:com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity state:2 fg:true mUid:10431
+08-16 10:12:48.610  2661  3071 I OllieMsgCenter: publishEvt=2130771985
+08-16 10:12:48.611  6225  9809 I CAWARENESS_AppUsageManager: onEvent, packageName=com.example.dogglers, activityName=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+08-16 10:12:48.611  6225  9809 I CAWARENESS_AppUsageManager: fuse currently and delay publish
+08-16 10:12:48.612  3386  7816 I HiAdKit.DC.PageSwitchEvent:  switch is off
+08-16 10:12:48.612  3386  7816 I HiAdKit.DC.PaymentPageSwitchEvent:  switch is off
+08-16 10:12:48.612  3386  7816 I HiAdKit.DC.LiteAppPageSwitchEvent:  switch is off
+08-16 10:12:48.615  7774  9840 D HiTouch_PressGestureDetector: onAttached, package=com.example.dogglers, windowType=1, mIsHiTouchRestricted=false
+08-16 10:12:48.616  1636  1660 D HwPhoneWindowManager: Transact:setSystemUIColor to status bar service
+08-16 10:12:48.616  1636 15277 D ZrHung.AppEyeFocusWindow: FocusWindowErrorScene cancelCheckFreezeScreen
+08-16 10:12:48.616  1636 15277 D ZrHung.AppEyeTransparentWindow: TransparentWindow mHungConfigStatus = 0,mHungConfigEnable = 1
+08-16 10:12:48.617  2690 22775 I KStateManager: send binder call message, called pid:2208, calling pid:[1636]
+08-16 10:12:48.618  7774  7850 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+08-16 10:12:48.619  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:48.619  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.airbnb.android
+08-16 10:12:48.621  2580 23377 I OPCollectLog: AppChangeImpl:call onAppChange.
+08-16 10:12:48.622  2580  6962 I OPCollectLog: HwForegroundAppAction:handleMessage
+08-16 10:12:48.622  2580  6962 D OPCollectLog: HwForegroundAppAction:FG executeWithArgs
+08-16 10:12:48.622  2580  6962 I OPCollectLog: OPCollectUtils:ODMF Api Version:2.16.3
+08-16 10:12:48.622  1636 17378 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:48.622  2580  6962 I OPCollectLog: Action:HwForegroundAppAction executed successfully
+08-16 10:12:48.622  2580  6962 D OPCollectLog: OdmfCollectScheduler:handleMessage msg: 4
+08-16 10:12:48.622  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache 1
+08-16 10:12:48.622  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache curTime: 574942717, interval: 1932
+08-16 10:12:48.624  2580  6962 I OPCollectLog: OdmfHelper:isCharging: true
+08-16 10:12:48.624  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:48.625  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:48.627  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:48.628  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:48.628  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.airbnb.android, isAppDataAble: false
+08-16 10:12:48.631  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.airbnb.android match om config, backup app data.
+08-16 10:12:48.632  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.airbnb.android","appName":"Airbnb","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"28001045","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:48.633  2661  3071 I ConnCureStateMonitor: handleMessage: msg[4]
+08-16 10:12:48.634  2580  6962 I OPCollectLog: OdmfHelper:insert database success
+08-16 10:12:48.635  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache size: 1
+08-16 10:12:48.635  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache lastTime: 574942729
+08-16 10:12:48.635  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:48.635  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = appinventor.ai_ansonsavage.DiceRole_Magic8Ball_Extension_Two_Die
+08-16 10:12:48.635  2661  3071 I ConnCureStateMonitor: canPerformConnCure: isWifiConnected[false] isDataConnected[true]
+08-16 10:12:48.635  2661  3071 D ConnCureConfigUtil: isCaredApp: input = com.example.dogglers
+08-16 10:12:48.635  2661  3071 I ConnCureStateMonitor: isCaredApp:false,isAllowed:true,isDataEnabled:true
+08-16 10:12:48.636  2208  2208 D BarTransitions.HwPhoneStatusBarView: MODE_TRANSPARENT -> MODE_OPAQUE animate=false
+08-16 10:12:48.636  2208  2208 D BarTransitions.HwPhoneStatusBarView: applyModeBackground oldMode=MODE_TRANSPARENT newMode=MODE_OPAQUE animate=false
+08-16 10:12:48.636  7774  7774 D DecorView: showOrHideHighlightView: hasFocus=true; winMode=1; isMrgNull=true
+08-16 10:12:48.636  7774  7774 W InputMethodManager: startInputReason = 1
+08-16 10:12:48.637  7774  7774 W HwRemoteInputMethodManager: isCasting false because IHwDistributedWindowManager is invalid.
+08-16 10:12:48.637  2208  2208 D BarTransitions.HwNavigationBarView: MODE_TRANSPARENT -> MODE_OPAQUE animate=false
+08-16 10:12:48.637  2208  2208 D BarTransitions.HwNavigationBarView: applyModeBackground oldMode=MODE_TRANSPARENT newMode=MODE_OPAQUE animate=false
+08-16 10:12:48.638  1636  2813 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:48.640  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:48.641  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:48.642  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:48.643  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:48.643  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: appinventor.ai_ansonsavage.DiceRole_Magic8Ball_Extension_Two_Die, isAppDataAble: false
+08-16 10:12:48.645  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: appinventor.ai_ansonsavage.DiceRole_Magic8Ball_Extension_Two_Die match om config, backup app data.
+08-16 10:12:48.646  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"appinventor.ai_ansonsavage.DiceRole_Magic8Ball_Extension_Two_Die","appName":"Dice","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"801","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:48.655  1636  1963 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:48.658   757  1724 W BufferQueueProducer: [com.example.dogglers/com.example.dogglers.HorizontalListActivity#0]:1390: disconnect: not connected (req=1)
+08-16 10:12:48.658  7774  7850 W libEGL  : EGLNativeWindowType 0x76e4c263d0 disconnect failed
+08-16 10:12:48.660  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:48.660  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.facebook.orca
+08-16 10:12:48.662  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@83f9413 in: DESTROYED
+08-16 10:12:48.662  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@83f9413
+08-16 10:12:48.663  7774  7774 E RtgSchedManager: endActivityTransaction: margin state not match
+08-16 10:12:48.663  7774  7774 E RtgSchedManager: endActivityTransaction: margin state not match
+08-16 10:12:48.663  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3513783 in: PAUSED
+08-16 10:12:48.663  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3513783
+08-16 10:12:48.664  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:48.665  2661  3071 I OllieMsgCenter: publishEvt=2135097345
+08-16 10:12:48.667  1636  1963 D ZrHung.AppEyeFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+08-16 10:12:48.667  1636  1963 D ZrHung.AppEyeTransparentWindow: TransparentWindow cancelCheckFreezeScreen
+08-16 10:12:48.669  1046  1070 D AwareLog: iawared: WorkingsetProcessCommand subCmd = 352, userId=10431, pid=7774, com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+08-16 10:12:48.669  1046  1070 D AwareLog: iawared: WorkingsetStop com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+08-16 10:12:48.670  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by osRegex
+08-16 10:12:48.670  8174  8678 I Cloud[13.2.0.303]Sync.OMConfigureUtil: configure osVersRegex: (^EmotionUI_8|^EmotionUI_9|^EmotionUI_[1-2][0-9]|^MagicUI_[4-9]|^HarmonyOS_[1-9]).*current osVersion: EmotionUI_12.0.0
+08-16 10:12:48.670  2661  3920 I Booster_Qoe: AdaBoostPredict rlt,index:4,NisPsSlow:0,NProba:425,rsrp(rssi):-95,rsrq(noise):-9,rtt(chload):0,buffhigh(uldelay):0,buffcomm(rtt):0
+08-16 10:12:48.670  2661  3920 I Booster_Qoe: AdaBoostPredict rlt,index:0,NisPsSlow:0,NProba:398,rsrp(rssi):-95,rsrq(noise):-9,rtt(chload):37,buffhigh(uldelay):0,buffcomm(rtt):0
+08-16 10:12:48.670  8174  8678 I Cloud[13.2.0.303]Sync.OMConfigureUtil: currentVersion: 130200303, minClientVersion = 0
+08-16 10:12:48.670  7774  7774 E RtgSchedManager: endActivityTransaction: margin state not match
+08-16 10:12:48.670  8174  8678 I Cloud[13.2.0.303]Sync.OMConfigureUtil: deviceList is empty, default match effect device
+08-16 10:12:48.670  8174  8678 I Cloud[13.2.0.303]Sync.OMConfigureUtil: gradeList is empty, default match effect grade
+08-16 10:12:48.671  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:48.671  7774  7774 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@bf59c56
+08-16 10:12:48.671  7774  7774 E RtgSchedManager: endActivityTransaction: margin state not match
+08-16 10:12:48.671  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.facebook.orca, isAppDataAble: true
+08-16 10:12:48.671  1046  1070 D AwareLog: iawared: WorkingsetProcessCommand subCmd = 350, userId=10431, pid=7774, com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+08-16 10:12:48.671  1636  1963 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:48.672  1046  1070 D AwareLog: iawared: WorkingsetSendPrereadMsg com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+08-16 10:12:48.672  8174  8678 I Cloud[13.2.0.303]Sync.OMConfigureUtil: isMatchTwinAppControl twinAppControl is empty
+08-16 10:12:48.672  1046  1070 D AwareLog: iawared: WorkingsetStart com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity in monitor0
+08-16 10:12:48.672  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupConfigOperator: appBackupSwitchRecommend 15 status 1 OPEN
+08-16 10:12:48.672  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: 5g cloud package user
+08-16 10:12:48.674  2661  3353 I Hicom_Monitor: handleNetworkQoeReport. foregroundAppTcpRtt: 0, maxRatioChannelId: 0
+08-16 10:12:48.674  2661  3353 I Hicom_Monitor: handleNetworkQoeReport. qoeString: 10431,4,0,425,1,0,4,0,398,7958,19895,10,0,0,0,0,0
+08-16 10:12:48.674  2661  3071 D DollieActivityManagerAdapter: [Paused] pid:7774 uid:10431 ComponentInfo{com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity} uidState:2
+08-16 10:12:48.675  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@db9f4d7 in: PRE_ON_CREATE
+08-16 10:12:48.675  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.facebook.orca match om config, backup app data.
+08-16 10:12:48.675  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@db9f4d7
+08-16 10:12:48.677  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.facebook.orca","appName":"Messenger","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"0","data3":"0","data4":"314002755","data5":"","data6":"","dataBytes":139389881,"increase1":139389881,"increase2":139389881,"isDataEnable":2,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdAppData","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:48.678  3386  7832 I HiAdKit.DC.PageSwitchEvent:  switch is off
+08-16 10:12:48.678  3386  7832 I HiAdKit.DC.PaymentPageSwitchEvent:  switch is off
+08-16 10:12:48.678  3386  7832 I HiAdKit.DC.LiteAppPageSwitchEvent:  switch is off
+08-16 10:12:48.680  7774  7774 I DecorView[]: pkgName:com.example.dogglers old windowMode:0 new windoMode:1, isFixedSize:false
+08-16 10:12:48.682  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@db9f4d7 in: CREATED
+08-16 10:12:48.682  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@db9f4d7
+08-16 10:12:48.683  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@db9f4d7 in: STARTED
+08-16 10:12:48.683  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@db9f4d7
+08-16 10:12:48.684  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@db9f4d7 in: RESUMED
+08-16 10:12:48.684  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@db9f4d7
+08-16 10:12:48.685  7774  7774 D MouseWheelSynthesizer: mMoveStepInDp: 64, mMoveStepInPixel: 192, mUpTimeDelayed: 100
+08-16 10:12:48.685  7774  7774 D ViewRootImpl: ViewRootImpl mIsInProductivePCDisplay: false
+08-16 10:12:48.685  1636  1963 I HwPCUtils#HwRioViewManager: check if rio enable, displayId = 0， packageName = com.example.dogglers
+08-16 10:12:48.688  1636 15277 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:48.688  7774  7774 D InputEventReceiver: dispatchInputInterval 1000000
+08-16 10:12:48.689  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:48.689  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.playrix.homescapes
+08-16 10:12:48.690  7774  7774 E RtgSchedManager: endActivityTransaction: margin state not match
+08-16 10:12:48.691  7774  7774 E RtgSchedManager: endActivityTransaction: margin state not match
+08-16 10:12:48.691  2661  3071 D DollieActivityManagerAdapter: [Resumed] bg:false pid:7774 uid:10431 ComponentInfo{com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity}
+08-16 10:12:48.691  2661  3071 E DollieAdapterService: notifyActivityState pkg:com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity state:2 fg:true mUid:10431
+08-16 10:12:48.691  2661  3071 I OllieMsgCenter: publishEvt=2130771985
+08-16 10:12:48.691  2661 29501 I Hicom_Monitor: mActivityNotifierEx, className = androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity, uid = 10431
+08-16 10:12:48.692  7774  7774 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@ddc705a in: STOPPED
+08-16 10:12:48.692  7774  7774 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.dogglers.HorizontalListActivity@ddc705a
+08-16 10:12:48.692  6225  9809 I CAWARENESS_AppUsageManager: Repeat info, don't need publish
+08-16 10:12:48.692  2315  2315 E FullInputEventModel: onStartInput event aborted: fk.c0: could not obtain extracted text (class fk.c0)
+08-16 10:12:48.692  3386  7833 I HiAdKit.DC.PageSwitchEvent:  switch is off
+08-16 10:12:48.692  3386  7833 I HiAdKit.DC.PaymentPageSwitchEvent:  switch is off
+08-16 10:12:48.692  3386  7833 I HiAdKit.DC.LiteAppPageSwitchEvent:  switch is off
+08-16 10:12:48.693  7774  7774 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@ddc705a in: DESTROYED
+08-16 10:12:48.693  7774  7774 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+08-16 10:12:48.693  2580 23377 I OPCollectLog: AppChangeImpl:call onAppChange.
+08-16 10:12:48.693  2580  6962 I OPCollectLog: HwForegroundAppAction:handleMessage
+08-16 10:12:48.693  2580  6962 D OPCollectLog: HwForegroundAppAction:FG executeWithArgs
+08-16 10:12:48.693  2580  6962 I OPCollectLog: OPCollectUtils:ODMF Api Version:2.16.3
+08-16 10:12:48.694  2580  6962 I OPCollectLog: Action:HwForegroundAppAction executed successfully
+08-16 10:12:48.694  2580  6962 D OPCollectLog: OdmfCollectScheduler:handleMessage msg: 4
+08-16 10:12:48.694  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache 1
+08-16 10:12:48.694  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache curTime: 574942788, interval: 59
+08-16 10:12:48.694  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:48.694  2580  6962 I OPCollectLog: OdmfHelper:isCharging: true
+08-16 10:12:48.695  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:48.695  2580  6962 I OPCollectLog: OdmfHelper:insert database success
+08-16 10:12:48.695  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache size: 1
+08-16 10:12:48.695  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache lastTime: 574942790
+08-16 10:12:48.696  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:48.697  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:48.697  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.playrix.homescapes, isAppDataAble: false
+08-16 10:12:48.698  7774  7774 E RtgSchedManager: endActivityTransaction: margin state not match
+08-16 10:12:48.698  7774  7774 D DecorView: showOrHideHighlightView: hasFocus=false; winMode=1; isMrgNull=true
+08-16 10:12:48.700  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.playrix.homescapes match om config, backup app data.
+08-16 10:12:48.701  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.playrix.homescapes","appName":"Homescapes","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"10006306","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:48.702  7774  9845 D HiTouch_PressGestureDetector: onAttached, package=com.example.dogglers, windowType=1, mIsHiTouchRestricted=false
+08-16 10:12:48.704  1636  1963 D ZrHung.AppEyeFocusWindow: FocusWindowErrorScene cancelCheckFreezeScreen
+08-16 10:12:48.704  1636  1963 D ZrHung.AppEyeTransparentWindow: TransparentWindow mHungConfigStatus = 0,mHungConfigEnable = 1
+08-16 10:12:48.705  1636 15277 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:48.706  7774  7850 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+08-16 10:12:48.711  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:48.711  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.nexelon.fishinglife
+08-16 10:12:48.716  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:48.716  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:48.718  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:48.718  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:48.718  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.nexelon.fishinglife, isAppDataAble: false
+08-16 10:12:48.719  7774  7774 D DecorView: showOrHideHighlightView: hasFocus=true; winMode=1; isMrgNull=true
+08-16 10:12:48.719  7774  7774 W InputMethodManager: startInputReason = 1
+08-16 10:12:48.719  7774  7774 W HwRemoteInputMethodManager: isCasting false because IHwDistributedWindowManager is invalid.
+08-16 10:12:48.722  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.nexelon.fishinglife match om config, backup app data.
+08-16 10:12:48.723  1636 15277 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:48.723  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.nexelon.fishinglife","appName":"FishingLife","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"196","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:48.725   757  1624 W BufferQueueProducer: [com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0]:1390: disconnect: not connected (req=1)
+08-16 10:12:48.725  7774  7850 W libEGL  : EGLNativeWindowType 0x767badd3d0 disconnect failed
+08-16 10:12:48.730  6225  9809 I CAWARENESS_AppUsageManager: onEvent, packageName=com.huawei.android.launcher, activityName=com.huawei.android.launcher.unihome.UniHomeLauncher
+08-16 10:12:48.730  6225  9809 I CAWARENESS_AppUsageManager: fuse currently and delay publish
+08-16 10:12:48.731  1636  1963 D ZrHung.AppEyeFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+08-16 10:12:48.731  1636  1963 D ZrHung.AppEyeTransparentWindow: TransparentWindow cancelCheckFreezeScreen
+08-16 10:12:48.731  2730  9052 W HwLauncher: ExitAppAnimationManager getAnimationInfoMyself, mAnimationInfo = com.huawei.android.launcher.exitapp.ExitAppAnimationManager$AnimationInfo@b99a65a
+08-16 10:12:48.731  2661  2756 I Hicom_Monitor: mAppSwitchNotifierEx. uid: 10065, foreground app: com.huawei.android.launcher, foreground activity: com.huawei.android.launcher.unihome.UniHomeLauncher
+08-16 10:12:48.732  2661 29501 I AssistantService-11.2.1.200: registerHwActivityNotifier call fromPackage:com.example.dogglers, toPackage:com.huawei.android.launcher
+08-16 10:12:48.732  2730  2730 W HwLauncher: RotationHelper hideAdjacentScreen, launcher is not transposed. RotationMode = com.huawei.android.launcher.graphics.RotationMode$1{293d90b surfaceRotation = 0.0,isTransposed = false}
+08-16 10:12:48.732  2661  6711 D AssistantService-11.2.1.200: handleMessage app switch fromPackage:com.example.dogglers, toPackage:com.huawei.android.launcher
+08-16 10:12:48.733  2690  3310 I ScenarioService: app focus change from: com.example.dogglers to:com.huawei.android.launcher
+08-16 10:12:48.733  2690  3310 I ScenarioService: add focus on app:com.huawei.android.launcher to visiblePkgs
+08-16 10:12:48.733  2661  3353 W Hicom_XEngineProc: handleForegroundAppChanged. Feature is not enable.
+08-16 10:12:48.733  3386  7816 I HiAdKit.DC.PersistentMessageCenter:  notifyMessage com.huawei.hwid_app_switch_from_to_intent
+08-16 10:12:48.733  2624 10575 I iconnect:BluetoothApi: adapter status 12
+08-16 10:12:48.733  2624 10575 I iconnect:NearbyDeviceDetect: isPropEnable=true, isBluetoothEnabled=true, isScreenOn=true, isNotSpecialAppOnTop=true, scanCondition=0
+08-16 10:12:48.734  2624 10575 I iconnect:DeviceStateMachineManager: report:NOT_SPECIAL_APP_ON_TOP device:D
+08-16 10:12:48.734  2624 10575 I iconnect:DeviceStateMachineManager: Return exist stateMachine
+08-16 10:12:48.734  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:48.734  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.tapblaze.homecraft
+08-16 10:12:48.735  7774  7774 E RtgSchedManager: endActivityTransaction: margin state not match
+08-16 10:12:48.735  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@db9f4d7 in: PAUSED
+08-16 10:12:48.736  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@db9f4d7
+08-16 10:12:48.739  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:48.740  1636  3594 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:48.740  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:48.740  2690  3310 D ScenarioService: front pkg : com.huawei.android.launcher launcher: true
+08-16 10:12:48.740  2690  3310 I AppsUsage: scnOff:false FgAPP:com.huawei.android.launcher BgAPP:com.example.dogglers
+08-16 10:12:48.741  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:48.741  2690  3438 I PG_ash  : front pkg : com.huawei.android.launcher
+08-16 10:12:48.741  2690  3646 I PGServer: report state:10000 event type:2 pid:0 uid:0 pkg:com.example.dogglers to pid: 2690
+08-16 10:12:48.741  2690  3646 I SceneReceiver: state type: 10000 eventType:2 pid:0 uid:0 pkg:com.example.dogglers
+08-16 10:12:48.741  2690  3646 I PGServer: report state:10000 event type:2 pid:0 uid:0 pkg:com.example.dogglers to pid: 1636
+08-16 10:12:48.741  2690  3646 I PGServer: report state:10010 event type:1 pid:0 uid:0 pkg:com.huawei.android.launcher to pid: 2690
+08-16 10:12:48.741  2690  3646 I SceneReceiver: state type: 10010 eventType:1 pid:0 uid:0 pkg:com.huawei.android.launcher
+08-16 10:12:48.742  2690  3646 I ApsAppsTypeHandler: APS: APK: ApsAppsTypeHandler.getInstance, sInstance = com.huawei.android.hwaps.o@92bda0
+08-16 10:12:48.742  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:48.742  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.tapblaze.homecraft, isAppDataAble: false
+08-16 10:12:48.742  7774  7774 E RtgSchedManager: endActivityTransaction: margin state not match
+08-16 10:12:48.743  7774  7774 D DecorView: showOrHideHighlightView: hasFocus=false; winMode=1; isMrgNull=true
+08-16 10:12:48.743  7774  7836 I TestRunner: finished: horizontal_scrolling(com.example.dogglers.HorizontalListTests)

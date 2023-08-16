@@ -1,4 +1,4 @@
-#Mon Aug 14 21:22:58 CLT 2023
+#Wed Aug 16 10:12:14 CLT 2023
 base.0=C\:\\Users\\mauri\\Desktop\\Android\\CursoGoogle v2.0\\Dogglers\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\mauri\\Desktop\\Android\\CursoGoogle v2.0\\Dogglers\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\mauri\\Desktop\\Android\\CursoGoogle v2.0\\Dogglers\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex

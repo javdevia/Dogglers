@@ -1,0 +1,2 @@
+
+JND022011000070629 ³Ç²*	arm64-v8a*armeabi-v7a*armeabi2HUAWEI:JND0220110000706RELE-L04

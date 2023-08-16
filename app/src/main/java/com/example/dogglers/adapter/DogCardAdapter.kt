@@ -85,11 +85,11 @@ class DogCardAdapter(
         holder.tvDogName.text = dog.name
 
         // TODO: Set the text for the current dog's age
-        holder.tvDogAge.text = dog.age
+        holder.tvDogAge.text = "Age: ${dog.age}"
         // TODO: Set the text for the current dog's hobbies by passing the hobbies to the
         //  R.string.dog_hobbies string constant.
         //  Passing an argument to the string resource looks like:
         //  resources?.getString(R.string.dog_hobbies, dog.hobbies)
-        holder.tvDogHobbies.text = dog.hobbies
+        holder.tvDogHobbies.text = "Hobbies: ${dog.hobbies}"
     }
 }

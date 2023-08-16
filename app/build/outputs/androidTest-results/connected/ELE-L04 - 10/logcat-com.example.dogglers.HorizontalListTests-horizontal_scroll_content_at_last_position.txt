@@ -1,0 +1,461 @@
+08-16 10:12:49.250  7774  7836 I TestRunner: started: horizontal_scroll_content_at_last_position(com.example.dogglers.HorizontalListTests)
+08-16 10:12:49.252  1636 17378 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:49.256  7774  7836 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+08-16 10:12:49.261  1636  3033 I HWRME LIBHWRME_CLIENT: ResMngMmEvent interface arg 0, 10431
+08-16 10:12:49.271  1046  1070 D AwareLog: iawared: WorkingsetProcessCommand subCmd = 352, userId=10431, pid=7774, com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+08-16 10:12:49.271  1046  1070 D AwareLog: iawared: WorkingsetStop com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+08-16 10:12:49.272  1046  1070 D AwareLog: iawared: WorkingsetProcessCommand subCmd = 350, userId=10431, pid=7774, com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+08-16 10:12:49.272  1046  1070 D AwareLog: iawared: WorkingsetSendPrereadMsg com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+08-16 10:12:49.273  1046  1070 D AwareLog: iawared: WorkingsetStart com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity in monitor0
+08-16 10:12:49.274  1636 17378 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:49.275  2661 29501 E DollieActivityManagerAdapter: HwActivityNotifierEx null uid
+08-16 10:12:49.275  3386  7832 I HiAdKit.DC.PageSwitchEvent:  switch is off
+08-16 10:12:49.275  3386  7832 I HiAdKit.DC.PaymentPageSwitchEvent:  switch is off
+08-16 10:12:49.275  3386  7832 I HiAdKit.DC.LiteAppPageSwitchEvent:  switch is off
+08-16 10:12:49.275  2690  3438 I AppFastHibernation: rev F_Z exception for visible pkg: com.example.dogglers
+08-16 10:12:49.276  7774  7774 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@32e471d
+08-16 10:12:49.277  1636  2920 D ZrHung.AppEyeFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+08-16 10:12:49.277  1636  2920 D ZrHung.AppEyeTransparentWindow: TransparentWindow cancelCheckFreezeScreen
+08-16 10:12:49.278  2661 29501 I AssistantService-11.2.1.200: registerHwActivityNotifier call fromPackage:com.huawei.android.launcher, toPackage:com.example.dogglers
+08-16 10:12:49.278  2661  2756 I Hicom_Monitor: mAppSwitchNotifierEx. uid: 10431, foreground app: com.example.dogglers, foreground activity: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+08-16 10:12:49.278  2661  6711 D AssistantService-11.2.1.200: handleMessage app switch fromPackage:com.huawei.android.launcher, toPackage:com.example.dogglers
+08-16 10:12:49.278  2661  3353 W Hicom_XEngineProc: handleForegroundAppChanged. Feature is not enable.
+08-16 10:12:49.279  2690  3310 D ScenarioService: front pkg : com.example.dogglers launcher: false
+08-16 10:12:49.279  2690  3310 D ScenarioService: new above launcher front pkgs: [com.example.dogglers]
+08-16 10:12:49.279  2690  3310 I AppsUsage: scnOff:false FgAPP:com.example.dogglers BgAPP:com.huawei.android.launcher
+08-16 10:12:49.279  3386  7833 I HiAdKit.DC.PersistentMessageCenter:  notifyMessage com.huawei.hwid_app_switch_from_to_intent
+08-16 10:12:49.280  2690  3646 I PGServer: report state:10010 event type:2 pid:0 uid:0 pkg:com.huawei.android.launcher to pid: 2690
+08-16 10:12:49.280  2690  3646 I SceneReceiver: state type: 10010 eventType:2 pid:0 uid:0 pkg:com.huawei.android.launcher
+08-16 10:12:49.280  2690  3646 I PGServer: report state:10010 event type:2 pid:0 uid:0 pkg:com.huawei.android.launcher to pid: 1636
+08-16 10:12:49.280  2690  3646 I PGServer: report state:10000 event type:1 pid:0 uid:0 pkg:com.example.dogglers to pid: 2690
+08-16 10:12:49.280  2690  3646 I SceneReceiver: state type: 10000 eventType:1 pid:0 uid:0 pkg:com.example.dogglers
+08-16 10:12:49.280  2690  3646 I ApsAppsTypeHandler: APS: APK: ApsAppsTypeHandler.getInstance, sInstance = com.huawei.android.hwaps.o@92bda0
+08-16 10:12:49.281  2690  3646 I PGServer: report state:10000 event type:1 pid:0 uid:0 pkg:com.example.dogglers to pid: 1636
+08-16 10:12:49.281  1636  1663 I DecorView[dogglers]: pkgName:com.example.dogglers old windowMode:0 new windoMode:1, isFixedSize:false
+08-16 10:12:49.281  2690  3438 I PG_ash  : front pkg : com.example.dogglers
+08-16 10:12:49.281  2661  3071 D DollieActivityManagerAdapter: [Paused] pid:2730 uid:10065 ComponentInfo{com.huawei.android.launcher/com.huawei.android.launcher.unihome.UniHomeLauncher} uidState:2
+08-16 10:12:49.282  1636  1663 D MouseWheelSynthesizer: mMoveStepInDp: 64, mMoveStepInPixel: 192, mUpTimeDelayed: 100
+08-16 10:12:49.282  1636  1663 D ViewRootImpl: ViewRootImpl mIsInProductivePCDisplay: false
+08-16 10:12:49.282  1636  1663 I HwPCUtils#HwRioViewManager: check if rio enable, displayId = 0， packageName = com.example.dogglers
+08-16 10:12:49.282  2690 22776 I PGServer: checkPkgType. calling pkg: android
+08-16 10:12:49.283  2690 22776 I PGServer: checkPkgType. calling pkg: android
+08-16 10:12:49.283  3386  7832 I HiAdKit.DC.PageSwitchEvent:  switch is off
+08-16 10:12:49.283  3386  7832 I HiAdKit.DC.PaymentPageSwitchEvent:  switch is off
+08-16 10:12:49.283  1636  1663 D InputEventReceiver: dispatchInputInterval 1000000
+08-16 10:12:49.284  2690  3310 I ScenarioService: app focus change from: com.huawei.android.launcher to:com.example.dogglers
+08-16 10:12:49.284  2690  3310 I ScenarioService: add focus on app:com.example.dogglers to visiblePkgs
+08-16 10:12:49.284  3386  7832 I HiAdKit.DC.LiteAppPageSwitchEvent:  switch is off
+08-16 10:12:49.284  1636  1963 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:49.285  2624 10575 I iconnect:BluetoothApi: adapter status 12
+08-16 10:12:49.285  2690  4739 I PGServer: getTopFrontApp. calling pkg: android
+08-16 10:12:49.285  2624 10575 I iconnect:NearbyDeviceDetect: isPropEnable=true, isBluetoothEnabled=true, isScreenOn=true, isNotSpecialAppOnTop=true, scanCondition=0
+08-16 10:12:49.285  2624 10575 I iconnect:DeviceStateMachineManager: report:NOT_SPECIAL_APP_ON_TOP device:D
+08-16 10:12:49.285  2624 10575 I iconnect:DeviceStateMachineManager: Return exist stateMachine
+08-16 10:12:49.286  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:49.286  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.example.appyoutubearis
+08-16 10:12:49.288  1636  9851 D HiTouch_PressGestureDetector: onAttached, package=com.example.dogglers, windowType=3, mIsHiTouchRestricted=false
+08-16 10:12:49.290  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1cd4d92 in: PRE_ON_CREATE
+08-16 10:12:49.290  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1cd4d92
+08-16 10:12:49.292  2730  2730 D DecorView: showOrHideHighlightView: hasFocus=false; winMode=1; isMrgNull=true
+08-16 10:12:49.292  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:49.293  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:49.295  7774  7774 I DecorView[]: pkgName:com.example.dogglers old windowMode:0 new windoMode:1, isFixedSize:false
+08-16 10:12:49.295  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:49.295  7774  7774 I RmeSchedManager: init Rme, version is: v1.0
+08-16 10:12:49.296   664 24580 I OemNetd : setChrAppUid(10, 10431)
+08-16 10:12:49.296  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:49.297  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.example.appyoutubearis, isAppDataAble: false
+08-16 10:12:49.297  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1cd4d92 in: CREATED
+08-16 10:12:49.297  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1cd4d92
+08-16 10:12:49.297  1636  2012 W AwareLog: SchedLevelBoost: onFgActivitiesChanged config not set!
+08-16 10:12:49.298  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1cd4d92 in: STARTED
+08-16 10:12:49.298  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1cd4d92
+08-16 10:12:49.299   753  1510 D AudioPolicyService: getUidState(10431) cacheIter->second.first, return cacheIter->second.second(5)
+08-16 10:12:49.300  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.example.appyoutubearis match om config, backup app data.
+08-16 10:12:49.300  1636  5869 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:49.301  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.example.appyoutubearis","appName":"AppYoutubeAris","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"1","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:49.303  1021 29289 D ITouchService: itouch stylusCurrentPkgName = com.example.dogglers lastOneFramePkgName =
+08-16 10:12:49.303  1021 29289 D ITouchService: itouch currentPackageName = com.example.dogglers
+08-16 10:12:49.303  1021 29289 D ITouchService: itouch appType=-1 appState=1 gameMode=2
+08-16 10:12:49.303  1021 29289 D ITouchService: itouchReaderMonitor empty
+08-16 10:12:49.303  1021 29289 D ITouchService: g_itouch_reader_monitor Monitor::IsReaderMonitorEnable()=0
+08-16 10:12:49.303  1021 29289 D ITouchService: itouch getCurrentParmID tempPkg=com.example.xxx
+08-16 10:12:49.303  1021 29289 D ITouchService: itouch:app com.example.dogglers is  not game app
+08-16 10:12:49.303  1021 29289 D ITouchService: itouch:app com.example.dogglers is  not in StylusPenList
+08-16 10:12:49.303  1021 29289 D ITouchService: itouch:styluspen_switch is disable
+08-16 10:12:49.303  1021 29289 D ITouchService: itouch:currentAppTypeName =|UNKNOWN|
+08-16 10:12:49.306  2208  2208 D ImageWallpaper: wallpaper visibility changes to: false
+08-16 10:12:49.307  2208  2208 D BarTransitions.HwPhoneStatusBarView: MODE_TRANSPARENT -> MODE_OPAQUE animate=false
+08-16 10:12:49.307  2208  2208 D BarTransitions.HwPhoneStatusBarView: applyModeBackground oldMode=MODE_TRANSPARENT newMode=MODE_OPAQUE animate=false
+08-16 10:12:49.307  2208  2208 D BarTransitions.HwNavigationBarView: MODE_TRANSPARENT -> MODE_OPAQUE animate=false
+08-16 10:12:49.307  2208  2208 D BarTransitions.HwNavigationBarView: applyModeBackground oldMode=MODE_TRANSPARENT newMode=MODE_OPAQUE animate=false
+08-16 10:12:49.312  2661  1440 E DollieActivityManagerAdapter: HwActivityNotifierEx null uid
+08-16 10:12:49.314  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1cd4d92 in: RESUMED
+08-16 10:12:49.314  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1cd4d92
+08-16 10:12:49.314  3386  7833 I HiAdKit.DC.PageSwitchEvent:  switch is off
+08-16 10:12:49.314  3386  7833 I HiAdKit.DC.PaymentPageSwitchEvent:  switch is off
+08-16 10:12:49.315  3386  7833 I HiAdKit.DC.LiteAppPageSwitchEvent:  switch is off
+08-16 10:12:49.317 26909 26909 I HiBoard_22.0.8.300_Workspace: onWindowVisibilityChanged：8 isOverlayClosed:true
+08-16 10:12:49.317  1636 15277 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:49.318  6225  9809 I CAWARENESS_AppUsageManager: onEvent, packageName=com.example.dogglers, activityName=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+08-16 10:12:49.318  6225  9809 I CAWARENESS_AppUsageManager: fuse currently and delay publish
+08-16 10:12:49.319  3386  7816 I HiAdKit.DC.PageSwitchEvent:  switch is off
+08-16 10:12:49.319  3386  7816 I HiAdKit.DC.PaymentPageSwitchEvent:  switch is off
+08-16 10:12:49.319  3386  7816 I HiAdKit.DC.LiteAppPageSwitchEvent:  switch is off
+08-16 10:12:49.319  2661  3071 D DollieActivityManagerAdapter: [Resumed] bg:true pid:7774 uid:10431 ComponentInfo{com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity}
+08-16 10:12:49.319  2661  3071 E DollieAdapterService: notifyActivityState pkg:com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity state:2 fg:true mUid:10431
+08-16 10:12:49.320  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1cd4d92 in: PAUSED
+08-16 10:12:49.320   757   993 W BufferQueueProducer: [com.huawei.intelligent.Workspace#0]:1390: disconnect: not connected (req=1)
+08-16 10:12:49.321 26909 27098 W libEGL  : EGLNativeWindowType 0x7637d99f90 disconnect failed
+08-16 10:12:49.321  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1cd4d92
+08-16 10:12:49.321  2661  3071 I ConnCureStateMonitor: handleMessage: msg[2]
+08-16 10:12:49.322  2661  3071 I HwPacketFilterBypass: handleActivityUidStateChanged uid:10431 -1 foreground:1
+08-16 10:12:49.322  2661  3071 I OllieMsgCenter: publishEvt=2135097351
+08-16 10:12:49.322   664 24580 I OemNetd : setNetBoosterAppUid(10431, 2000)
+08-16 10:12:49.322  2661  3071 I OllieMsgCenter: publishEvt=2130771969
+08-16 10:12:49.322  2661  3071 I OllieMsgCenter: publishEvt=2130771985
+08-16 10:12:49.323  1636 15277 D HwConnectivityManagerImpl: startappqoednscollection action =0timer =1000
+08-16 10:12:49.323  2661  3071 I SpeedTestNotifier: Speed test app is back Activity
+08-16 10:12:49.323   757   993 W BufferQueueProducer: [com.huawei.android.launcher/com.huawei.android.launcher.unihome.UniHomeLauncher#0]:1390: disconnect: not connected (req=1)
+08-16 10:12:49.323  2730  3112 W libEGL  : EGLNativeWindowType 0x766bce6450 disconnect failed
+08-16 10:12:49.324  2661  1440 I Hicom_Monitor: mActivityNotifierEx, className = androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity, uid = 10431
+08-16 10:12:49.324  1046  1070 D AwareLog: iawared: WorkingsetProcessCommand subCmd = 352, userId=10431, pid=7774, com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+08-16 10:12:49.324  1046  1070 D AwareLog: iawared: WorkingsetStop com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+08-16 10:12:49.325  1046  1070 D AwareLog: iawared: WorkingsetProcessCommand subCmd = 350, userId=10431, pid=7774, com.example.dogglers/.HorizontalListActivity
+08-16 10:12:49.325  1046  1070 D AwareLog: iawared: WorkingsetSendPrereadMsg com.example.dogglers/.HorizontalListActivity
+08-16 10:12:49.325  1046  1070 D AwareLog: iawared: WorkingsetStart com.example.dogglers/.HorizontalListActivity in monitor0
+08-16 10:12:49.326  1046  1070 D AwareLog: iawared: fg_hl_ctl update fgUid=10431 g_isGame=0
+08-16 10:12:49.332  7774  7774 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@26d3819
+08-16 10:12:49.332  2661  3071 I OllieMsgCenter: publishEvt=2134966274
+08-16 10:12:49.332  2661  3071 I OllieMsgCenter: publishEvt=2135097350
+08-16 10:12:49.334  1636  2813 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:49.336  7774  7774 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@d103cd5 in: PRE_ON_CREATE
+08-16 10:12:49.336  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+08-16 10:12:49.337  2661  3071 D DsduChr : uid=10431, isTrafficFree=false, isUsingFreeTraffic=false
+08-16 10:12:49.343  7774  7774 I DecorView[]: pkgName:com.example.dogglers old windowMode:0 new windoMode:1, isFixedSize:false
+08-16 10:12:49.350  1636  3033 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:49.350  3386  7832 I HiAdKit.DC.PageSwitchEvent:  switch is off
+08-16 10:12:49.351  3386  7832 I HiAdKit.DC.PaymentPageSwitchEvent:  switch is off
+08-16 10:12:49.351  3386  7832 I HiAdKit.DC.LiteAppPageSwitchEvent:  switch is off
+08-16 10:12:49.351  2661  3071 D DollieActivityManagerAdapter: [Paused] pid:7774 uid:10431 ComponentInfo{com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity} uidState:2
+08-16 10:12:49.351  2580 23377 I OPCollectLog: AppChangeImpl:call onAppChange.
+08-16 10:12:49.351  2580  6962 I OPCollectLog: HwForegroundAppAction:handleMessage
+08-16 10:12:49.351  2580  6962 D OPCollectLog: HwForegroundAppAction:FG executeWithArgs
+08-16 10:12:49.351  2580  6962 I OPCollectLog: OPCollectUtils:ODMF Api Version:2.16.3
+08-16 10:12:49.352  2580  6962 I OPCollectLog: Action:HwForegroundAppAction executed successfully
+08-16 10:12:49.352  2580  6962 D OPCollectLog: OdmfCollectScheduler:handleMessage msg: 4
+08-16 10:12:49.352  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache 1
+08-16 10:12:49.352  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache curTime: 574943447, interval: 564
+08-16 10:12:49.352  2580  6962 I OPCollectLog: OdmfHelper:isCharging: true
+08-16 10:12:49.352  7774  7774 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@d103cd5 in: CREATED
+08-16 10:12:49.352  7774  7774 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.dogglers.HorizontalListActivity@d103cd5
+08-16 10:12:49.353  2730  2730 D RtgSchedIpcFile: setCommandByIoctl failed ret:-1, cmdid:22, errno:103
+08-16 10:12:49.353  2730  2730 W HwLauncher: StateManager Launcher in state:NormalState{9d6631 ordinal = 0,mContainerType = 1,mIsOverviewUi = false}, mConfig.mCurrentAnimationSet == null
+08-16 10:12:49.354  2730  2730 I HwLauncher: Launcher Icon:53 Widget:2 Folder:6 Icon in folder:103, in drawer:0
+08-16 10:12:49.354  2730  2730 D RtgSchedIpcFile: setCommandByIoctl failed ret:-1, cmdid:23, errno:103
+08-16 10:12:49.354  2730  3022 E AbilityFormViewRefreshUtils: stopListening [0ms]
+08-16 10:12:49.354  7774  7774 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@d103cd5 in: STARTED
+08-16 10:12:49.355  7774  7774 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.dogglers.HorizontalListActivity@d103cd5
+08-16 10:12:49.355  2580  6962 I OPCollectLog: OdmfHelper:insert database success
+08-16 10:12:49.355  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache size: 1
+08-16 10:12:49.355  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache lastTime: 574943450
+08-16 10:12:49.356  7774  7774 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@d103cd5 in: RESUMED
+08-16 10:12:49.356  7774  7774 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.dogglers.HorizontalListActivity@d103cd5
+08-16 10:12:49.358  7774  7774 D MouseWheelSynthesizer: mMoveStepInDp: 64, mMoveStepInPixel: 192, mUpTimeDelayed: 100
+08-16 10:12:49.358  7774  7774 D ViewRootImpl: ViewRootImpl mIsInProductivePCDisplay: false
+08-16 10:12:49.358  1636 15277 I HwPCUtils#HwRioViewManager: check if rio enable, displayId = 0， packageName = com.example.dogglers
+08-16 10:12:49.359   753  1510 D AudioPolicyService: getUidState(10175) cacheIter->second.first, return cacheIter->second.second(4)
+08-16 10:12:49.359   753  1510 D AudioPolicyService: getUidState(10173) cacheIter->second.first, return cacheIter->second.second(4)
+08-16 10:12:49.359   753  1510 D AudioPolicyService: getUidState(10065) cacheIter->second.first, return cacheIter->second.second(2)
+08-16 10:12:49.359   753 14063 D AudioPolicyService: getUidState(10063) cacheIter->second.first, return cacheIter->second.second(5)
+08-16 10:12:49.361  2661  3071 D DollieActivityManagerAdapter: [UidStateChanged]  uid:10065 uidState:6
+08-16 10:12:49.361  2661  3071 E DollieAdapterService: notifyActivityState pkg:com.huawei.android.launcher/com.huawei.android.launcher.unihome.UniHomeLauncher state:6 fg:false mUid:10065
+08-16 10:12:49.361  2661  3071 I OllieMsgCenter: publishEvt=2130771969
+08-16 10:12:49.361  7774  7774 D InputEventReceiver: dispatchInputInterval 1000000
+08-16 10:12:49.362  2661  3071 I OllieMsgCenter: publishEvt=2134966274
+08-16 10:12:49.363  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:49.363  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.google.android.play.games
+08-16 10:12:49.364  2661  3071 D DollieActivityManagerAdapter: [Resumed] bg:false pid:7774 uid:10431 ComponentInfo{com.example.dogglers/com.example.dogglers.HorizontalListActivity}
+08-16 10:12:49.364  2661  3071 E DollieAdapterService: notifyActivityState pkg:com.example.dogglers/com.example.dogglers.HorizontalListActivity state:2 fg:true mUid:10431
+08-16 10:12:49.364  2661  3071 I OllieMsgCenter: publishEvt=2130771985
+08-16 10:12:49.365  3386  7833 I HiAdKit.DC.PageSwitchEvent:  switch is off
+08-16 10:12:49.365  2661 30856 I Hicom_Monitor: mActivityNotifierEx, className = com.example.dogglers.HorizontalListActivity, uid = 10431
+08-16 10:12:49.365  3386  7833 I HiAdKit.DC.PaymentPageSwitchEvent:  switch is off
+08-16 10:12:49.365  3386  7833 I HiAdKit.DC.LiteAppPageSwitchEvent:  switch is off
+08-16 10:12:49.366  6225  9809 I CAWARENESS_AppUsageManager: onEvent, packageName=com.example.dogglers, activityName=com.example.dogglers.HorizontalListActivity
+08-16 10:12:49.366  6225  9809 I CAWARENESS_AppUsageManager: fuse currently and delay publish
+08-16 10:12:49.367  1636 15277 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:49.371  7774  9855 D HiTouch_PressGestureDetector: onAttached, package=com.example.dogglers, windowType=1, mIsHiTouchRestricted=false
+08-16 10:12:49.371  2580 21526 I OPCollectLog: AppChangeImpl:call onAppChange.
+08-16 10:12:49.371  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:49.371  2580  6962 I OPCollectLog: HwForegroundAppAction:handleMessage
+08-16 10:12:49.371  2580  6962 D OPCollectLog: HwForegroundAppAction:FG executeWithArgs
+08-16 10:12:49.371  2580  6962 I OPCollectLog: OPCollectUtils:ODMF Api Version:2.16.3
+08-16 10:12:49.372  2580  6962 I OPCollectLog: Action:HwForegroundAppAction executed successfully
+08-16 10:12:49.372  2580  6962 D OPCollectLog: OdmfCollectScheduler:handleMessage msg: 4
+08-16 10:12:49.372  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache 1
+08-16 10:12:49.372  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache curTime: 574943467, interval: 17
+08-16 10:12:49.374  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:49.374  2580  6962 I OPCollectLog: OdmfHelper:isCharging: true
+08-16 10:12:49.375  2580  6962 I OPCollectLog: OdmfHelper:insert database success
+08-16 10:12:49.375  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache size: 1
+08-16 10:12:49.375  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache lastTime: 574943470
+08-16 10:12:49.376  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:49.377  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:49.377  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.google.android.play.games, isAppDataAble: false
+08-16 10:12:49.377  1636  2012 W AwareLog: SchedLevelBoost: onFgActivitiesChanged config not set!
+08-16 10:12:49.381  1636  3033 D ZrHung.AppEyeFocusWindow: FocusWindowErrorScene cancelCheckFreezeScreen
+08-16 10:12:49.381  1636  3033 D ZrHung.AppEyeTransparentWindow: TransparentWindow mHungConfigStatus = 0,mHungConfigEnable = 1
+08-16 10:12:49.381  1636  1660 D HwPhoneWindowManager: Transact:setSystemUIColor to status bar service
+08-16 10:12:49.382  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.google.android.play.games match om config, backup app data.
+08-16 10:12:49.383  7774  7850 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+08-16 10:12:49.384  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.google.android.play.games","appName":"Google Play Juegos","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"414010040","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:49.385  1636  2920 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:49.387  2690  3310 I ScenarioService: refresh visibleApp:[com.example.dogglers]
+08-16 10:12:49.387  2690  3310 I PGServer: report state:14 event type:1 pid:-1 uid:-1 pkg:com.example.dogglers to pid: 2690
+08-16 10:12:49.387  2690  3310 I ApsAppsTypeHandler: APS: APK: ApsAppsTypeHandler.getInstance, sInstance = com.huawei.android.hwaps.o@92bda0
+08-16 10:12:49.387  2690  3310 I PF_API_JNI: ACCKIT_APS_NotifyInfo 3: com.example.dogglers
+08-16 10:12:49.387   754  2646 D ACCKIT_ : pack:"com.example.dogglers"
+08-16 10:12:49.388  2690  3438 I PG_ash  : com.huawei.android.launcher become invisible
+08-16 10:12:49.397  1636  1677 I ActivityTaskManager: Displayed com.example.dogglers/.HorizontalListActivity: +136ms
+08-16 10:12:49.397  7774  7774 D DecorView: showOrHideHighlightView: hasFocus=true; winMode=1; isMrgNull=true
+08-16 10:12:49.397  7774  7774 W InputMethodManager: startInputReason = 1
+08-16 10:12:49.397  7774  7774 W HwRemoteInputMethodManager: isCasting false because IHwDistributedWindowManager is invalid.
+08-16 10:12:49.400  1636  3033 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:49.406  7774  7774 I ViewInteraction: Performing 'scroll RecyclerView to position: 5' action on view view.getId() is <2131230945/com.example.dogglers:id/horizontal_recycler_view>
+08-16 10:12:49.407  2315  2315 E FullInputEventModel: onStartInput event aborted: fk.c0: could not obtain extracted text (class fk.c0)
+08-16 10:12:49.411  1636  7153 W AwareLog: AwareMem_Reclaim: generateCompressList procsGroups error!
+08-16 10:12:49.411  2208  2382 D NetworkController.MobileSignalController(0_1): mSimSubId:1 onDataActivity: direction=2
+08-16 10:12:49.412  2208  2382 I MobileSignalController: copyFrom::dataConnected = true
+08-16 10:12:49.412  2208  2382 I MobileSignalController: copyFrom::dataConnected = true
+08-16 10:12:49.412  1046  1070 D         : HibSTrategy::HibStrategySwapCandidateProcessAdd packageName com.huawei.hiai
+08-16 10:12:49.417  1636  3033 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:49.430  2730  3203 I HwLauncher: LocalTaskList loadTasksInBackground:3 numTasks:3 currentUserId:0
+08-16 10:12:49.433  1636  2920 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:49.434  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:49.434  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.huawei.audioaccessorymanager
+08-16 10:12:49.439  7774  7774 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Bella"
+08-16 10:12:49.440  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:49.441  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:49.443  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initDefaultFileInfoList
+08-16 10:12:49.444  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: end init appDataUtil
+08-16 10:12:49.445  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: appId: com.huawei.audioaccessorymanager, isAppDataAble: false
+08-16 10:12:49.448  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: appId: com.huawei.audioaccessorymanager match om config, backup app data.
+08-16 10:12:49.449  7774  7774 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@d103cd5 in: PAUSED
+08-16 10:12:49.449  7774  7774 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.dogglers.HorizontalListActivity@d103cd5
+08-16 10:12:49.449  2690 22776 I PGServer: getTopFrontApp. calling pkg: android
+08-16 10:12:49.450  8174  8678 I Cloud[13.2.0.303]Sync.GetOptionsInfoFromCloneTask: getThirdAppOptionsInfo{"appId":"com.huawei.audioaccessorymanager","appName":"Audio Accessory Manager","appType":0,"backupData":true,"backupSwitch":false,"codeBytes":0,"data1":"","data2":"","data3":"","data4":"130000170","data5":"","data6":"","dataBytes":0,"increase1":0,"increase2":0,"isDataEnable":0,"isDisable":false,"itemTotal":0,"operateTime":0,"operateType":0,"parent":"thirdApp","showType":0,"switchCount":0,"uid":0,"appApkSize":0,"appDataSize":0,"appSwitch":false,"isOmConfigAble":false}
+08-16 10:12:49.451  1636  3033 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:49.451  1046  1070 D AwareLog: iawared: WorkingsetProcessCommand subCmd = 352, userId=10431, pid=7774, com.example.dogglers/.HorizontalListActivity
+08-16 10:12:49.452  1046  1070 D AwareLog: iawared: WorkingsetStop com.example.dogglers/.HorizontalListActivity
+08-16 10:12:49.452  1046  1070 D AwareLog: iawared: WorkingsetProcessCommand subCmd = 350, userId=10431, pid=7774, com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+08-16 10:12:49.453  1046  1070 D AwareLog: iawared: WorkingsetSendPrereadMsg com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+08-16 10:12:49.453  1046  1070 D AwareLog: iawared: WorkingsetStart com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity in monitor0
+08-16 10:12:49.453  1636  1963 D ZrHung.AppEyeFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+08-16 10:12:49.453  1636  1963 D ZrHung.AppEyeTransparentWindow: TransparentWindow cancelCheckFreezeScreen
+08-16 10:12:49.456  2661  3071 D DollieActivityManagerAdapter: [Paused] pid:7774 uid:10431 ComponentInfo{com.example.dogglers/com.example.dogglers.HorizontalListActivity} uidState:2
+08-16 10:12:49.456  7774  7774 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@1f53f0a
+08-16 10:12:49.458  3386  7816 I HiAdKit.DC.PageSwitchEvent:  switch is off
+08-16 10:12:49.458  3386  7816 I HiAdKit.DC.PaymentPageSwitchEvent:  switch is off
+08-16 10:12:49.458  3386  7816 I HiAdKit.DC.LiteAppPageSwitchEvent:  switch is off
+08-16 10:12:49.459  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@a5d137b in: PRE_ON_CREATE
+08-16 10:12:49.459  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@a5d137b
+08-16 10:12:49.461  8174  8678 W m.huawei.hidis: resources.arsc in APK '/data/app/com.huawei.hwsearch-pVK3jw2xtjILIn6HwwmB7A==/base.apk' is compressed.
+08-16 10:12:49.462  7774  7774 I DecorView[]: pkgName:com.example.dogglers old windowMode:0 new windoMode:1, isFixedSize:false
+08-16 10:12:49.463  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@a5d137b in: CREATED
+08-16 10:12:49.464  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@a5d137b
+08-16 10:12:49.464  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@a5d137b in: STARTED
+08-16 10:12:49.464  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@a5d137b
+08-16 10:12:49.466  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@a5d137b in: RESUMED
+08-16 10:12:49.466  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@a5d137b
+08-16 10:12:49.467  1636  2920 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:49.467  9407  9651 W VideoCapabilities: Unrecognized profile/level 0/0 for video/mpeg2
+08-16 10:12:49.468  9407  9651 W VideoCapabilities: Unrecognized profile/level 0/2 for video/mpeg2
+08-16 10:12:49.468  9407  9651 W VideoCapabilities: Unrecognized profile/level 0/3 for video/mpeg2
+08-16 10:12:49.468  9407  9651 I VideoCapabilities: Unsupported profile 5 for video/mpeg2
+08-16 10:12:49.468  9407  9651 I chatty  : uid=10151(com.reddit.frontpage) RxCachedThreadS identical 2 lines
+08-16 10:12:49.468  9407  9651 I VideoCapabilities: Unsupported profile 5 for video/mpeg2
+08-16 10:12:49.469  7774  7774 D MouseWheelSynthesizer: mMoveStepInDp: 64, mMoveStepInPixel: 192, mUpTimeDelayed: 100
+08-16 10:12:49.469  7774  7774 D ViewRootImpl: ViewRootImpl mIsInProductivePCDisplay: false
+08-16 10:12:49.469  1636  2920 I HwPCUtils#HwRioViewManager: check if rio enable, displayId = 0， packageName = com.example.dogglers
+08-16 10:12:49.470  9407  9651 W VideoCapabilities: Unrecognized profile/level 1/32 for video/mp4v-es
+08-16 10:12:49.470  9407  9651 W VideoCapabilities: Unrecognized profile/level 32768/2 for video/mp4v-es
+08-16 10:12:49.470  9407  9651 W VideoCapabilities: Unrecognized profile/level 32768/64 for video/mp4v-es
+08-16 10:12:49.472  7774  7774 D InputEventReceiver: dispatchInputInterval 1000000
+08-16 10:12:49.474  7774  7774 D DecorView: showOrHideHighlightView: hasFocus=false; winMode=1; isMrgNull=true
+08-16 10:12:49.474  2661  2756 I Hicom_Monitor: mActivityNotifierEx, className = androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity, uid = 10431
+08-16 10:12:49.476  3386  7832 I HiAdKit.DC.PageSwitchEvent:  switch is off
+08-16 10:12:49.476  3386  7832 I HiAdKit.DC.PaymentPageSwitchEvent:  switch is off
+08-16 10:12:49.476  3386  7832 I HiAdKit.DC.LiteAppPageSwitchEvent:  switch is off
+08-16 10:12:49.476  6225  9809 I CAWARENESS_AppUsageManager: onEvent, packageName=com.example.dogglers, activityName=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+08-16 10:12:49.476  6225  9809 I CAWARENESS_AppUsageManager: fuse currently and delay publish
+08-16 10:12:49.477  2661  3071 D DollieActivityManagerAdapter: [Resumed] bg:false pid:7774 uid:10431 ComponentInfo{com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity}
+08-16 10:12:49.477  2661  3071 E DollieAdapterService: notifyActivityState pkg:com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity state:2 fg:true mUid:10431
+08-16 10:12:49.477  2661  3071 I OllieMsgCenter: publishEvt=2130771985
+08-16 10:12:49.477  2580 21526 I OPCollectLog: AppChangeImpl:call onAppChange.
+08-16 10:12:49.477  2580  6962 I OPCollectLog: HwForegroundAppAction:handleMessage
+08-16 10:12:49.477  2580  6962 D OPCollectLog: HwForegroundAppAction:FG executeWithArgs
+08-16 10:12:49.477  2580  6962 I OPCollectLog: OPCollectUtils:ODMF Api Version:2.16.3
+08-16 10:12:49.477  2580  6962 I OPCollectLog: Action:HwForegroundAppAction executed successfully
+08-16 10:12:49.477  2580  6962 D OPCollectLog: OdmfCollectScheduler:handleMessage msg: 4
+08-16 10:12:49.477  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache 1
+08-16 10:12:49.477  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache curTime: 574943572, interval: 102
+08-16 10:12:49.478  7774  9859 D HiTouch_PressGestureDetector: onAttached, package=com.example.dogglers, windowType=1, mIsHiTouchRestricted=false
+08-16 10:12:49.478  2580  6962 I OPCollectLog: OdmfHelper:isCharging: true
+08-16 10:12:49.480  2580  6962 I OPCollectLog: OdmfHelper:insert database success
+08-16 10:12:49.480  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache size: 1
+08-16 10:12:49.480  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache lastTime: 574943575
+08-16 10:12:49.480  1636  1660 D HwPhoneWindowManager: Transact:setSystemUIColor to status bar service
+08-16 10:12:49.480  1636  7411 D ZrHung.AppEyeFocusWindow: FocusWindowErrorScene cancelCheckFreezeScreen
+08-16 10:12:49.480  1636  7411 D ZrHung.AppEyeTransparentWindow: TransparentWindow mHungConfigStatus = 0,mHungConfigEnable = 1
+08-16 10:12:49.482  7774  7850 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+08-16 10:12:49.483  1636 15277 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:49.488  1636  2012 W Process : Unable to open /proc/-1/status
+08-16 10:12:49.488  2730  2730 I RmeSchedManager: init Rme, version is: v1.0
+08-16 10:12:49.495  7774  7774 D DecorView: showOrHideHighlightView: hasFocus=true; winMode=1; isMrgNull=true
+08-16 10:12:49.495  7774  7774 W InputMethodManager: startInputReason = 1
+08-16 10:12:49.495  7774  7774 W HwRemoteInputMethodManager: isCasting false because IHwDistributedWindowManager is invalid.
+08-16 10:12:49.503  1636  7411 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:49.506   757  1629 W BufferQueueProducer: [com.example.dogglers/com.example.dogglers.HorizontalListActivity#0]:1390: disconnect: not connected (req=1)
+08-16 10:12:49.506  7774  7850 W libEGL  : EGLNativeWindowType 0x76e4c263d0 disconnect failed
+08-16 10:12:49.513  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1cd4d92 in: STOPPED
+08-16 10:12:49.513  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1cd4d92
+08-16 10:12:49.516  1636  3033 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:49.517  1046  5076 D AwareLog: HiberManagerService::DoReclaim ok, pid=9776, reclaimMode=hiber_anon
+08-16 10:12:49.517  1046  5076 D AwareLog: GetReclaimResult:reclaimKb=5972, swapKb=5972, swapUs=27333
+08-16 10:12:49.517  1046  5076 D         : HibStrategy::HibStrategySwapCandidateProcessRemove packageName is com.huawei.hiai
+08-16 10:12:49.517  1046  5076 D AwareLog: HiberManagerService::SendMessageToHiberTask successful
+08-16 10:12:49.525  2690 22775 I KStateManager: send binder call message, called pid:752, calling pid:[1636]
+08-16 10:12:49.529  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1cd4d92 in: DESTROYED
+08-16 10:12:49.529  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1cd4d92
+08-16 10:12:49.530  1026  1152 D dubaid  : [BufferedLogServer.cpp] ReceiveMessage# Received buffered log from dubai_driver-0
+08-16 10:12:49.530  1026  1152 D dubaid  : [BufferedLogServer.cpp] ReceiveMessage# Received buffered log from dubai_driver-0
+08-16 10:12:49.531  2315  2315 E FullInputEventModel: onStartInput event aborted: fk.c0: could not obtain extracted text (class fk.c0)
+08-16 10:12:49.531  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@a5d137b in: PAUSED
+08-16 10:12:49.531  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@a5d137b
+08-16 10:12:49.533  1636  7411 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:49.536  1636 15277 D ZrHung.AppEyeFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+08-16 10:12:49.536  1636 15277 D ZrHung.AppEyeTransparentWindow: TransparentWindow cancelCheckFreezeScreen
+08-16 10:12:49.538   664 24580 I netd    : trafficSwapActiveStatsMap() <16.87ms>
+08-16 10:12:49.538  1046  1070 D AwareLog: iawared: WorkingsetProcessCommand subCmd = 352, userId=10431, pid=7774, com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+08-16 10:12:49.538  1046  1070 D AwareLog: iawared: WorkingsetStop com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+08-16 10:12:49.539  1046  1070 D AwareLog: iawared: WorkingsetProcessCommand subCmd = 350, userId=10431, pid=7774, com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+08-16 10:12:49.539  1046  1070 D AwareLog: iawared: WorkingsetSendPrereadMsg com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+08-16 10:12:49.539  1046  1070 D AwareLog: iawared: WorkingsetStart com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity in monitor0
+08-16 10:12:49.541  7774  7774 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@2a58f4f
+08-16 10:12:49.541  2661  3071 D DollieActivityManagerAdapter: [Paused] pid:7774 uid:10431 ComponentInfo{com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity} uidState:2
+08-16 10:12:49.542  3386  7833 I HiAdKit.DC.PageSwitchEvent:  switch is off
+08-16 10:12:49.542  3386  7833 I HiAdKit.DC.PaymentPageSwitchEvent:  switch is off
+08-16 10:12:49.542  3386  7833 I HiAdKit.DC.LiteAppPageSwitchEvent:  switch is off
+08-16 10:12:49.544  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@84246dc in: PRE_ON_CREATE
+08-16 10:12:49.544  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@84246dc
+08-16 10:12:49.547  7774  7774 I DecorView[]: pkgName:com.example.dogglers old windowMode:0 new windoMode:1, isFixedSize:false
+08-16 10:12:49.548  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@84246dc in: CREATED
+08-16 10:12:49.548  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@84246dc
+08-16 10:12:49.549  1636  2920 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:49.550  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@84246dc in: STARTED
+08-16 10:12:49.550  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@84246dc
+08-16 10:12:49.551  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@84246dc in: RESUMED
+08-16 10:12:49.552  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@84246dc
+08-16 10:12:49.552  7774  7774 D MouseWheelSynthesizer: mMoveStepInDp: 64, mMoveStepInPixel: 192, mUpTimeDelayed: 100
+08-16 10:12:49.553  7774  7774 D ViewRootImpl: ViewRootImpl mIsInProductivePCDisplay: false
+08-16 10:12:49.553  1636 15277 I HwPCUtils#HwRioViewManager: check if rio enable, displayId = 0， packageName = com.example.dogglers
+08-16 10:12:49.555   664 24580 I netd    : trafficSwapActiveStatsMap() <14.44ms>
+08-16 10:12:49.556  7774  7774 D InputEventReceiver: dispatchInputInterval 1000000
+08-16 10:12:49.558  7774  7774 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@d103cd5 in: STOPPED
+08-16 10:12:49.558  6225  9809 I CAWARENESS_AppUsageManager: Repeat info, don't need publish
+08-16 10:12:49.558  7774  7774 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.dogglers.HorizontalListActivity@d103cd5
+08-16 10:12:49.559  3386  7816 I HiAdKit.DC.PageSwitchEvent:  switch is off
+08-16 10:12:49.559  3386  7816 I HiAdKit.DC.PaymentPageSwitchEvent:  switch is off
+08-16 10:12:49.559  3386  7816 I HiAdKit.DC.LiteAppPageSwitchEvent:  switch is off
+08-16 10:12:49.559  7774  7774 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@d103cd5 in: DESTROYED
+08-16 10:12:49.559  7774  7774 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+08-16 10:12:49.560  2580 21526 I OPCollectLog: AppChangeImpl:call onAppChange.
+08-16 10:12:49.560  2580  6962 I OPCollectLog: HwForegroundAppAction:handleMessage
+08-16 10:12:49.560  2580  6962 D OPCollectLog: HwForegroundAppAction:FG executeWithArgs
+08-16 10:12:49.560  2580  6962 I OPCollectLog: OPCollectUtils:ODMF Api Version:2.16.3
+08-16 10:12:49.560  2580  6962 I OPCollectLog: Action:HwForegroundAppAction executed successfully
+08-16 10:12:49.560  2580  6962 D OPCollectLog: OdmfCollectScheduler:handleMessage msg: 4
+08-16 10:12:49.560  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache 1
+08-16 10:12:49.560  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache curTime: 574943655, interval: 80
+08-16 10:12:49.561  2661  2756 I Hicom_Monitor: mActivityNotifierEx, className = androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity, uid = 10431
+08-16 10:12:49.558  2661  3071 D DollieActivityManagerAdapter: [Resumed] bg:false pid:7774 uid:10431 ComponentInfo{com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity}
+08-16 10:12:49.561  2661  3071 E DollieAdapterService: notifyActivityState pkg:com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity state:2 fg:true mUid:10431
+08-16 10:12:49.561  2661  3071 I OllieMsgCenter: publishEvt=2130771985
+08-16 10:12:49.561  2580  6962 I OPCollectLog: OdmfHelper:isCharging: true
+08-16 10:12:49.566  1636  5869 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:49.571  7774  9864 D HiTouch_PressGestureDetector: onAttached, package=com.example.dogglers, windowType=1, mIsHiTouchRestricted=false
+08-16 10:12:49.574  1636  5869 D ZrHung.AppEyeFocusWindow: FocusWindowErrorScene cancelCheckFreezeScreen
+08-16 10:12:49.574  1636  5869 D ZrHung.AppEyeTransparentWindow: TransparentWindow mHungConfigStatus = 0,mHungConfigEnable = 1
+08-16 10:12:49.576  7774  7850 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+08-16 10:12:49.581  7774  7774 D DecorView: showOrHideHighlightView: hasFocus=false; winMode=1; isMrgNull=true
+08-16 10:12:49.582  7774  7774 D DecorView: showOrHideHighlightView: hasFocus=true; winMode=1; isMrgNull=true
+08-16 10:12:49.582  7774  7774 W InputMethodManager: startInputReason = 1
+08-16 10:12:49.582  7774  7774 W HwRemoteInputMethodManager: isCasting false because IHwDistributedWindowManager is invalid.
+08-16 10:12:49.583  1636 17378 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:49.584  2580  6962 I OPCollectLog: OdmfHelper:insert database success
+08-16 10:12:49.584  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache size: 1
+08-16 10:12:49.584  2580  6962 I OPCollectLog: OdmfHelper:opcollectCache lastTime: 574943679
+08-16 10:12:49.598  1636  5869 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:49.600   757  1629 W BufferQueueProducer: [com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0]:1390: disconnect: not connected (req=1)
+08-16 10:12:49.600  7774  7850 W libEGL  : EGLNativeWindowType 0x76da535110 disconnect failed
+08-16 10:12:49.615  1636  5869 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:49.618  6225  9809 I CAWARENESS_AppUsageManager: onEvent, packageName=com.huawei.android.launcher, activityName=com.huawei.android.launcher.unihome.UniHomeLauncher
+08-16 10:12:49.618  6225  9809 I CAWARENESS_AppUsageManager: fuse currently and delay publish
+08-16 10:12:49.618  2661  2756 I AssistantService-11.2.1.200: registerHwActivityNotifier call fromPackage:com.example.dogglers, toPackage:com.huawei.android.launcher
+08-16 10:12:49.619  2661  6711 D AssistantService-11.2.1.200: handleMessage app switch fromPackage:com.example.dogglers, toPackage:com.huawei.android.launcher
+08-16 10:12:49.619  2661 29501 I Hicom_Monitor: mAppSwitchNotifierEx. uid: 10065, foreground app: com.huawei.android.launcher, foreground activity: com.huawei.android.launcher.unihome.UniHomeLauncher
+08-16 10:12:49.619  2730 19837 W HwLauncher: ExitAppAnimationManager getAnimationInfoMyself, mAnimationInfo = com.huawei.android.launcher.exitapp.ExitAppAnimationManager$AnimationInfo@5347bfe
+08-16 10:12:49.619  2730  2730 W HwLauncher: RotationHelper hideAdjacentScreen, launcher is not transposed. RotationMode = com.huawei.android.launcher.graphics.RotationMode$1{293d90b surfaceRotation = 0.0,isTransposed = false}
+08-16 10:12:49.619  2661  3353 W Hicom_XEngineProc: handleForegroundAppChanged. Feature is not enable.
+08-16 10:12:49.620  2624 10575 I iconnect:BluetoothApi: adapter status 12
+08-16 10:12:49.620  2624 10575 I iconnect:NearbyDeviceDetect: isPropEnable=true, isBluetoothEnabled=true, isScreenOn=true, isNotSpecialAppOnTop=true, scanCondition=0
+08-16 10:12:49.620  2624 10575 I iconnect:DeviceStateMachineManager: report:NOT_SPECIAL_APP_ON_TOP device:D
+08-16 10:12:49.620  2624 10575 I iconnect:DeviceStateMachineManager: Return exist stateMachine
+08-16 10:12:49.620  1636 17378 D ZrHung.AppEyeFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+08-16 10:12:49.620  1636 17378 D ZrHung.AppEyeTransparentWindow: TransparentWindow cancelCheckFreezeScreen
+08-16 10:12:49.621  3386  7832 I HiAdKit.DC.PersistentMessageCenter:  notifyMessage com.huawei.hwid_app_switch_from_to_intent
+08-16 10:12:49.622  2690  3310 I ScenarioService: app focus change from: com.example.dogglers to:com.huawei.android.launcher
+08-16 10:12:49.622  2690  3310 I ScenarioService: add focus on app:com.huawei.android.launcher to visiblePkgs
+08-16 10:12:49.630  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@a5d137b in: STOPPED
+08-16 10:12:49.630  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@a5d137b
+08-16 10:12:49.631  2730  2730 I RmeSchedManager: init Rme, version is: v1.0
+08-16 10:12:49.631  2690  3310 I AppManager: dependence has been existed:1636 -> 9407
+08-16 10:12:49.632  2690  3438 I AppFastHibernation: wakeup com.reddit.frontpage for bindservice
+08-16 10:12:49.632  1636  3033 D InputDispatcher: Window handle WindowManager has no registered input channel
+08-16 10:12:49.632  1046 12149 I Pged-IPgedBinderService: ****action is 2, pid num is 2***
+08-16 10:12:49.632  1046 12149 I Pged-Freezer: thawPids
+08-16 10:12:49.632  1046 12149 I Pged-Freezer: Pid 9407 is not exist in vector
+08-16 10:12:49.632  2690  3436 D PgedBinderAdapter: unF_Z ok, pid: [9407]
+08-16 10:12:49.635  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@a5d137b in: DESTROYED
+08-16 10:12:49.635  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@a5d137b
+08-16 10:12:49.635  1636  2012 W AwareLog: SchedLevelBoost: onFgActivitiesChanged config not set!
+08-16 10:12:49.639  7774  7774 D RtgSchedIpcFile: setCommandByIoctl failed ret:-1, cmdid:23, errno:103
+08-16 10:12:49.639  7774  7774 D RtgSchedIpcFile: setCommandByIoctl failed ret:-1, cmdid:22, errno:103
+08-16 10:12:49.640  7774  7774 D RtgSchedIpcFile: setCommandByIoctl failed ret:-1, cmdid:23, errno:103
+08-16 10:12:49.640  7774  7774 D RtgSchedIpcFile: setCommandByIoctl failed ret:-1, cmdid:22, errno:103
+08-16 10:12:49.640  8174  8678 I Cloud[13.2.0.303]Base.FileHelper: getICSStoragePath locationSdcard = null ,locationPcard = /storage/emulated/0 ,uDiskStoragePath = null, appClonePath = null
+08-16 10:12:49.640  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: begin init appDataUtil appId = com.huawei.hwsearch
+08-16 10:12:49.641  7774  7774 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@84246dc in: PAUSED
+08-16 10:12:49.641  7774  7774 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@84246dc
+08-16 10:12:49.644  2690  3310 D ScenarioService: front pkg : com.huawei.android.launcher launcher: true
+08-16 10:12:49.644  2690  3310 I AppsUsage: scnOff:false FgAPP:com.huawei.android.launcher BgAPP:com.example.dogglers
+08-16 10:12:49.644  2690  3438 I PG_ash  : front pkg : com.huawei.android.launcher
+08-16 10:12:49.644  2690  3646 I PGServer: report state:10000 event type:2 pid:0 uid:0 pkg:com.example.dogglers to pid: 2690
+08-16 10:12:49.644  2690  3646 I SceneReceiver: state type: 10000 eventType:2 pid:0 uid:0 pkg:com.example.dogglers
+08-16 10:12:49.644  2690  3646 I PGServer: report state:10000 event type:2 pid:0 uid:0 pkg:com.example.dogglers to pid: 1636
+08-16 10:12:49.644  2690  3646 I PGServer: report state:10010 event type:1 pid:0 uid:0 pkg:com.huawei.android.launcher to pid: 2690
+08-16 10:12:49.644  2690  3646 I SceneReceiver: state type: 10010 eventType:1 pid:0 uid:0 pkg:com.huawei.android.launcher
+08-16 10:12:49.644  2690  3646 I ApsAppsTypeHandler: APS: APK: ApsAppsTypeHandler.getInstance, sInstance = com.huawei.android.hwaps.o@92bda0
+08-16 10:12:49.644  2690  3646 I PGServer: report state:10010 event type:1 pid:0 uid:0 pkg:com.huawei.android.launcher to pid: 1636
+08-16 10:12:49.645  1636  2920 I HwBastetService: current len less then 0, need return!
+08-16 10:12:49.645  1636  2920 I HwBastetService: current len less then 0, need return!
+08-16 10:12:49.645  2690 22775 I PGServer: checkPkgType. calling pkg: android
+08-16 10:12:49.645  2690 22775 I PGServer: checkPkgType. calling pkg: android
+08-16 10:12:49.646  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: initAppFileInfo
+08-16 10:12:49.648 26909 26909 I HiBoard_22.0.8.300_Workspace: onWindowVisibilityChanged：0 isOverlayClosed:true
+08-16 10:12:49.648 26909 26909 I HiBoard_22.0.8.300_ShareCodeClipboardHelper: removeClipboardView is executed!
+08-16 10:12:49.649  7774  7774 D RtgSchedIpcFile: setCommandByIoctl failed ret:-1, cmdid:23, errno:103
+08-16 10:12:49.650  7774  7774 D DecorView: showOrHideHighlightView: hasFocus=false; winMode=1; isMrgNull=true
+08-16 10:12:49.650  8174  8678 I Cloud[13.2.0.303]Sync.CloudBackupAppDataUtil: match appInfo by emui
+08-16 10:12:49.650  7774  7836 I TestRunner: finished: horizontal_scroll_content_at_last_position(com.example.dogglers.HorizontalListTests)
